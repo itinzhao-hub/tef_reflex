@@ -1,5 +1,5 @@
 {
-  "version": "TEF_REFLEX_CORE_0.3",
+  "version": "0.4-clip-refactor",
   "created_from": "User-provided TEF_NEW_1 through TEF_NEW_6 screenshots only. v0.3 expands authentic source diversity and adds task-reframing reinforcement without adding external corpus.",
   "counts": {
     "COMM_INTENT": 100,
@@ -93,5 +93,15 @@
     "derived_audio_texts_added": 0,
     "task_reframing_reinforcement": 120,
     "reserve_for_blind_test": true
+  },
+  "clip_policy": {
+    "COMM_INTENT": "mostly 5-18 words",
+    "LOGIC_STATE": "mostly 4-18 words",
+    "VERB_FRAME": "mostly 4-16 words",
+    "STANCE": "mostly 6-22 words",
+    "PARAPHRASE": "mostly 8-26 words",
+    "SHORT_MID": "24-46 words / Macro only",
+    "full_transcript_preserved_for_feedback": true,
+    "audio_generation_source": "data/audio_units.json"
   }
 }

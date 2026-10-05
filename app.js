@@ -420,16 +420,21 @@
     });
     els.listenStatus.textContent=reveal?'REVEALED':'WRONG'; els.statusIcon.textContent=reveal?'?':'✕';
     els.replayBtn.classList.add('hidden'); els.revealBtn.classList.add('hidden'); els.nextBtn.classList.remove('hidden');
-    const transcript=current.source?.transcript_original || current.audio?.text || '';
+    const fullTranscript=current.source?.transcript_original || '';
+    const clipText=current.clip?.text || current.audio?.text || fullTranscript;
     const key=current.answer_explanation?.key_span || '';
-    const highlighted=highlightSpan(transcript,key);
+    const highlighted=highlightSpan(clipText,key);
+    const fullBlock=(fullTranscript && fullTranscript!==clipText)
+      ? `<details class="full-source"><summary>查看完整真题原文</summary><div class="transcript muted">${escapeHtml(fullTranscript)}</div></details>` : '';
     els.feedback.innerHTML=`<h3>${reveal?'答案已揭示':'需要修正'}</h3>
+      <div class="muted">本题播放片段</div>
       <div class="transcript">${highlighted}</div>
       <div class="answer-line">正确答案：<strong>${escapeHtml(correct?.text||'—')}</strong></div>
       <div class="error-line">${escapeHtml(current.answer_explanation?.short_note||'')} ${errorTag && errorTag!=='REVEAL'?`<span class="muted">· ${escapeHtml(errorTag)}</span>`:''}</div>
-      <div class="controls"><button id="feedbackReplay" class="secondary">R · 带文本重听</button></div>`;
+      ${fullBlock}
+      <div class="controls"><button id="feedbackReplay" class="secondary">R · 带文本重听片段</button></div>`;
     els.feedback.classList.remove('hidden');
-    document.getElementById('feedbackReplay').onclick=()=>playFeedbackTTS(transcript);
+    document.getElementById('feedbackReplay').onclick=()=>playFeedbackTTS(clipText);
   }
 
   function playFeedbackTTS(text){

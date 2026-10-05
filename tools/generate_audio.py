@@ -5,7 +5,7 @@ from pathlib import Path
 from urllib import request, parse, error
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCES = ROOT / 'data' / 'source_units.json'
+SOURCES = ROOT / 'data' / 'audio_units.json'
 CFG = ROOT / 'config' / 'tts_config.json'
 AUDIO = ROOT / 'audio'
 MANIFEST = AUDIO / '_tts_manifest.json'
@@ -67,9 +67,9 @@ def synthesize(api_key, text, cfg, prof, retries=4):
 
 
 def main():
-    ap = argparse.ArgumentParser(description='Generate fixed Google Cloud TTS MP3s for TEF Reflex source units.')
-    ap.add_argument('--limit', type=int, default=0, help='Only generate first N source units; 0 = all.')
-    ap.add_argument('--ids', nargs='*', default=[], help='Optional explicit source_unit_id list.')
+    ap = argparse.ArgumentParser(description='Generate fixed Google Cloud TTS MP3s for TEF Reflex clip/audio units.')
+    ap.add_argument('--limit', type=int, default=0, help='Only generate first N audio units; 0 = all.')
+    ap.add_argument('--ids', nargs='*', default=[], help='Optional explicit audio_unit_id list.')
     ap.add_argument('--profiles', nargs='*', default=[], help='Optional profile names; default all.')
     ap.add_argument('--force', action='store_true', help='Regenerate even when fingerprint matches.')
     args = ap.parse_args()
@@ -78,7 +78,7 @@ def main():
     sources = load_json(SOURCES, [])
     if args.ids:
         wanted = set(args.ids)
-        sources = [s for s in sources if s['source_unit_id'] in wanted]
+        sources = [s for s in sources if s['audio_unit_id'] in wanted]
     if args.limit > 0: sources = sources[:args.limit]
     profiles = cfg['profiles']
     if args.profiles:
@@ -99,9 +99,9 @@ def main():
     print(f'Sources: {len(sources)} | profiles: {len(profiles)} | outputs: {total}')
 
     for si, src in enumerate(sources, 1):
-        sid = src['source_unit_id']; text = src['transcript']
+        sid = src['audio_unit_id']; text = src['transcript']
         for pname, prof in profiles.items():
-            rel = f'audio/{sid}__{pname}.mp3'
+            rel = f'audio/clips/{sid}__{pname}.mp3'
             out = ROOT / rel
             fp = fingerprint(text, cfg['language_code'], pname, prof, cfg.get('audio_encoding','MP3'))
             old = files.get(rel, {})
@@ -114,7 +114,7 @@ def main():
                 tmp = out.with_suffix('.mp3.tmp')
                 tmp.write_bytes(audio); tmp.replace(out)
                 files[rel] = {
-                    'source_unit_id': sid, 'profile': pname, 'voice': prof['voice'],
+                    'audio_unit_id': sid, 'profile': pname, 'voice': prof['voice'],
                     'speaking_rate': prof['speaking_rate'], 'pitch': prof['pitch'],
                     'fingerprint': fp, 'bytes': len(audio), 'generated_at': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
                 }

@@ -1,0 +1,2405 @@
+[
+  {
+    "audio_unit_id": "C_N1_01_f04ecfb9ba",
+    "parent_source_unit_id": "N1_01",
+    "source_set": "NEW_1",
+    "transcript": "Merci de surveiller vos enfants",
+    "full_transcript": "Mesdames, messieurs. Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N1_02_2206d1039f",
+    "parent_source_unit_id": "N1_02",
+    "source_set": "NEW_1",
+    "transcript": "les téléphones doivent être éteints",
+    "full_transcript": "Nous vous rappelons que les téléphones doivent être éteints durant toute la durée du film. Nous passerons dans la salle régulièrement pour vérifier que c'est bien le cas. Merci de votre compréhension !",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N1_03_605819f5dd",
+    "parent_source_unit_id": "N1_03",
+    "source_set": "NEW_1",
+    "transcript": "il ne vous reste que quelques heures pour profiter de réductions exceptionnelles",
+    "full_transcript": "Chères clientes, il ne vous reste que quelques heures pour profiter de réductions exceptionnelles au rayon Beauté au féminin, qui se situe au quatrième étage de notre centre commercial. Jusqu'à -50 % sur le maquillage, le soin du visage et la parfumerie. N'attendez plus !",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_N1_04_b3c32522c0",
+    "parent_source_unit_id": "N1_04",
+    "source_set": "NEW_1",
+    "transcript": "Nous atteindrons Cayo Largo à 11 h 30 heure locale comme prévu",
+    "full_transcript": "Mesdames, messieurs, je suis Anton Lewinsky, votre commandant, et je vous remercie d'avoir choisi Air Transat pour votre voyage vers Cuba. Nous atteindrons Cayo Largo à 11 h 30 heure locale comme prévu, après 4 h 15 de vol environ. Le personnel de bord se tient à votre entière disposition.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_N1_05_5c9cd9f309",
+    "parent_source_unit_id": "N1_05",
+    "source_set": "NEW_1",
+    "transcript": "savoir si tu vas bien",
+    "full_transcript": "Bon, c'était papa. J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps, bisous.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N1_06_26954cc104",
+    "parent_source_unit_id": "N1_06",
+    "source_set": "NEW_1",
+    "transcript": "Je ne peux pas venir",
+    "full_transcript": "Bonjour Fatiha, j'espère que vous aurez ce message rapidement. Je ne peux pas venir au cours d'arabe ce soir, mon fils est malade. Désolée de prévenir au dernier moment, et à la semaine prochaine !",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N1_07_3cd90abfcf",
+    "parent_source_unit_id": "N1_07",
+    "source_set": "NEW_1",
+    "transcript": "J'aimerais vous rencontrer",
+    "full_transcript": "Bonjour madame. Je suis madame Fekir de la société FK Pro. Vous m'avez laissé votre CV pour un poste d'agent d'accueil. J'aimerais vous rencontrer dès que possible. Vous pouvez me rappeler à ce numéro.",
+    "is_contiguous_excerpt": true,
+    "word_count": 3
+  },
+  {
+    "audio_unit_id": "C_N1_08_2c01cd0be0",
+    "parent_source_unit_id": "N1_08",
+    "source_set": "NEW_1",
+    "transcript": "susceptible d'être reporté ou annulé",
+    "full_transcript": "Bonjour monsieur Lévêque, c'est Gaëtan d'Orléans Express. Je vous appelle concernant votre voyage en autocar Montréal-Gaspé prévu pour demain matin à 7 heures. Compte tenu des conditions climatiques, le départ est susceptible d'être reporté ou annulé. Pouvez-vous me rappeler au 833-449-6441 ? Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N1_09_3d563e451d",
+    "parent_source_unit_id": "N1_09",
+    "source_set": "NEW_1",
+    "transcript": "Ça fait deux heures que j'attends les livreurs",
+    "full_transcript": "Allô, c'est encore monsieur Traoré concernant la livraison d'une machine à laver Midea rue Comoé. Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent. Rappelez-moi au plus vite !",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N1_10_252b875a51",
+    "parent_source_unit_id": "N1_10",
+    "source_set": "NEW_1",
+    "transcript": "il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ?",
+    "full_transcript": "Oui, Nadia, j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ? Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_N2_01_075fb1ef56",
+    "parent_source_unit_id": "N2_01",
+    "source_set": "NEW_2",
+    "transcript": "Le train à destination de Lyon Perrache, départ prévu à 18 h 44, partira voie 4.",
+    "full_transcript": "Votre attention s'il vous plaît. Le train à destination de Lyon Perrache, départ prévu à 18 h 44, partira voie 4. Les voyageurs sont invités à monter à bord.",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  },
+  {
+    "audio_unit_id": "C_N2_02_5f64948090",
+    "parent_source_unit_id": "N2_02",
+    "source_set": "NEW_2",
+    "transcript": "Venez découvrir un aperçu des numéros du cirque Cendrar.",
+    "full_transcript": "Approchez, approchez ! Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands !",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_N2_03_47f902c8e4",
+    "parent_source_unit_id": "N2_03",
+    "source_set": "NEW_2",
+    "transcript": "La baignade est donc interdite",
+    "full_transcript": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui. Merci de respecter le règlement et de surveiller vos enfants.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N2_04_58a2bc34a8",
+    "parent_source_unit_id": "N2_04",
+    "source_set": "NEW_2",
+    "transcript": "Il reste des places pour l'atelier d'initiation au dessin manga qui commence dans 30 minutes.",
+    "full_transcript": "Bienvenue au Salon international du livre du Québec. Il reste des places pour l'atelier d'initiation au dessin manga qui commence dans 30 minutes. Rendez-vous vite dans la zone jeunesse en face de l'entrée principale.",
+    "is_contiguous_excerpt": true,
+    "word_count": 15
+  },
+  {
+    "audio_unit_id": "C_N2_05_7e9bf15616",
+    "parent_source_unit_id": "N2_05",
+    "source_set": "NEW_2",
+    "transcript": "j'aimerais bien venir l'essayer",
+    "full_transcript": "Bonjour, je vous appelle concernant l'annonce pour la guitare électrique que vous vendez. Je suis intéressée, et j'aimerais bien venir l'essayer. Je vous rappellerai ce soir. Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N2_06_8483fd9e53",
+    "parent_source_unit_id": "N2_06",
+    "source_set": "NEW_2",
+    "transcript": "Ça te dirait de venir à la maison ?",
+    "full_transcript": "Hey Élie ! Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony. Allez, rappelle-moi, salut !",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_N2_07_07742d315c",
+    "parent_source_unit_id": "N2_07",
+    "source_set": "NEW_2",
+    "transcript": "J'ai besoin de ton aide",
+    "full_transcript": "Bonjour Émilie, c'est Adama. Est-ce que tu peux me rappeler ? J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier. Merci d'avance !",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N2_08_f665236fe5",
+    "parent_source_unit_id": "N2_08",
+    "source_set": "NEW_2",
+    "transcript": "vous pouvez entrer directement dans le cours de niveau B1",
+    "full_transcript": "Bonjour madame Ziyad, ici Zorah de l'Alliance française de Saf. Le professeur a regardé votre test de français, et il pense que vous pouvez entrer directement dans le cours de niveau B1. Je voulais savoir si ça vous intéressait. Pouvez-vous me rappeler pour en discuter ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_N2_09_0edc800481",
+    "parent_source_unit_id": "N2_09",
+    "source_set": "NEW_2",
+    "transcript": "Pourriez-vous essayer de la télétransmettre à nouveau ?",
+    "full_transcript": "Bonjour madame Doingt, c'est Victoria Darcy de la Régie de l'assurance maladie du Québec. Vous avez effectué une demande en ligne de remboursement, mais la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ? Je vous remercie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N2_10_0d3e92981b",
+    "parent_source_unit_id": "N2_10",
+    "source_set": "NEW_2",
+    "transcript": "Nous réalisons actuellement un sondage",
+    "full_transcript": "Bonjour. Antoine Flandin de l'institut IFPS. Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort. Je vous recontacterai dans la semaine, cela ne vous prendra que 5 minutes environ. Bonne fin de journée !",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N3_01_dd9f0b3245",
+    "parent_source_unit_id": "N3_01",
+    "source_set": "NEW_3",
+    "transcript": "l'entrée est gratuite pour les enfants de moins de 6 ans",
+    "full_transcript": "Bienvenue au Louvre Museum. En l'honneur de la Saint-Nicolas, l'entrée est gratuite pour les enfants de moins de 6 ans. Profitez de votre visite.",
+    "is_contiguous_excerpt": true,
+    "word_count": 11
+  },
+  {
+    "audio_unit_id": "C_N3_02_fa7d093865",
+    "parent_source_unit_id": "N3_02",
+    "source_set": "NEW_3",
+    "transcript": "Correspondance InterCity pour La Chaux-de-Fonds",
+    "full_transcript": "Mesdames et messieurs, nous arrivons en gare de Lausanne. Ce train continue à destination de Genève. Correspondance InterCity pour La Chaux-de-Fonds, prochain départ 14 h 45 voie 3. Correspondance InterRégion pour Fribourg, prochain départ 15 h 20 voie 1.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N3_03_2e60c1377d",
+    "parent_source_unit_id": "N3_03",
+    "source_set": "NEW_3",
+    "transcript": "il est formellement interdit d'allumer des feux",
+    "full_transcript": "Chers festivaliers, bienvenue au festival de la nuit étoilée. En raison de la météo aride, il est formellement interdit d'allumer des feux et de faire des barbecues dans l'enceinte du festival ainsi que sur l'aire de camping. Merci également de faire très attention à vos cigarettes.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N3_04_0a245180e2",
+    "parent_source_unit_id": "N3_04",
+    "source_set": "NEW_3",
+    "transcript": "recevez 2 passes au festival d'hiver de montagne d'une valeur de 60 dollars.",
+    "full_transcript": "Chers visiteurs, votre centre commercial Montagne Québec est partenaire du festival d'hiver de montagne. Jusqu'au 15 février, à l'achat de 150 dollars en carte cadeau du Dépit rapide de Parole, recevez 2 passes au festival d'hiver de montagne d'une valeur de 60 dollars. Rendez-vous au service à la clientèle pour tous les détails.",
+    "is_contiguous_excerpt": true,
+    "word_count": 13
+  },
+  {
+    "audio_unit_id": "C_N3_05_171018bc6f",
+    "parent_source_unit_id": "N3_05",
+    "source_set": "NEW_3",
+    "transcript": "je voudrais plus de renseignements",
+    "full_transcript": "Bonjour, j'ai vu votre annonce concernant un atelier de peinture, je suis intéressée mais je voudrais plus de renseignements. Pourriez-vous me rappeler au 0612345668 ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N3_06_fcf0f80220",
+    "parent_source_unit_id": "N3_06",
+    "source_set": "NEW_3",
+    "transcript": "Est-ce que tu pourrais regarder une dernière fois ?",
+    "full_transcript": "Salut Daniel, j'espère que tu vas bien. Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois ? Bon, je te rappelle, bisous ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_N3_07_795abd1fe0",
+    "parent_source_unit_id": "N3_07",
+    "source_set": "NEW_3",
+    "transcript": "Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo.",
+    "full_transcript": "Bonjour, ici le club cycliste du Grand Toronto. Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo. Pouvez-vous nous rappeler au 4169222672 ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_N3_08_00a37d66c3",
+    "parent_source_unit_id": "N3_08",
+    "source_set": "NEW_3",
+    "transcript": "je n'arrive toujours pas à le faire marcher",
+    "full_transcript": "Oui bonjour, j'ai commandé un piano chez vous. Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle. Est-ce que vous pouvez me rappeler ? Je suis monsieur John. Merci.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N3_09_3e87ad9918",
+    "parent_source_unit_id": "N3_09",
+    "source_set": "NEW_3",
+    "transcript": "le départ se fera devant le musée",
+    "full_transcript": "Bonjour, c'est Yvan de Vélo Express. Je vous appelle concernant votre balade prévue demain matin à 7 h. À cause des travaux à la piste cyclable Montréal-Berry, le départ se fera devant le musée d'art contemporain juste en face de la gare. Merci de votre compréhension.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N3_10_ee224cfdb7",
+    "parent_source_unit_id": "N3_10",
+    "source_set": "NEW_3",
+    "transcript": "venir vous présenter nos offres",
+    "full_transcript": "Oui, bonjour, ici Amélie Dubois de l'Académie des arts du Sénégal. Nous nous sommes rencontrés au Salon des entrepreneurs, vous étiez intéressée par des cours d'art pour vos collaborateurs. Je serais ravie de venir vous présenter nos offres. N'hésitez pas à me rappeler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N6_01_c1e8b777ed",
+    "parent_source_unit_id": "N6_01",
+    "source_set": "NEW_6",
+    "transcript": "Le train à destination de Nancy, départ prévu à 16 h 15, partira voie 5.",
+    "full_transcript": "Votre attention s'il vous plaît. Le train à destination de Nancy, départ prévu à 16 h 15, partira voie 5. Les voyageurs sont invités à monter à bord.",
+    "is_contiguous_excerpt": true,
+    "word_count": 15
+  },
+  {
+    "audio_unit_id": "C_N6_02_ea31d9f6fe",
+    "parent_source_unit_id": "N6_02",
+    "source_set": "NEW_6",
+    "transcript": "la pièce reprendra dans 5 minutes",
+    "full_transcript": "Mesdames et messieurs, la pièce reprendra dans 5 minutes. Nous vous rappelons que les téléphones doivent être éteints durant la représentation. Des agents passeront dans la salle régulièrement pour vérifier que c'est bien le cas. Merci pour votre compréhension.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N6_03_7f4de81f33",
+    "parent_source_unit_id": "N6_03",
+    "source_set": "NEW_6",
+    "transcript": "vous n'avez plus que quelques heures",
+    "full_transcript": "Chers clients, chères clientes, vous n'avez plus que quelques heures pour profiter de réductions exceptionnelles au rayon boucherie. Les cuisses de poulet et les côtes de porc sont à moins 50 %. Ne ratez pas cette aubaine, rendez-vous au rayon boucherie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N4_04_545e3b15d3",
+    "parent_source_unit_id": "N4_04",
+    "source_set": "NEW_4",
+    "transcript": "le parc sera temporairement fermé de février à mars.",
+    "full_transcript": "En raison de travaux d'entretien planifiés, le parc sera temporairement fermé de février à mars. Nous nous excusons pour tout inconvénient que cela pourrait causer et vous remercions de votre compréhension.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_N4_05_a8510bd5e9",
+    "parent_source_unit_id": "N4_05",
+    "source_set": "NEW_4",
+    "transcript": "Est-ce que tu pourrais me remplacer ?",
+    "full_transcript": "Tu es en congé vendredi, je voudrais te demander un service samedi. Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N4_06_8f6f9cd70d",
+    "parent_source_unit_id": "N4_06",
+    "source_set": "NEW_4",
+    "transcript": "est reportée à demain même heure",
+    "full_transcript": "Sébastien, t'as vu mon courriel ? La réunion de cet après-midi est reportée à demain même heure. Écoute, débrouille-toi mais sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N4_07_46b4bae1d0",
+    "parent_source_unit_id": "N4_07",
+    "source_set": "NEW_4",
+    "transcript": "je n'ai pas encore reçu les invitations",
+    "full_transcript": "Bonjour monsieur Granger de SM France. J'appelle pour vous dire que je n'ai pas encore reçu les invitations que vous deviez imprimer. J'en avais commandé mille et vous deviez me les livrer hier dernier délai. Veuillez me rappeler le plus vite possible. Merci.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N4_08_0731e0a0db",
+    "parent_source_unit_id": "N4_08",
+    "source_set": "NEW_4",
+    "transcript": "Nous proposons actuellement à nos abonnés une évaluation gratuite de la qualité de l'isolation thermique de leur habitation.",
+    "full_transcript": "Bonjour Paul Jouvet de votre agence EDF à Villeneuve-Saint-Georges. Nous proposons actuellement à nos abonnés une évaluation gratuite de la qualité de l'isolation thermique de leur habitation. Si vous êtes intéressé, veuillez reprendre contact avec moi.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_N4_09_2408960dbe",
+    "parent_source_unit_id": "N4_09",
+    "source_set": "NEW_4",
+    "transcript": "Nous souhaiterions donc vous rencontrer pour vous présenter de nouvelles possibilités qui se feront à vous dès la fin de l'année.",
+    "full_transcript": "Bonjour Céline Dufour de votre agence EDF de Massy. Nos agents sont actuellement sur votre commune qui va bientôt être raccordée au réseau de gaz. Nous souhaiterions donc vous rencontrer pour vous présenter de nouvelles possibilités qui se feront à vous dès la fin de l'année. N'hésitez pas à m'appeler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "C_N4_10_ff2f881fac",
+    "parent_source_unit_id": "N4_10",
+    "source_set": "NEW_4",
+    "transcript": "Pouvez-vous me dire où je peux le trouver",
+    "full_transcript": "Je m'excuse de vous déranger pendant vos vacances, c'est Chloé, le responsable du département. J'espère que vous profitez bien de votre temps libre. J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N5_01_b2846578de",
+    "parent_source_unit_id": "N5_01",
+    "source_set": "NEW_5",
+    "transcript": "Les vols à destination de Bali seront donc annulés",
+    "full_transcript": "En raison d'un événement naturel hors de notre contrôle, l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés. Les passagers concernés sont invités à se présenter au comptoir de la compagnie pour plus d'informations.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_N5_02_b087ae44ef",
+    "parent_source_unit_id": "N5_02",
+    "source_set": "NEW_5",
+    "transcript": "Des biscuits et la saveur exquise seront offerts gratuitement à l'avant de notre boutique.",
+    "full_transcript": "À l'occasion des week-ends du monde, plusieurs producteurs locaux se sont déplacés pour vous. Ils vous invitent à déguster leur spécialité culinaire toute la journée au rayon pâtisserie. Des biscuits et la saveur exquise seront offerts gratuitement à l'avant de notre boutique.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_N5_03_df9ddc0dc1",
+    "parent_source_unit_id": "N5_03",
+    "source_set": "NEW_5",
+    "transcript": "nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui.",
+    "full_transcript": "En raison d'un problème informatique bien involontaire de notre part, le logiciel pour le test n'ayant pas fonctionné pendant leur précédente et n'étant pas encore établi, nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée et nous vous prions de vous rendre à la réception afin que l'on puisse vous ajouter sur la liste pour la prochaine date d'examen.",
+    "is_contiguous_excerpt": true,
+    "word_count": 15
+  },
+  {
+    "audio_unit_id": "C_N5_04_8fdbb5f5d3",
+    "parent_source_unit_id": "N5_04",
+    "source_set": "NEW_5",
+    "transcript": "servir ce soir en français, en anglais et en espagnol",
+    "full_transcript": "Mon nom est Nathalie Martin, j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol afin de faire votre choix de menu. Veuillez consulter notre brochure.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_N5_05_8caac339cf",
+    "parent_source_unit_id": "N5_05",
+    "source_set": "NEW_5",
+    "transcript": "je vous rappelle pour vous demander si vous aviez besoin de plus de détails. Si vous êtes intéressé pour vous inscrire",
+    "full_transcript": "Bonjour monsieur, vous êtes venu visiter notre centre de sport la semaine dernière et je vous rappelle pour vous demander si vous aviez besoin de plus de détails. Si vous êtes intéressé pour vous inscrire, n'hésitez pas à me rappeler au 555598618. C'est demandez Sarah.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "C_N5_06_4bd958cb4b",
+    "parent_source_unit_id": "N5_06",
+    "source_set": "NEW_5",
+    "transcript": "suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous.",
+    "full_transcript": "Madame, suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous. Je suis disponible tous les jours du lundi au vendredi et les visites libres pourraient aussi se faire le samedi et dimanche. Je vous confirmerai les informations sur le premier appartement à visiter qui correspondra à vos attentes au Plaisir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_N5_07_0e86a93acc",
+    "parent_source_unit_id": "N5_07",
+    "source_set": "NEW_5",
+    "transcript": "peux-tu me confirmer la date",
+    "full_transcript": "Salut cousin, comment tu vas ? Dis-moi, peux-tu me confirmer la date de ton prochain concert ? Il faut que je le mette dans mon agenda, et est-ce qu'on doit acheter les billets sur place ou c'est possible de le faire en ligne ? Je sais que la dernière fois il ne restait que quelques places, je ne veux pas me retrouver sans billet. Alors fais-moi signe à plus.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N5_08_91a6579d25",
+    "parent_source_unit_id": "N5_08",
+    "source_set": "NEW_5",
+    "transcript": "je suis disponible mercredi matin de 9 h à 10 h au lieu de vendredi pour toute information complémentaire pour les devis.",
+    "full_transcript": "Bonjour, concernant votre demande de soumission pour vos fenêtres, je suis disponible mercredi matin de 9 h à 10 h au lieu de vendredi pour toute information complémentaire pour les devis. Si ça ne vous convient pas, merci de m'envoyer un courriel, je me fais un plaisir de vous trouver une solution.",
+    "is_contiguous_excerpt": true,
+    "word_count": 22
+  },
+  {
+    "audio_unit_id": "C_N6_04_800ddb9f0e",
+    "parent_source_unit_id": "N6_04",
+    "source_set": "NEW_6",
+    "transcript": "Il reste des places pour la conférence",
+    "full_transcript": "Bienvenue au salon Immigration Emploi Canada. Il reste des places pour la conférence Travailleurs qualifiés : dans quelle province immigrer ? Rendez-vous au chapiteau 18.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N5_10_3c3000f6c8",
+    "parent_source_unit_id": "N5_10",
+    "source_set": "NEW_5",
+    "transcript": "Vous avez demandé un remboursement ou bien un échange de billets à une date ultérieure. Selon moi le mieux serait tout de même de vous proposer une alternative convenable à propos du match.",
+    "full_transcript": "Bonjour madame, permettez-moi de vous retourner votre appel. Vous avez demandé un remboursement ou bien un échange de billets à une date ultérieure. Selon moi le mieux serait tout de même de vous proposer une alternative convenable à propos du match. Or oh qui aura lieu au samedi, rappelez-moi le plus vite possible, j'aurai quelque chose de très intéressant à vous offrir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 33
+  },
+  {
+    "audio_unit_id": "C_N1_01_e9b1a5be48",
+    "parent_source_unit_id": "N1_01",
+    "source_set": "NEW_1",
+    "transcript": "Les animaux du zoo peuvent être dangereux",
+    "full_transcript": "Mesdames, messieurs. Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N1_02_9c30b7cead",
+    "parent_source_unit_id": "N1_02",
+    "source_set": "NEW_1",
+    "transcript": "durant toute la durée du film",
+    "full_transcript": "Nous vous rappelons que les téléphones doivent être éteints durant toute la durée du film. Nous passerons dans la salle régulièrement pour vérifier que c'est bien le cas. Merci de votre compréhension !",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N1_03_ff68059c0e",
+    "parent_source_unit_id": "N1_03",
+    "source_set": "NEW_1",
+    "transcript": "il ne vous reste que quelques heures",
+    "full_transcript": "Chères clientes, il ne vous reste que quelques heures pour profiter de réductions exceptionnelles au rayon Beauté au féminin, qui se situe au quatrième étage de notre centre commercial. Jusqu'à -50 % sur le maquillage, le soin du visage et la parfumerie. N'attendez plus !",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N1_05_5144ecc996",
+    "parent_source_unit_id": "N1_05",
+    "source_set": "NEW_1",
+    "transcript": "Rappelle-moi quand tu as le temps",
+    "full_transcript": "Bon, c'était papa. J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps, bisous.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N1_06_9104ce6311",
+    "parent_source_unit_id": "N1_06",
+    "source_set": "NEW_1",
+    "transcript": "mon fils est malade",
+    "full_transcript": "Bonjour Fatiha, j'espère que vous aurez ce message rapidement. Je ne peux pas venir au cours d'arabe ce soir, mon fils est malade. Désolée de prévenir au dernier moment, et à la semaine prochaine !",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N1_07_0dcb264039",
+    "parent_source_unit_id": "N1_07",
+    "source_set": "NEW_1",
+    "transcript": "vous rencontrer dès que possible",
+    "full_transcript": "Bonjour madame. Je suis madame Fekir de la société FK Pro. Vous m'avez laissé votre CV pour un poste d'agent d'accueil. J'aimerais vous rencontrer dès que possible. Vous pouvez me rappeler à ce numéro.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N1_10_b93d9237a0",
+    "parent_source_unit_id": "N1_10",
+    "source_set": "NEW_1",
+    "transcript": "Il est très bien, mais il me semble qu'il manque un point important.",
+    "full_transcript": "Oui, Nadia, j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ? Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 13
+  },
+  {
+    "audio_unit_id": "C_N2_01_e4c70eeebd",
+    "parent_source_unit_id": "N2_01",
+    "source_set": "NEW_2",
+    "transcript": "partira voie 4",
+    "full_transcript": "Votre attention s'il vous plaît. Le train à destination de Lyon Perrache, départ prévu à 18 h 44, partira voie 4. Les voyageurs sont invités à monter à bord.",
+    "is_contiguous_excerpt": true,
+    "word_count": 3
+  },
+  {
+    "audio_unit_id": "C_N2_02_748ab4221e",
+    "parent_source_unit_id": "N2_02",
+    "source_set": "NEW_2",
+    "transcript": "c'est gratuit pour les petits comme pour les grands !",
+    "full_transcript": "Approchez, approchez ! Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands !",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_N2_03_4d31c7a1fe",
+    "parent_source_unit_id": "N2_03",
+    "source_set": "NEW_2",
+    "transcript": "En raison de vents violents et de très forts courants",
+    "full_transcript": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui. Merci de respecter le règlement et de surveiller vos enfants.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_N2_04_f17b676f69",
+    "parent_source_unit_id": "N2_04",
+    "source_set": "NEW_2",
+    "transcript": "commence dans 30 minutes",
+    "full_transcript": "Bienvenue au Salon international du livre du Québec. Il reste des places pour l'atelier d'initiation au dessin manga qui commence dans 30 minutes. Rendez-vous vite dans la zone jeunesse en face de l'entrée principale.",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N2_05_05be487cc5",
+    "parent_source_unit_id": "N2_05",
+    "source_set": "NEW_2",
+    "transcript": "et j'aimerais bien venir l'essayer.",
+    "full_transcript": "Bonjour, je vous appelle concernant l'annonce pour la guitare électrique que vous vendez. Je suis intéressée, et j'aimerais bien venir l'essayer. Je vous rappellerai ce soir. Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N2_06_7229e1597a",
+    "parent_source_unit_id": "N2_06",
+    "source_set": "NEW_2",
+    "transcript": "Mes parents partent de vendredi à dimanche",
+    "full_transcript": "Hey Élie ! Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony. Allez, rappelle-moi, salut !",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N2_07_8db87061e4",
+    "parent_source_unit_id": "N2_07",
+    "source_set": "NEW_2",
+    "transcript": "je n'arrive pas à modifier",
+    "full_transcript": "Bonjour Émilie, c'est Adama. Est-ce que tu peux me rappeler ? J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier. Merci d'avance !",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N2_08_45ca2dce6d",
+    "parent_source_unit_id": "N2_08",
+    "source_set": "NEW_2",
+    "transcript": "cours de niveau B1",
+    "full_transcript": "Bonjour madame Ziyad, ici Zorah de l'Alliance française de Saf. Le professeur a regardé votre test de français, et il pense que vous pouvez entrer directement dans le cours de niveau B1. Je voulais savoir si ça vous intéressait. Pouvez-vous me rappeler pour en discuter ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N2_09_3dffcc5e32",
+    "parent_source_unit_id": "N2_09",
+    "source_set": "NEW_2",
+    "transcript": "la facture n'a pas été enregistrée correctement",
+    "full_transcript": "Bonjour madame Doingt, c'est Victoria Darcy de la Régie de l'assurance maladie du Québec. Vous avez effectué une demande en ligne de remboursement, mais la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ? Je vous remercie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N2_10_cdd8097b12",
+    "parent_source_unit_id": "N2_10",
+    "source_set": "NEW_2",
+    "transcript": "Je vous recontacterai dans la semaine",
+    "full_transcript": "Bonjour. Antoine Flandin de l'institut IFPS. Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort. Je vous recontacterai dans la semaine, cela ne vous prendra que 5 minutes environ. Bonne fin de journée !",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N3_01_4e3de6e7ef",
+    "parent_source_unit_id": "N3_01",
+    "source_set": "NEW_3",
+    "transcript": "moins de 6 ans",
+    "full_transcript": "Bienvenue au Louvre Museum. En l'honneur de la Saint-Nicolas, l'entrée est gratuite pour les enfants de moins de 6 ans. Profitez de votre visite.",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N3_02_c3a7d59eb2",
+    "parent_source_unit_id": "N3_02",
+    "source_set": "NEW_3",
+    "transcript": "continue à destination de Genève",
+    "full_transcript": "Mesdames et messieurs, nous arrivons en gare de Lausanne. Ce train continue à destination de Genève. Correspondance InterCity pour La Chaux-de-Fonds, prochain départ 14 h 45 voie 3. Correspondance InterRégion pour Fribourg, prochain départ 15 h 20 voie 1.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N3_03_ea9d359ce3",
+    "parent_source_unit_id": "N3_03",
+    "source_set": "NEW_3",
+    "transcript": "En raison de la météo aride",
+    "full_transcript": "Chers festivaliers, bienvenue au festival de la nuit étoilée. En raison de la météo aride, il est formellement interdit d'allumer des feux et de faire des barbecues dans l'enceinte du festival ainsi que sur l'aire de camping. Merci également de faire très attention à vos cigarettes.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N3_04_1f3a84e8a4",
+    "parent_source_unit_id": "N3_04",
+    "source_set": "NEW_3",
+    "transcript": "à l'achat de 150 dollars en carte cadeau",
+    "full_transcript": "Chers visiteurs, votre centre commercial Montagne Québec est partenaire du festival d'hiver de montagne. Jusqu'au 15 février, à l'achat de 150 dollars en carte cadeau du Dépit rapide de Parole, recevez 2 passes au festival d'hiver de montagne d'une valeur de 60 dollars. Rendez-vous au service à la clientèle pour tous les détails.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N3_06_17caf6ca86",
+    "parent_source_unit_id": "N3_06",
+    "source_set": "NEW_3",
+    "transcript": "le problème n'est pas résolu",
+    "full_transcript": "Salut Daniel, j'espère que tu vas bien. Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois ? Bon, je te rappelle, bisous ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N3_07_8ff245a378",
+    "parent_source_unit_id": "N3_07",
+    "source_set": "NEW_3",
+    "transcript": "un justificatif concernant votre vélo",
+    "full_transcript": "Bonjour, ici le club cycliste du Grand Toronto. Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo. Pouvez-vous nous rappeler au 4169222672 ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N3_08_d96dc10718",
+    "parent_source_unit_id": "N3_08",
+    "source_set": "NEW_3",
+    "transcript": "pourtant j'ai tout installé correctement",
+    "full_transcript": "Oui bonjour, j'ai commandé un piano chez vous. Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle. Est-ce que vous pouvez me rappeler ? Je suis monsieur John. Merci.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N3_09_0942decb2a",
+    "parent_source_unit_id": "N3_09",
+    "source_set": "NEW_3",
+    "transcript": "À cause des travaux",
+    "full_transcript": "Bonjour, c'est Yvan de Vélo Express. Je vous appelle concernant votre balade prévue demain matin à 7 h. À cause des travaux à la piste cyclable Montréal-Berry, le départ se fera devant le musée d'art contemporain juste en face de la gare. Merci de votre compréhension.",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N3_10_700e683e99",
+    "parent_source_unit_id": "N3_10",
+    "source_set": "NEW_3",
+    "transcript": "Nous nous sommes rencontrés au Salon des entrepreneurs",
+    "full_transcript": "Oui, bonjour, ici Amélie Dubois de l'Académie des arts du Sénégal. Nous nous sommes rencontrés au Salon des entrepreneurs, vous étiez intéressée par des cours d'art pour vos collaborateurs. Je serais ravie de venir vous présenter nos offres. N'hésitez pas à me rappeler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N6_01_812ce10065",
+    "parent_source_unit_id": "N6_01",
+    "source_set": "NEW_6",
+    "transcript": "partira voie 5",
+    "full_transcript": "Votre attention s'il vous plaît. Le train à destination de Nancy, départ prévu à 16 h 15, partira voie 5. Les voyageurs sont invités à monter à bord.",
+    "is_contiguous_excerpt": true,
+    "word_count": 3
+  },
+  {
+    "audio_unit_id": "C_N6_02_8873e3a88c",
+    "parent_source_unit_id": "N6_02",
+    "source_set": "NEW_6",
+    "transcript": "reprendra dans 5 minutes",
+    "full_transcript": "Mesdames et messieurs, la pièce reprendra dans 5 minutes. Nous vous rappelons que les téléphones doivent être éteints durant la représentation. Des agents passeront dans la salle régulièrement pour vérifier que c'est bien le cas. Merci pour votre compréhension.",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N6_03_a2509bb3f8",
+    "parent_source_unit_id": "N6_03",
+    "source_set": "NEW_6",
+    "transcript": "plus que quelques heures",
+    "full_transcript": "Chers clients, chères clientes, vous n'avez plus que quelques heures pour profiter de réductions exceptionnelles au rayon boucherie. Les cuisses de poulet et les côtes de porc sont à moins 50 %. Ne ratez pas cette aubaine, rendez-vous au rayon boucherie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N4_04_c64e1abd72",
+    "parent_source_unit_id": "N4_04",
+    "source_set": "NEW_4",
+    "transcript": "En raison de travaux d'entretien planifiés",
+    "full_transcript": "En raison de travaux d'entretien planifiés, le parc sera temporairement fermé de février à mars. Nous nous excusons pour tout inconvénient que cela pourrait causer et vous remercions de votre compréhension.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N4_05_a2cccc15f9",
+    "parent_source_unit_id": "N4_05",
+    "source_set": "NEW_4",
+    "transcript": "Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi.",
+    "full_transcript": "Tu es en congé vendredi, je voudrais te demander un service samedi. Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_N4_07_36b8188c7f",
+    "parent_source_unit_id": "N4_07",
+    "source_set": "NEW_4",
+    "transcript": "je n'ai pas encore reçu",
+    "full_transcript": "Bonjour monsieur Granger de SM France. J'appelle pour vous dire que je n'ai pas encore reçu les invitations que vous deviez imprimer. J'en avais commandé mille et vous deviez me les livrer hier dernier délai. Veuillez me rappeler le plus vite possible. Merci.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N4_08_72ff1731ec",
+    "parent_source_unit_id": "N4_08",
+    "source_set": "NEW_4",
+    "transcript": "une évaluation gratuite",
+    "full_transcript": "Bonjour Paul Jouvet de votre agence EDF à Villeneuve-Saint-Georges. Nous proposons actuellement à nos abonnés une évaluation gratuite de la qualité de l'isolation thermique de leur habitation. Si vous êtes intéressé, veuillez reprendre contact avec moi.",
+    "is_contiguous_excerpt": true,
+    "word_count": 3
+  },
+  {
+    "audio_unit_id": "C_N4_09_4aa3489633",
+    "parent_source_unit_id": "N4_09",
+    "source_set": "NEW_4",
+    "transcript": "va bientôt être raccordée au réseau de gaz",
+    "full_transcript": "Bonjour Céline Dufour de votre agence EDF de Massy. Nos agents sont actuellement sur votre commune qui va bientôt être raccordée au réseau de gaz. Nous souhaiterions donc vous rencontrer pour vous présenter de nouvelles possibilités qui se feront à vous dès la fin de l'année. N'hésitez pas à m'appeler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N4_10_8cf1a0e729",
+    "parent_source_unit_id": "N4_10",
+    "source_set": "NEW_4",
+    "transcript": "J'ai besoin d'accéder au dossier",
+    "full_transcript": "Je m'excuse de vous déranger pendant vos vacances, c'est Chloé, le responsable du département. J'espère que vous profitez bien de votre temps libre. J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N5_01_97425724eb",
+    "parent_source_unit_id": "N5_01",
+    "source_set": "NEW_5",
+    "transcript": "l'aéroport de Denpasar sera fermé",
+    "full_transcript": "En raison d'un événement naturel hors de notre contrôle, l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés. Les passagers concernés sont invités à se présenter au comptoir de la compagnie pour plus d'informations.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N5_03_99c6b87878",
+    "parent_source_unit_id": "N5_03",
+    "source_set": "NEW_5",
+    "transcript": "En raison d'un problème informatique",
+    "full_transcript": "En raison d'un problème informatique bien involontaire de notre part, le logiciel pour le test n'ayant pas fonctionné pendant leur précédente et n'étant pas encore établi, nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée et nous vous prions de vous rendre à la réception afin que l'on puisse vous ajouter sur la liste pour la prochaine date d'examen.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N5_04_07d06356e1",
+    "parent_source_unit_id": "N5_04",
+    "source_set": "NEW_5",
+    "transcript": "en français, en anglais et en espagnol",
+    "full_transcript": "Mon nom est Nathalie Martin, j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol afin de faire votre choix de menu. Veuillez consulter notre brochure.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N5_05_7ef10f60bb",
+    "parent_source_unit_id": "N5_05",
+    "source_set": "NEW_5",
+    "transcript": "n'hésitez pas à me rappeler",
+    "full_transcript": "Bonjour monsieur, vous êtes venu visiter notre centre de sport la semaine dernière et je vous rappelle pour vous demander si vous aviez besoin de plus de détails. Si vous êtes intéressé pour vous inscrire, n'hésitez pas à me rappeler au 555598618. C'est demandez Sarah.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_N5_06_2d3e32dc9d",
+    "parent_source_unit_id": "N5_06",
+    "source_set": "NEW_5",
+    "transcript": "Je suis disponible tous les jours du lundi au vendredi et les visites libres pourraient aussi se faire le samedi et dimanche.",
+    "full_transcript": "Madame, suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous. Je suis disponible tous les jours du lundi au vendredi et les visites libres pourraient aussi se faire le samedi et dimanche. Je vous confirmerai les informations sur le premier appartement à visiter qui correspondra à vos attentes au Plaisir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 22
+  },
+  {
+    "audio_unit_id": "C_N5_07_506b6a3eca",
+    "parent_source_unit_id": "N5_07",
+    "source_set": "NEW_5",
+    "transcript": "la dernière fois il ne restait que quelques places",
+    "full_transcript": "Salut cousin, comment tu vas ? Dis-moi, peux-tu me confirmer la date de ton prochain concert ? Il faut que je le mette dans mon agenda, et est-ce qu'on doit acheter les billets sur place ou c'est possible de le faire en ligne ? Je sais que la dernière fois il ne restait que quelques places, je ne veux pas me retrouver sans billet. Alors fais-moi signe à plus.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_N5_08_a532f7111c",
+    "parent_source_unit_id": "N5_08",
+    "source_set": "NEW_5",
+    "transcript": "mercredi matin de 9 h à 10 h au lieu de vendredi",
+    "full_transcript": "Bonjour, concernant votre demande de soumission pour vos fenêtres, je suis disponible mercredi matin de 9 h à 10 h au lieu de vendredi pour toute information complémentaire pour les devis. Si ça ne vous convient pas, merci de m'envoyer un courriel, je me fais un plaisir de vous trouver une solution.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_N6_04_9a88c140f0",
+    "parent_source_unit_id": "N6_04",
+    "source_set": "NEW_6",
+    "transcript": "Il reste des places",
+    "full_transcript": "Bienvenue au salon Immigration Emploi Canada. Il reste des places pour la conférence Travailleurs qualifiés : dans quelle province immigrer ? Rendez-vous au chapiteau 18.",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_N5_10_81ad9245e9",
+    "parent_source_unit_id": "N5_10",
+    "source_set": "NEW_5",
+    "transcript": "Selon moi le mieux serait tout de même de vous proposer une alternative convenable à propos du match.",
+    "full_transcript": "Bonjour madame, permettez-moi de vous retourner votre appel. Vous avez demandé un remboursement ou bien un échange de billets à une date ultérieure. Selon moi le mieux serait tout de même de vous proposer une alternative convenable à propos du match. Or oh qui aura lieu au samedi, rappelez-moi le plus vite possible, j'aurai quelque chose de très intéressant à vous offrir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_N1_07_802964e39c",
+    "parent_source_unit_id": "N1_07",
+    "source_set": "NEW_1",
+    "transcript": "Vous m'avez laissé votre CV pour un poste d'agent d'accueil. J'aimerais vous rencontrer dès que possible.",
+    "full_transcript": "Bonjour madame. Je suis madame Fekir de la société FK Pro. Vous m'avez laissé votre CV pour un poste d'agent d'accueil. J'aimerais vous rencontrer dès que possible. Vous pouvez me rappeler à ce numéro.",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  },
+  {
+    "audio_unit_id": "C_N1_08_7d04a30a1b",
+    "parent_source_unit_id": "N1_08",
+    "source_set": "NEW_1",
+    "transcript": "Pouvez-vous me rappeler au 833-449-6441 ?",
+    "full_transcript": "Bonjour monsieur Lévêque, c'est Gaëtan d'Orléans Express. Je vous appelle concernant votre voyage en autocar Montréal-Gaspé prévu pour demain matin à 7 heures. Compte tenu des conditions climatiques, le départ est susceptible d'être reporté ou annulé. Pouvez-vous me rappeler au 833-449-6441 ? Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_N1_10_4b5cce36c1",
+    "parent_source_unit_id": "N1_10",
+    "source_set": "NEW_1",
+    "transcript": "Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ?",
+    "full_transcript": "Oui, Nadia, j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ? Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 19
+  },
+  {
+    "audio_unit_id": "C_N2_05_f46f564355",
+    "parent_source_unit_id": "N2_05",
+    "source_set": "NEW_2",
+    "transcript": "Je suis intéressée, et j'aimerais bien venir l'essayer.",
+    "full_transcript": "Bonjour, je vous appelle concernant l'annonce pour la guitare électrique que vous vendez. Je suis intéressée, et j'aimerais bien venir l'essayer. Je vous rappellerai ce soir. Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_N2_07_a774a73a56",
+    "parent_source_unit_id": "N2_07",
+    "source_set": "NEW_2",
+    "transcript": "J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier.",
+    "full_transcript": "Bonjour Émilie, c'est Adama. Est-ce que tu peux me rappeler ? J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier. Merci d'avance !",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_N2_08_2ff5c1adf4",
+    "parent_source_unit_id": "N2_08",
+    "source_set": "NEW_2",
+    "transcript": "il pense que vous pouvez entrer directement dans le cours de niveau B1.",
+    "full_transcript": "Bonjour madame Ziyad, ici Zorah de l'Alliance française de Saf. Le professeur a regardé votre test de français, et il pense que vous pouvez entrer directement dans le cours de niveau B1. Je voulais savoir si ça vous intéressait. Pouvez-vous me rappeler pour en discuter ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 13
+  },
+  {
+    "audio_unit_id": "C_N3_06_bd47074876",
+    "parent_source_unit_id": "N3_06",
+    "source_set": "NEW_3",
+    "transcript": "Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois ?",
+    "full_transcript": "Salut Daniel, j'espère que tu vas bien. Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois ? Bon, je te rappelle, bisous ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "C_N3_07_445168ab6f",
+    "parent_source_unit_id": "N3_07",
+    "source_set": "NEW_3",
+    "transcript": "il manque un justificatif concernant votre vélo",
+    "full_transcript": "Bonjour, ici le club cycliste du Grand Toronto. Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo. Pouvez-vous nous rappeler au 4169222672 ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_N3_08_cc6b2f81f6",
+    "parent_source_unit_id": "N3_08",
+    "source_set": "NEW_3",
+    "transcript": "Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement.",
+    "full_transcript": "Oui bonjour, j'ai commandé un piano chez vous. Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle. Est-ce que vous pouvez me rappeler ? Je suis monsieur John. Merci.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_N3_10_a3db886c0f",
+    "parent_source_unit_id": "N3_10",
+    "source_set": "NEW_3",
+    "transcript": "Je serais ravie de venir vous présenter nos offres.",
+    "full_transcript": "Oui, bonjour, ici Amélie Dubois de l'Académie des arts du Sénégal. Nous nous sommes rencontrés au Salon des entrepreneurs, vous étiez intéressée par des cours d'art pour vos collaborateurs. Je serais ravie de venir vous présenter nos offres. N'hésitez pas à me rappeler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_N4_10_67521791c0",
+    "parent_source_unit_id": "N4_10",
+    "source_set": "NEW_4",
+    "transcript": "Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne ?",
+    "full_transcript": "Je m'excuse de vous déranger pendant vos vacances, c'est Chloé, le responsable du département. J'espère que vous profitez bien de votre temps libre. J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 15
+  },
+  {
+    "audio_unit_id": "C_N5_03_7f1bd0b1b0",
+    "parent_source_unit_id": "N5_03",
+    "source_set": "NEW_5",
+    "transcript": "nous vous prions de vous rendre à la réception afin que l'on puisse vous ajouter sur la liste pour la prochaine date d'examen.",
+    "full_transcript": "En raison d'un problème informatique bien involontaire de notre part, le logiciel pour le test n'ayant pas fonctionné pendant leur précédente et n'étant pas encore établi, nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée et nous vous prions de vous rendre à la réception afin que l'on puisse vous ajouter sur la liste pour la prochaine date d'examen.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "C_N5_05_eed723ea26",
+    "parent_source_unit_id": "N5_05",
+    "source_set": "NEW_5",
+    "transcript": "je vous rappelle pour vous demander si vous aviez besoin de plus de détails.",
+    "full_transcript": "Bonjour monsieur, vous êtes venu visiter notre centre de sport la semaine dernière et je vous rappelle pour vous demander si vous aviez besoin de plus de détails. Si vous êtes intéressé pour vous inscrire, n'hésitez pas à me rappeler au 555598618. C'est demandez Sarah.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_N5_07_420fb1576d",
+    "parent_source_unit_id": "N5_07",
+    "source_set": "NEW_5",
+    "transcript": "peux-tu me confirmer la date de ton prochain concert ?",
+    "full_transcript": "Salut cousin, comment tu vas ? Dis-moi, peux-tu me confirmer la date de ton prochain concert ? Il faut que je le mette dans mon agenda, et est-ce qu'on doit acheter les billets sur place ou c'est possible de le faire en ligne ? Je sais que la dernière fois il ne restait que quelques places, je ne veux pas me retrouver sans billet. Alors fais-moi signe à plus.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_N5_08_d2cfac0cab",
+    "parent_source_unit_id": "N5_08",
+    "source_set": "NEW_5",
+    "transcript": "Si ça ne vous convient pas, merci de m'envoyer un courriel, je me fais un plaisir de vous trouver une solution.",
+    "full_transcript": "Bonjour, concernant votre demande de soumission pour vos fenêtres, je suis disponible mercredi matin de 9 h à 10 h au lieu de vendredi pour toute information complémentaire pour les devis. Si ça ne vous convient pas, merci de m'envoyer un courriel, je me fais un plaisir de vous trouver une solution.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "C_ST_N3_ORIG_P1_ffa269f2ac",
+    "parent_source_unit_id": "ST_N3_ORIG_P1",
+    "source_set": "NEW_3",
+    "transcript": "j'en achète parfois si c'est pas trop cher",
+    "full_transcript": "Il y a l'origine locale, ça c'est bien pour soutenir l'économie locale, j'en achète parfois si c'est pas trop cher.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_ST_N3_ORIG_P2_d18d0aab4d",
+    "parent_source_unit_id": "ST_N3_ORIG_P2",
+    "source_set": "NEW_3",
+    "transcript": "Je ne consomme que des produits garantissant le bien-être animal, et pour ça il faut de la transparence, donc des produits avec une origine claire",
+    "full_transcript": "Je ne consomme que des produits garantissant le bien-être animal, et pour ça il faut de la transparence, donc des produits avec une origine claire, c'est pas si compliqué.",
+    "is_contiguous_excerpt": true,
+    "word_count": 25
+  },
+  {
+    "audio_unit_id": "C_ST_N3_ORIG_P3_78ca598228",
+    "parent_source_unit_id": "ST_N3_ORIG_P3",
+    "source_set": "NEW_3",
+    "transcript": "Je privilégie le local, le fait maison.",
+    "full_transcript": "Du bio provenant de l'autre bout du monde, non merci, il faut arrêter avec ces concepts marketing. Je privilégie le local, le fait maison.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_ST_N3_SAVE_P1_eacf05557c",
+    "parent_source_unit_id": "ST_N3_SAVE_P1",
+    "source_set": "NEW_3",
+    "transcript": "je mets de côté tout ce que je peux pour construire une maison dans mon village natal en Kabylie et y passer ma retraite.",
+    "full_transcript": "Je vis à Alger pour le travail mais depuis 10 ans, je mets de côté tout ce que je peux pour construire une maison dans mon village natal en Kabylie et y passer ma retraite.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_ST_N3_SAVE_P2_1f1cd2e64f",
+    "parent_source_unit_id": "ST_N3_SAVE_P2",
+    "source_set": "NEW_3",
+    "transcript": "J'aimerais bien pouvoir économiser un peu chaque mois, ne serait-ce que pour payer des vacances sympas à mes enfants mais honnêtement c'est compliqué",
+    "full_transcript": "J'aimerais bien pouvoir économiser un peu chaque mois, ne serait-ce que pour payer des vacances sympas à mes enfants mais honnêtement c'est compliqué et en cas de gros soucis, euh, j'ai un peu peur.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "C_ST_N3_SAVE_P3_8f733e237b",
+    "parent_source_unit_id": "ST_N3_SAVE_P3",
+    "source_set": "NEW_3",
+    "transcript": "J'ai commencé à travailler très jeune et j'aimerais que mon fils ait un meilleur métier que moi mais les études, c'est dispendieux, il n'a que 12 ans mais il faut déjà prévoir.",
+    "full_transcript": "J'ai commencé à travailler très jeune et j'aimerais que mon fils ait un meilleur métier que moi mais les études, c'est dispendieux, il n'a que 12 ans mais il faut déjà prévoir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 32
+  },
+  {
+    "audio_unit_id": "C_ST_N4_AI_P1_7bdd8b5240",
+    "parent_source_unit_id": "ST_N4_AI_P1",
+    "source_set": "NEW_4",
+    "transcript": "L'IA va détruire des emplois traditionnels et créer des inégalités, je m'oppose catégoriquement à son infiltration dans le monde professionnel.",
+    "full_transcript": "L'IA va détruire des emplois traditionnels et créer des inégalités, je m'oppose catégoriquement à son infiltration dans le monde professionnel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "C_ST_N4_AI_P2_85f19429e0",
+    "parent_source_unit_id": "ST_N4_AI_P2",
+    "source_set": "NEW_4",
+    "transcript": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi.",
+    "full_transcript": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires pour éviter des conséquences négatives.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "C_ST_N4_AI_P3_4e880293fc",
+    "parent_source_unit_id": "ST_N4_AI_P3",
+    "source_set": "NEW_4",
+    "transcript": "Offrant des opportunités sans précédent, je suis résolument optimiste quant à son impact positif.",
+    "full_transcript": "L'intelligence artificielle révolutionne notre façon de travailler. Offrant des opportunités sans précédent, je suis résolument optimiste quant à son impact positif.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_ST_N4_TW_P1_5b29e766e8",
+    "parent_source_unit_id": "ST_N4_TW_P1",
+    "source_set": "NEW_4",
+    "transcript": "Le télétravail est une révolution positive.",
+    "full_transcript": "Le télétravail est une révolution positive. Il offre une flexibilité inégalée permettant aux travailleurs de gérer leur emploi du temps de manière plus autonome. Cette autonomie se traduit par une amélioration significative de l'équilibre entre la vie professionnelle et personnelle. Je suis profondément convaincu que le télétravail représente l'avenir du travail moderne, offrant des avantages considérables.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_ST_N4_TW_P2_ae8b541a56",
+    "parent_source_unit_id": "ST_N4_TW_P2",
+    "source_set": "NEW_4",
+    "transcript": "Cependant, trouver un équilibre entre les avantages et les défis est essentiel pour garantir le succès du télétravail.",
+    "full_transcript": "En observant les avantages indéniables du télétravail tels que la réduction des déplacements et la possibilité de personnaliser son espace de travail, il est difficile de ne pas être favorable à cette approche. Cependant, trouver un équilibre entre les avantages et les défis est essentiel pour garantir le succès du télétravail.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_ST_N4_TW_P3_b67318b760",
+    "parent_source_unit_id": "ST_N4_TW_P3",
+    "source_set": "NEW_4",
+    "transcript": "Rien ne remplace le travail en personne, je m'oppose fermement à cette tendance.",
+    "full_transcript": "Le télétravail est une menace pour la productivité et la cohésion d'équipe. Rien ne remplace le travail en personne, je m'oppose fermement à cette tendance.",
+    "is_contiguous_excerpt": true,
+    "word_count": 13
+  },
+  {
+    "audio_unit_id": "C_ST_N6_UNI_P1_e4debe983f",
+    "parent_source_unit_id": "ST_N6_UNI_P1",
+    "source_set": "NEW_6",
+    "transcript": "Mais vu l'état déplorable de la jeunesse, peut-être qu'il faut essayer.",
+    "full_transcript": "Si on était en 1904, ça pourrait marcher facilement, mais on est en 2024. Ce serait vraiment dur d'imposer ça aux jeunes d'aujourd'hui parce qu'ils veulent exprimer leur identité à tout prix sur les réseaux sociaux. Mais vu l'état déplorable de la jeunesse, peut-être qu'il faut essayer. Mais honnêtement, j'ai peu d'espoir que ça marche malheureusement.",
+    "is_contiguous_excerpt": true,
+    "word_count": 11
+  },
+  {
+    "audio_unit_id": "C_ST_N6_UNI_P2_4d30ab1b68",
+    "parent_source_unit_id": "ST_N6_UNI_P2",
+    "source_set": "NEW_6",
+    "transcript": "Donc c'est une bonne idée, il faut le faire.",
+    "full_transcript": "Personnellement, je pense que les jeunes ne sont pas disciplinés de nos jours. Donc s'habiller pareil comme à l'ancienne pourrait, d'après moi, leur faire prendre conscience de la vie en groupe et qu'il faut respecter les règles. Donc c'est une bonne idée, il faut le faire.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_ST_N6_UNI_P3_e6195d499b",
+    "parent_source_unit_id": "ST_N6_UNI_P3",
+    "source_set": "NEW_6",
+    "transcript": "Les gens ne vont pas l'accepter et ils auront bien raison.",
+    "full_transcript": "Ici à Montréal, ça pourrait pas marcher dans les écoles publiques, pas possible. Les gens ne vont pas l'accepter et ils auront bien raison.",
+    "is_contiguous_excerpt": true,
+    "word_count": 11
+  },
+  {
+    "audio_unit_id": "C_ST_N6_LEAVE_P1_339c328159",
+    "parent_source_unit_id": "ST_N6_LEAVE_P1",
+    "source_set": "NEW_6",
+    "transcript": "Je sais qu'il n'est pas parfait mais comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+    "full_transcript": "Absolument pas, j'aime mon pays. Je sais qu'il n'est pas parfait mais comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+    "is_contiguous_excerpt": true,
+    "word_count": 26
+  },
+  {
+    "audio_unit_id": "C_ST_N6_LEAVE_P2_469b8e7f71",
+    "parent_source_unit_id": "ST_N6_LEAVE_P2",
+    "source_set": "NEW_6",
+    "transcript": "je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs mais si j'en ai l'occasion, je le ferai peut-être.",
+    "full_transcript": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs mais si j'en ai l'occasion, je le ferai peut-être.",
+    "is_contiguous_excerpt": true,
+    "word_count": 28
+  },
+  {
+    "audio_unit_id": "C_ST_N6_LEAVE_P3_fdcc897daf",
+    "parent_source_unit_id": "ST_N6_LEAVE_P3",
+    "source_set": "NEW_6",
+    "transcript": "C'est mon rêve.",
+    "full_transcript": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française. Les gens sont trop fermés ici.",
+    "is_contiguous_excerpt": true,
+    "word_count": 3
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SCI_CAUSE_6052903a74",
+    "parent_source_unit_id": "PX_N3_SCI_CAUSE",
+    "source_set": "NEW_3",
+    "transcript": "Peut-être parce que l'enseignement des sciences à l'école ne donne qu'une vision imparfaite et peu actuelle de ce que sont réellement ces métiers.",
+    "full_transcript": "Les filles sont très présentes en terminale scientifique mais elles ne s'engagent pas vers des métiers de science dure. Pourquoi cela ? Peut-être parce que l'enseignement des sciences à l'école ne donne qu'une vision imparfaite et peu actuelle de ce que sont réellement ces métiers.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SCI_SOL_f2f9c722a9",
+    "parent_source_unit_id": "PX_N3_SCI_SOL",
+    "source_set": "NEW_3",
+    "transcript": "Il faut revoir cet enseignement pour rendre ces métiers plus attractifs en les présentant tels qu'ils sont avec toute la passion que ces projets peuvent susciter.",
+    "full_transcript": "Il faut revoir cet enseignement pour rendre ces métiers plus attractifs en les présentant tels qu'ils sont avec toute la passion que ces projets peuvent susciter. Il faut présenter cet aspect-là et sans doute travailler à côté de l'école à redonner le goût des sciences et des techniques aux jeunes.",
+    "is_contiguous_excerpt": true,
+    "word_count": 26
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SCI_SOL_372b31617e",
+    "parent_source_unit_id": "PX_N3_SCI_SOL",
+    "source_set": "NEW_3",
+    "transcript": "Il faut présenter cet aspect-là et sans doute travailler à côté de l'école à redonner le goût des sciences et des techniques aux jeunes.",
+    "full_transcript": "Il faut revoir cet enseignement pour rendre ces métiers plus attractifs en les présentant tels qu'ils sont avec toute la passion que ces projets peuvent susciter. Il faut présenter cet aspect-là et sans doute travailler à côté de l'école à redonner le goût des sciences et des techniques aux jeunes.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SCI_SOL_61e4175cf3",
+    "parent_source_unit_id": "PX_N3_SCI_SOL",
+    "source_set": "NEW_3",
+    "transcript": "Il faut revoir cet enseignement pour rendre ces métiers plus attractifs en les présentant tels qu'ils sont avec toute la passion que ces projets peuvent susciter. Il faut présenter cet aspect-là et sans doute travailler à côté de l'école à redonner le goût des sciences et des techniques aux jeunes.",
+    "full_transcript": "Il faut revoir cet enseignement pour rendre ces métiers plus attractifs en les présentant tels qu'ils sont avec toute la passion que ces projets peuvent susciter. Il faut présenter cet aspect-là et sans doute travailler à côté de l'école à redonner le goût des sciences et des techniques aux jeunes.",
+    "is_contiguous_excerpt": true,
+    "word_count": 50
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SPORT_CAUSE_3e3432480e",
+    "parent_source_unit_id": "PX_N3_SPORT_CAUSE",
+    "source_set": "NEW_3",
+    "transcript": "Chez certains jeunes, au nom de la performance à n'importe quel prix, elle suscite bien souvent une violence principalement verbale mais aussi parfois physique.",
+    "full_transcript": "On met seulement en avant les vertus du sport. Prenez les compétitions par exemple. Chez certains jeunes, au nom de la performance à n'importe quel prix, elle suscite bien souvent une violence principalement verbale mais aussi parfois physique. Et leur volonté de victoire leur fait oublier les principes les plus élémentaires de respect de l'autre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SPORT_CAUSE_88a3d3923c",
+    "parent_source_unit_id": "PX_N3_SPORT_CAUSE",
+    "source_set": "NEW_3",
+    "transcript": "Et leur volonté de victoire leur fait oublier les principes les plus élémentaires de respect de l'autre.",
+    "full_transcript": "On met seulement en avant les vertus du sport. Prenez les compétitions par exemple. Chez certains jeunes, au nom de la performance à n'importe quel prix, elle suscite bien souvent une violence principalement verbale mais aussi parfois physique. Et leur volonté de victoire leur fait oublier les principes les plus élémentaires de respect de l'autre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SPORT_CAUSE_2433e11b8c",
+    "parent_source_unit_id": "PX_N3_SPORT_CAUSE",
+    "source_set": "NEW_3",
+    "transcript": "Chez certains jeunes, au nom de la performance à n'importe quel prix, elle suscite bien souvent une violence principalement verbale mais aussi parfois physique. Et leur volonté de victoire leur fait oublier les principes les plus élémentaires de respect de l'autre.",
+    "full_transcript": "On met seulement en avant les vertus du sport. Prenez les compétitions par exemple. Chez certains jeunes, au nom de la performance à n'importe quel prix, elle suscite bien souvent une violence principalement verbale mais aussi parfois physique. Et leur volonté de victoire leur fait oublier les principes les plus élémentaires de respect de l'autre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 41
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SPORT_SOL_f8dc826429",
+    "parent_source_unit_id": "PX_N3_SPORT_SOL",
+    "source_set": "NEW_3",
+    "transcript": "La création d'équipes d'éducateurs et de parents d'élèves volontaires",
+    "full_transcript": "La création d'équipes d'éducateurs et de parents d'élèves volontaires, qui grâce à leur cohérence et à leur responsabilité, remettent à l'ordre du jour le respect des règles, le respect de l'autre, le respect du corps et le développement de la confiance en soi.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SPORT_SOL_c843f84ef6",
+    "parent_source_unit_id": "PX_N3_SPORT_SOL",
+    "source_set": "NEW_3",
+    "transcript": "remettent à l'ordre du jour le respect des règles",
+    "full_transcript": "La création d'équipes d'éducateurs et de parents d'élèves volontaires, qui grâce à leur cohérence et à leur responsabilité, remettent à l'ordre du jour le respect des règles, le respect de l'autre, le respect du corps et le développement de la confiance en soi.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_PX_N3_SPORT_SOL_22be4d7549",
+    "parent_source_unit_id": "PX_N3_SPORT_SOL",
+    "source_set": "NEW_3",
+    "transcript": "La création d'équipes d'éducateurs et de parents d'élèves volontaires, qui grâce à leur cohérence et à leur responsabilité, remettent à l'ordre du jour le respect des règles, le respect de l'autre, le respect du corps et le développement de la confiance en soi.",
+    "full_transcript": "La création d'équipes d'éducateurs et de parents d'élèves volontaires, qui grâce à leur cohérence et à leur responsabilité, remettent à l'ordre du jour le respect des règles, le respect de l'autre, le respect du corps et le développement de la confiance en soi.",
+    "is_contiguous_excerpt": true,
+    "word_count": 43
+  },
+  {
+    "audio_unit_id": "C_PX_N6_WRITER_SRC_afd7b91278",
+    "parent_source_unit_id": "PX_N6_WRITER_SRC",
+    "source_set": "NEW_6",
+    "transcript": "j'ai été inspirée par des événements de ma propre vie ainsi que par des observations de la société qui m'entoure.",
+    "full_transcript": "Mon inspiration vient de diverses sources mais pour ce roman en particulier, j'ai été inspirée par des événements de ma propre vie ainsi que par des observations de la société qui m'entoure.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "C_PX_N6_WRITER_SRC_2eaa01ab79",
+    "parent_source_unit_id": "PX_N6_WRITER_SRC",
+    "source_set": "NEW_6",
+    "transcript": "Mon inspiration vient de diverses sources mais pour ce roman en particulier, j'ai été inspirée par des événements de ma propre vie ainsi que par des observations de la société qui m'entoure.",
+    "full_transcript": "Mon inspiration vient de diverses sources mais pour ce roman en particulier, j'ai été inspirée par des événements de ma propre vie ainsi que par des observations de la société qui m'entoure.",
+    "is_contiguous_excerpt": true,
+    "word_count": 32
+  },
+  {
+    "audio_unit_id": "C_PX_N6_WRITER_THEME_e4a065dac2",
+    "parent_source_unit_id": "PX_N6_WRITER_THEME",
+    "source_set": "NEW_6",
+    "transcript": "J'ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels.",
+    "full_transcript": "J'ai essayé de créer des personnages authentiques et de les placer dans des situations complexes pour explorer des thèmes universels.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "C_PX_N6_OLYMPIC_CRIT_64fab23d65",
+    "parent_source_unit_id": "PX_N6_OLYMPIC_CRIT",
+    "source_set": "NEW_6",
+    "transcript": "Je suis vraiment indigné par le fait que l'organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société.",
+    "full_transcript": "Je suis vraiment indigné par le fait que l'organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société. Au lieu d'investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l'éducation et la santé. Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "C_PX_N6_OLYMPIC_CRIT_1ff61c9846",
+    "parent_source_unit_id": "PX_N6_OLYMPIC_CRIT",
+    "source_set": "NEW_6",
+    "transcript": "Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale.",
+    "full_transcript": "Je suis vraiment indigné par le fait que l'organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société. Au lieu d'investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l'éducation et la santé. Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "C_PX_N6_OLYMPIC_CRIT_319d6ca95c",
+    "parent_source_unit_id": "PX_N6_OLYMPIC_CRIT",
+    "source_set": "NEW_6",
+    "transcript": "Je suis vraiment indigné par le fait que l'organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société. Au lieu d'investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l'éducation et la santé.",
+    "full_transcript": "Je suis vraiment indigné par le fait que l'organisation des Jeux Olympiques à Paris néglige les besoins essentiels de notre société. Au lieu d'investir dans des infrastructures sportives coûteuses, nous devrions nous concentrer sur des problèmes urgents tels que le logement abordable, l'éducation et la santé. Ces ressources financières pourraient être mieux utilisées pour améliorer la vie de nos concitoyens plutôt que de servir une compétition mondiale.",
+    "is_contiguous_excerpt": true,
+    "word_count": 46
+  },
+  {
+    "audio_unit_id": "C_PX_N6_OLYMPIC_ACT_c79f78fa62",
+    "parent_source_unit_id": "PX_N6_OLYMPIC_ACT",
+    "source_set": "NEW_6",
+    "transcript": "Nous continuerons à faire pression et à sensibiliser sur cette question.",
+    "full_transcript": "Nous continuerons à faire pression et à sensibiliser sur cette question. Il est crucial que les autorités prennent en compte les préoccupations de la population et réévaluent leur priorité en matière de dépenses publiques.",
+    "is_contiguous_excerpt": true,
+    "word_count": 11
+  },
+  {
+    "audio_unit_id": "C_PX_N6_OLYMPIC_ACT_713186e21a",
+    "parent_source_unit_id": "PX_N6_OLYMPIC_ACT",
+    "source_set": "NEW_6",
+    "transcript": "Il est crucial que les autorités prennent en compte les préoccupations de la population et réévaluent leur priorité en matière de dépenses publiques.",
+    "full_transcript": "Nous continuerons à faire pression et à sensibiliser sur cette question. Il est crucial que les autorités prennent en compte les préoccupations de la population et réévaluent leur priorité en matière de dépenses publiques.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "C_PX_N6_OLYMPIC_ACT_930f86ec74",
+    "parent_source_unit_id": "PX_N6_OLYMPIC_ACT",
+    "source_set": "NEW_6",
+    "transcript": "Nous continuerons à faire pression et à sensibiliser sur cette question. Il est crucial que les autorités prennent en compte les préoccupations de la population et réévaluent leur priorité en matière de dépenses publiques.",
+    "full_transcript": "Nous continuerons à faire pression et à sensibiliser sur cette question. Il est crucial que les autorités prennent en compte les préoccupations de la population et réévaluent leur priorité en matière de dépenses publiques.",
+    "is_contiguous_excerpt": true,
+    "word_count": 34
+  },
+  {
+    "audio_unit_id": "C_PX_N4_HEALTH_FIELD_2fe89c261f",
+    "parent_source_unit_id": "PX_N4_HEALTH_FIELD",
+    "source_set": "NEW_4",
+    "transcript": "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés.",
+    "full_transcript": "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés. Il faut dire que les données physiologiques humaines constituent un formidable champ d'investigation, les paramètres à surveiller sont nombreux et la technologie permet aujourd'hui de quantifier tout cela en temps réel, c'est le fameux phénomène de l'auto-mesure, en anglais le quantified self.",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  },
+  {
+    "audio_unit_id": "C_PX_N4_HEALTH_FIELD_fc7f053035",
+    "parent_source_unit_id": "PX_N4_HEALTH_FIELD",
+    "source_set": "NEW_4",
+    "transcript": "les paramètres à surveiller sont nombreux et la technologie permet aujourd'hui de quantifier tout cela en temps réel",
+    "full_transcript": "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés. Il faut dire que les données physiologiques humaines constituent un formidable champ d'investigation, les paramètres à surveiller sont nombreux et la technologie permet aujourd'hui de quantifier tout cela en temps réel, c'est le fameux phénomène de l'auto-mesure, en anglais le quantified self.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_PX_N4_HEALTH_FIELD_0ef97468af",
+    "parent_source_unit_id": "PX_N4_HEALTH_FIELD",
+    "source_set": "NEW_4",
+    "transcript": "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés. Il faut dire que les données physiologiques humaines constituent un formidable champ d'investigation, les paramètres à surveiller sont nombreux et la technologie permet aujourd'hui de quantifier tout cela en temps réel, c'est le fameux phénomène de l'auto-mesure, en anglais le quantified self.",
+    "full_transcript": "C'est dans le domaine de la santé que l'on trouve le plus grand nombre d'objets connectés. Il faut dire que les données physiologiques humaines constituent un formidable champ d'investigation, les paramètres à surveiller sont nombreux et la technologie permet aujourd'hui de quantifier tout cela en temps réel, c'est le fameux phénomène de l'auto-mesure, en anglais le quantified self.",
+    "is_contiguous_excerpt": true,
+    "word_count": 58
+  },
+  {
+    "audio_unit_id": "C_PX_N4_HEALTH_EX_6bac457e75",
+    "parent_source_unit_id": "PX_N4_HEALTH_EX",
+    "source_set": "NEW_4",
+    "transcript": "Il y a tout d'abord par exemple le pèse-personne connecté qui enregistre votre poids au jour le jour et vous permet de retrouver les données sur votre mobile via une application dédiée.",
+    "full_transcript": "Il y a tout d'abord par exemple le pèse-personne connecté qui enregistre votre poids au jour le jour et vous permet de retrouver les données sur votre mobile via une application dédiée. Ça va même plus loin aujourd'hui avec la mesure du rythme cardiaque par les pieds.",
+    "is_contiguous_excerpt": true,
+    "word_count": 32
+  },
+  {
+    "audio_unit_id": "C_PX_N4_HEALTH_EX_c6cc8a547f",
+    "parent_source_unit_id": "PX_N4_HEALTH_EX",
+    "source_set": "NEW_4",
+    "transcript": "Ça va même plus loin aujourd'hui avec la mesure du rythme cardiaque par les pieds.",
+    "full_transcript": "Il y a tout d'abord par exemple le pèse-personne connecté qui enregistre votre poids au jour le jour et vous permet de retrouver les données sur votre mobile via une application dédiée. Ça va même plus loin aujourd'hui avec la mesure du rythme cardiaque par les pieds.",
+    "is_contiguous_excerpt": true,
+    "word_count": 15
+  },
+  {
+    "audio_unit_id": "C_PX_N6_STRETCH_BEN_227a4f97db",
+    "parent_source_unit_id": "PX_N6_STRETCH_BEN",
+    "source_set": "NEW_6",
+    "transcript": "En plus de favoriser la flexibilité musculaire et de prévenir les blessures, elle libère également les tensions mentales accumulées.",
+    "full_transcript": "Que ce soit par le biais du yoga, du stretching ou de simples étirements, cette activité régulière offre des bienfaits insoupçonnés. En plus de favoriser la flexibilité musculaire et de prévenir les blessures, elle libère également les tensions mentales accumulées.",
+    "is_contiguous_excerpt": true,
+    "word_count": 19
+  },
+  {
+    "audio_unit_id": "C_PX_N6_STRETCH_BEN_22815118e0",
+    "parent_source_unit_id": "PX_N6_STRETCH_BEN",
+    "source_set": "NEW_6",
+    "transcript": "Que ce soit par le biais du yoga, du stretching ou de simples étirements, cette activité régulière offre des bienfaits insoupçonnés. En plus de favoriser la flexibilité musculaire et de prévenir les blessures, elle libère également les tensions mentales accumulées.",
+    "full_transcript": "Que ce soit par le biais du yoga, du stretching ou de simples étirements, cette activité régulière offre des bienfaits insoupçonnés. En plus de favoriser la flexibilité musculaire et de prévenir les blessures, elle libère également les tensions mentales accumulées.",
+    "is_contiguous_excerpt": true,
+    "word_count": 40
+  },
+  {
+    "audio_unit_id": "C_PX_N6_STRETCH_CALM_28e1794b62",
+    "parent_source_unit_id": "PX_N6_STRETCH_CALM",
+    "source_set": "NEW_6",
+    "transcript": "S'assouplir offre un moment de calme et de connexion intérieure permettant à l'esprit de se détendre et de se recentrer.",
+    "full_transcript": "S'assouplir offre un moment de calme et de connexion intérieure permettant à l'esprit de se détendre et de se recentrer. Ainsi, prenons quelques instants chaque jour pour nous étirer, pour nourrir notre corps et apaiser notre esprit. Dans cette souplesse, trouvons la clé d'un équilibre vital et d'une vie épanouie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "C_PX_N6_STRETCH_CALM_fff044be7c",
+    "parent_source_unit_id": "PX_N6_STRETCH_CALM",
+    "source_set": "NEW_6",
+    "transcript": "Ainsi, prenons quelques instants chaque jour pour nous étirer, pour nourrir notre corps et apaiser notre esprit.",
+    "full_transcript": "S'assouplir offre un moment de calme et de connexion intérieure permettant à l'esprit de se détendre et de se recentrer. Ainsi, prenons quelques instants chaque jour pour nous étirer, pour nourrir notre corps et apaiser notre esprit. Dans cette souplesse, trouvons la clé d'un équilibre vital et d'une vie épanouie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "C_PX_N6_STRETCH_CALM_262f1a49a6",
+    "parent_source_unit_id": "PX_N6_STRETCH_CALM",
+    "source_set": "NEW_6",
+    "transcript": "S'assouplir offre un moment de calme et de connexion intérieure permettant à l'esprit de se détendre et de se recentrer. Ainsi, prenons quelques instants chaque jour pour nous étirer, pour nourrir notre corps et apaiser notre esprit.",
+    "full_transcript": "S'assouplir offre un moment de calme et de connexion intérieure permettant à l'esprit de se détendre et de se recentrer. Ainsi, prenons quelques instants chaque jour pour nous étirer, pour nourrir notre corps et apaiser notre esprit. Dans cette souplesse, trouvons la clé d'un équilibre vital et d'une vie épanouie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 37
+  },
+  {
+    "audio_unit_id": "C_X1_HOMELESS_6a4c8046d0",
+    "parent_source_unit_id": "X1_HOMELESS",
+    "source_set": "NEW_1",
+    "transcript": "Le vrai problème, c'est qu'en ce moment à Montréal, on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d'itinérance. Ce qu'il faut, c'est travailler sur le long terme, en ayant notamment davantage de logements sociaux.",
+    "full_transcript": "Le vrai problème, c'est qu'en ce moment à Montréal, on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d'itinérance. Ce qu'il faut, c'est travailler sur le long terme, en ayant notamment davantage de logements sociaux.",
+    "is_contiguous_excerpt": true,
+    "word_count": 45
+  },
+  {
+    "audio_unit_id": "C_X1_HOMELESS_65558a405a",
+    "parent_source_unit_id": "X1_HOMELESS",
+    "source_set": "NEW_1",
+    "transcript": "Ce qu'il faut, c'est travailler sur le long terme, en ayant notamment davantage de logements sociaux.",
+    "full_transcript": "Le vrai problème, c'est qu'en ce moment à Montréal, on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d'itinérance. Ce qu'il faut, c'est travailler sur le long terme, en ayant notamment davantage de logements sociaux.",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  },
+  {
+    "audio_unit_id": "C_X1_HOMELESS_8c7d1dce81",
+    "parent_source_unit_id": "X1_HOMELESS",
+    "source_set": "NEW_1",
+    "transcript": "Ce qu'il faut, c'est travailler sur le long terme",
+    "full_transcript": "Le vrai problème, c'est qu'en ce moment à Montréal, on a de la misère à trouver des travailleurs et des travailleuses qui peuvent accompagner les personnes en situation d'itinérance. Ce qu'il faut, c'est travailler sur le long terme, en ayant notamment davantage de logements sociaux.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_X1_SEMINAR_3a05f17f34",
+    "parent_source_unit_id": "X1_SEMINAR",
+    "source_set": "NEW_1",
+    "transcript": "La problématique ici, c'est qu'on conseille aux jeunes d'aller vers les sciences très appliquées. Parce qu'il y a des financements et des exigences des bailleurs.",
+    "full_transcript": "La problématique ici, c'est qu'on conseille aux jeunes d'aller vers les sciences très appliquées. Parce qu'il y a des financements et des exigences des bailleurs. Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd'hui absolument indispensables. Je pense que ce qui compte, c'est l'excellence.",
+    "is_contiguous_excerpt": true,
+    "word_count": 25
+  },
+  {
+    "audio_unit_id": "C_X1_SEMINAR_eae1a0939f",
+    "parent_source_unit_id": "X1_SEMINAR",
+    "source_set": "NEW_1",
+    "transcript": "Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd'hui absolument indispensables.",
+    "full_transcript": "La problématique ici, c'est qu'on conseille aux jeunes d'aller vers les sciences très appliquées. Parce qu'il y a des financements et des exigences des bailleurs. Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd'hui absolument indispensables. Je pense que ce qui compte, c'est l'excellence.",
+    "is_contiguous_excerpt": true,
+    "word_count": 15
+  },
+  {
+    "audio_unit_id": "C_X1_SEMINAR_7a8dd78d1e",
+    "parent_source_unit_id": "X1_SEMINAR",
+    "source_set": "NEW_1",
+    "transcript": "ce qui compte, c'est l'excellence",
+    "full_transcript": "La problématique ici, c'est qu'on conseille aux jeunes d'aller vers les sciences très appliquées. Parce qu'il y a des financements et des exigences des bailleurs. Mais on oublie que les résultats perçus hier comme inutiles sont devenus aujourd'hui absolument indispensables. Je pense que ce qui compte, c'est l'excellence.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_X1_NEIGHBOR_86b1f9b14a",
+    "parent_source_unit_id": "X1_NEIGHBOR",
+    "source_set": "NEW_1",
+    "transcript": "Au niveau délinquance et trafic, rien n'a changé, au contraire ça s'organise mieux. À une époque, la police montée passait et les jeunes allaient caresser les chevaux.",
+    "full_transcript": "Au niveau délinquance et trafic, rien n'a changé, au contraire ça s'organise mieux. À une époque, la police montée passait et les jeunes allaient caresser les chevaux. On a perdu ça, on est clairement dans le répressif. La difficulté, c'est que le trafic de drogue gangrène tout.",
+    "is_contiguous_excerpt": true,
+    "word_count": 27
+  },
+  {
+    "audio_unit_id": "C_X1_NEIGHBOR_ab0708ab33",
+    "parent_source_unit_id": "X1_NEIGHBOR",
+    "source_set": "NEW_1",
+    "transcript": "La difficulté, c'est que le trafic de drogue gangrène tout.",
+    "full_transcript": "Au niveau délinquance et trafic, rien n'a changé, au contraire ça s'organise mieux. À une époque, la police montée passait et les jeunes allaient caresser les chevaux. On a perdu ça, on est clairement dans le répressif. La difficulté, c'est que le trafic de drogue gangrène tout.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_X1_NEIGHBOR_afe5501320",
+    "parent_source_unit_id": "X1_NEIGHBOR",
+    "source_set": "NEW_1",
+    "transcript": "La difficulté, c'est que le trafic de drogue gangrène tout",
+    "full_transcript": "Au niveau délinquance et trafic, rien n'a changé, au contraire ça s'organise mieux. À une époque, la police montée passait et les jeunes allaient caresser les chevaux. On a perdu ça, on est clairement dans le répressif. La difficulté, c'est que le trafic de drogue gangrène tout.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_X1_ONG_cc34f25621",
+    "parent_source_unit_id": "X1_ONG",
+    "source_set": "NEW_1",
+    "transcript": "Elle exige que les entreprises publient leurs propres plans climatiques et indiquent comment elles vont réduire leurs émissions de CO2 d'au moins 50 % en cinq ans.",
+    "full_transcript": "Aux Pays-Bas, l'organisation environnementale Défense a remis une lettre à 29 entreprises néerlandaises, considérées par l'ONG comme des grands pollueurs. Elle exige que les entreprises publient leurs propres plans climatiques et indiquent comment elles vont réduire leurs émissions de CO2 d'au moins 50 % en cinq ans.",
+    "is_contiguous_excerpt": true,
+    "word_count": 27
+  },
+  {
+    "audio_unit_id": "C_X1_ONG_5c7b757aae",
+    "parent_source_unit_id": "X1_ONG",
+    "source_set": "NEW_1",
+    "transcript": "publient leurs propres plans climatiques",
+    "full_transcript": "Aux Pays-Bas, l'organisation environnementale Défense a remis une lettre à 29 entreprises néerlandaises, considérées par l'ONG comme des grands pollueurs. Elle exige que les entreprises publient leurs propres plans climatiques et indiquent comment elles vont réduire leurs émissions de CO2 d'au moins 50 % en cinq ans.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_X1_DIGITAL_430828c127",
+    "parent_source_unit_id": "X1_DIGITAL",
+    "source_set": "NEW_1",
+    "transcript": "À cause de cela, nous sommes moins productifs et moins compétitifs. Or, la priorité des priorités pour un pays comme le Maroc, c'est la fracture numérique.",
+    "full_transcript": "Le constat global, c'est que les différentes initiatives lancées restent insuffisantes. À cause de cela, nous sommes moins productifs et moins compétitifs. Or, la priorité des priorités pour un pays comme le Maroc, c'est la fracture numérique. Le prix des abonnements à Internet reste trop élevé.",
+    "is_contiguous_excerpt": true,
+    "word_count": 26
+  },
+  {
+    "audio_unit_id": "C_X1_DIGITAL_4949f56a35",
+    "parent_source_unit_id": "X1_DIGITAL",
+    "source_set": "NEW_1",
+    "transcript": "Le constat global, c'est que les différentes initiatives lancées restent insuffisantes.",
+    "full_transcript": "Le constat global, c'est que les différentes initiatives lancées restent insuffisantes. À cause de cela, nous sommes moins productifs et moins compétitifs. Or, la priorité des priorités pour un pays comme le Maroc, c'est la fracture numérique. Le prix des abonnements à Internet reste trop élevé.",
+    "is_contiguous_excerpt": true,
+    "word_count": 11
+  },
+  {
+    "audio_unit_id": "C_X1_DIGITAL_8a6d1bf5e0",
+    "parent_source_unit_id": "X1_DIGITAL",
+    "source_set": "NEW_1",
+    "transcript": "la priorité des priorités pour un pays comme le Maroc, c'est la fracture numérique",
+    "full_transcript": "Le constat global, c'est que les différentes initiatives lancées restent insuffisantes. À cause de cela, nous sommes moins productifs et moins compétitifs. Or, la priorité des priorités pour un pays comme le Maroc, c'est la fracture numérique. Le prix des abonnements à Internet reste trop élevé.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_X1_DISCOUNTS_d7b93d3b4e",
+    "parent_source_unit_id": "X1_DISCOUNTS",
+    "source_set": "NEW_1",
+    "transcript": "Dans certains cas, le produit n'est vraiment pas de qualité et la baisse de prix s'explique par un prix plein d'inventaire. Mais il arrive que l'on monte artificiellement le prix de départ d'un produit médiocre.",
+    "full_transcript": "Cette histoire commence avec une poêle annoncée à un prix de départ de 150 dollars, puis réduite à 70, 40 et enfin 30 dollars en liquidation. Dans certains cas, le produit n'est vraiment pas de qualité et la baisse de prix s'explique par un prix plein d'inventaire. Mais il arrive que l'on monte artificiellement le prix de départ d'un produit médiocre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 35
+  },
+  {
+    "audio_unit_id": "C_X1_DISCOUNTS_e7cb19ea3b",
+    "parent_source_unit_id": "X1_DISCOUNTS",
+    "source_set": "NEW_1",
+    "transcript": "Mais il arrive que l'on monte artificiellement le prix de départ d'un produit médiocre.",
+    "full_transcript": "Cette histoire commence avec une poêle annoncée à un prix de départ de 150 dollars, puis réduite à 70, 40 et enfin 30 dollars en liquidation. Dans certains cas, le produit n'est vraiment pas de qualité et la baisse de prix s'explique par un prix plein d'inventaire. Mais il arrive que l'on monte artificiellement le prix de départ d'un produit médiocre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_X1_DISCOUNTS_dbf703dc0c",
+    "parent_source_unit_id": "X1_DISCOUNTS",
+    "source_set": "NEW_1",
+    "transcript": "monte artificiellement le prix de départ",
+    "full_transcript": "Cette histoire commence avec une poêle annoncée à un prix de départ de 150 dollars, puis réduite à 70, 40 et enfin 30 dollars en liquidation. Dans certains cas, le produit n'est vraiment pas de qualité et la baisse de prix s'explique par un prix plein d'inventaire. Mais il arrive que l'on monte artificiellement le prix de départ d'un produit médiocre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_X2_ROAD_92597496d1",
+    "parent_source_unit_id": "X2_ROAD",
+    "source_set": "NEW_2",
+    "transcript": "Chaque été, près d'une centaine de personnes perdent la vie sur la route des vacances. Les deux principales causes des accidents sont la vitesse et la distraction, notamment en raison de l'usage du cellulaire.",
+    "full_transcript": "Chaque été, près d'une centaine de personnes perdent la vie sur la route des vacances. Les deux principales causes des accidents sont la vitesse et la distraction, notamment en raison de l'usage du cellulaire. Allongez la distance entre les véhicules, faites de courtes pauses toutes les deux heures et bouclez votre ceinture.",
+    "is_contiguous_excerpt": true,
+    "word_count": 34
+  },
+  {
+    "audio_unit_id": "C_X2_ROAD_be840e3345",
+    "parent_source_unit_id": "X2_ROAD",
+    "source_set": "NEW_2",
+    "transcript": "Allongez la distance entre les véhicules, faites de courtes pauses toutes les deux heures et bouclez votre ceinture.",
+    "full_transcript": "Chaque été, près d'une centaine de personnes perdent la vie sur la route des vacances. Les deux principales causes des accidents sont la vitesse et la distraction, notamment en raison de l'usage du cellulaire. Allongez la distance entre les véhicules, faites de courtes pauses toutes les deux heures et bouclez votre ceinture.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_X2_ROAD_3a654892ec",
+    "parent_source_unit_id": "X2_ROAD",
+    "source_set": "NEW_2",
+    "transcript": "la vitesse et la distraction, notamment en raison de l'usage du cellulaire",
+    "full_transcript": "Chaque été, près d'une centaine de personnes perdent la vie sur la route des vacances. Les deux principales causes des accidents sont la vitesse et la distraction, notamment en raison de l'usage du cellulaire. Allongez la distance entre les véhicules, faites de courtes pauses toutes les deux heures et bouclez votre ceinture.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X2_DIRECTOR_e819e60c0c",
+    "parent_source_unit_id": "X2_DIRECTOR",
+    "source_set": "NEW_2",
+    "transcript": "J'ai fait du théâtre, du cinéma, de la télé, et à chaque fois, c'est l'horreur ! Mais c'est le jeu, quand vient le jour, notre œuvre nous échappe, il n'y a plus qu'à se faire toute petite.",
+    "full_transcript": "Honnêtement ? J'ai fait du théâtre, du cinéma, de la télé, et à chaque fois, c'est l'horreur ! Mais c'est le jeu, quand vient le jour, notre œuvre nous échappe, il n'y a plus qu'à se faire toute petite. J'avais à cœur de montrer la réalité de ce milieu dont on ne veut pas entendre parler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 37
+  },
+  {
+    "audio_unit_id": "C_X2_DIRECTOR_3945225636",
+    "parent_source_unit_id": "X2_DIRECTOR",
+    "source_set": "NEW_2",
+    "transcript": "Mais c'est le jeu, quand vient le jour, notre œuvre nous échappe, il n'y a plus qu'à se faire toute petite.",
+    "full_transcript": "Honnêtement ? J'ai fait du théâtre, du cinéma, de la télé, et à chaque fois, c'est l'horreur ! Mais c'est le jeu, quand vient le jour, notre œuvre nous échappe, il n'y a plus qu'à se faire toute petite. J'avais à cœur de montrer la réalité de ce milieu dont on ne veut pas entendre parler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "C_X2_DIRECTOR_5284e3dc46",
+    "parent_source_unit_id": "X2_DIRECTOR",
+    "source_set": "NEW_2",
+    "transcript": "notre œuvre nous échappe",
+    "full_transcript": "Honnêtement ? J'ai fait du théâtre, du cinéma, de la télé, et à chaque fois, c'est l'horreur ! Mais c'est le jeu, quand vient le jour, notre œuvre nous échappe, il n'y a plus qu'à se faire toute petite. J'avais à cœur de montrer la réalité de ce milieu dont on ne veut pas entendre parler.",
+    "is_contiguous_excerpt": true,
+    "word_count": 4
+  },
+  {
+    "audio_unit_id": "C_X2_STUDENTS_a4cd069fd3",
+    "parent_source_unit_id": "X2_STUDENTS",
+    "source_set": "NEW_2",
+    "transcript": "En Amérique, on prête énormément d'attention à ce que vous savez faire concrètement, à ce qui vous démarque des autres. Les étudiants qui s'étaient impliqués en dehors de l'université trouvaient du travail très facilement, alors que moi je n'avais que mon diplôme à faire valoir.",
+    "full_transcript": "En Amérique, on prête énormément d'attention à ce que vous savez faire concrètement, à ce qui vous démarque des autres. Les étudiants qui s'étaient impliqués en dehors de l'université trouvaient du travail très facilement, alors que moi je n'avais que mon diplôme à faire valoir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 45
+  },
+  {
+    "audio_unit_id": "C_X2_STUDENTS_ee7a1d53d7",
+    "parent_source_unit_id": "X2_STUDENTS",
+    "source_set": "NEW_2",
+    "transcript": "En Amérique, on prête énormément d'attention à ce que vous savez faire concrètement, à ce qui vous démarque des autres.",
+    "full_transcript": "En Amérique, on prête énormément d'attention à ce que vous savez faire concrètement, à ce qui vous démarque des autres. Les étudiants qui s'étaient impliqués en dehors de l'université trouvaient du travail très facilement, alors que moi je n'avais que mon diplôme à faire valoir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "C_X2_STUDENTS_96b58a0bad",
+    "parent_source_unit_id": "X2_STUDENTS",
+    "source_set": "NEW_2",
+    "transcript": "alors que moi je n'avais que mon diplôme à faire valoir",
+    "full_transcript": "En Amérique, on prête énormément d'attention à ce que vous savez faire concrètement, à ce qui vous démarque des autres. Les étudiants qui s'étaient impliqués en dehors de l'université trouvaient du travail très facilement, alors que moi je n'avais que mon diplôme à faire valoir.",
+    "is_contiguous_excerpt": true,
+    "word_count": 11
+  },
+  {
+    "audio_unit_id": "C_X2_FRANCOPHONE_992a4804fd",
+    "parent_source_unit_id": "X2_FRANCOPHONE",
+    "source_set": "NEW_2",
+    "transcript": "Pour beaucoup, les communautés francophones s'arrêtent aux frontières du Québec. C'est tellement dommage de ne pas reconnaître une réalité qui est là depuis toujours.",
+    "full_transcript": "À l'heure des élections, les grands débats se concentrent sur les enjeux québécois. Pour beaucoup, les communautés francophones s'arrêtent aux frontières du Québec. C'est tellement dommage de ne pas reconnaître une réalité qui est là depuis toujours. Nos droits ne sont pas toujours respectés, voire pas acquis.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_X2_FRANCOPHONE_4e2dff12ca",
+    "parent_source_unit_id": "X2_FRANCOPHONE",
+    "source_set": "NEW_2",
+    "transcript": "Pour beaucoup, les communautés francophones s'arrêtent aux frontières du Québec.",
+    "full_transcript": "À l'heure des élections, les grands débats se concentrent sur les enjeux québécois. Pour beaucoup, les communautés francophones s'arrêtent aux frontières du Québec. C'est tellement dommage de ne pas reconnaître une réalité qui est là depuis toujours. Nos droits ne sont pas toujours respectés, voire pas acquis.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_X2_FRANCOPHONE_710ecae6cb",
+    "parent_source_unit_id": "X2_FRANCOPHONE",
+    "source_set": "NEW_2",
+    "transcript": "dommage de ne pas reconnaître une réalité",
+    "full_transcript": "À l'heure des élections, les grands débats se concentrent sur les enjeux québécois. Pour beaucoup, les communautés francophones s'arrêtent aux frontières du Québec. C'est tellement dommage de ne pas reconnaître une réalité qui est là depuis toujours. Nos droits ne sont pas toujours respectés, voire pas acquis.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_X2_IMMIGRANT_84ba05a9e1",
+    "parent_source_unit_id": "X2_IMMIGRANT",
+    "source_set": "NEW_2",
+    "transcript": "Martial Abidbo, pharmacien en Côte d'Ivoire, est arrivé au Québec pensant y exercer son métier. Cependant, il reçoit une lettre lui expliquant qu'il doit reprendre des études universitaires pendant plus d'un an.",
+    "full_transcript": "Martial Abidbo, pharmacien en Côte d'Ivoire, est arrivé au Québec pensant y exercer son métier. Cependant, il reçoit une lettre lui expliquant qu'il doit reprendre des études universitaires pendant plus d'un an. Malgré tout, Martial garde espoir. Anna ne parvient pas à faire reconnaître sa formation pour venir travailler au Québec.",
+    "is_contiguous_excerpt": true,
+    "word_count": 32
+  },
+  {
+    "audio_unit_id": "C_X2_IMMIGRANT_6d6072ab59",
+    "parent_source_unit_id": "X2_IMMIGRANT",
+    "source_set": "NEW_2",
+    "transcript": "Anna ne parvient pas à faire reconnaître sa formation pour venir travailler au Québec.",
+    "full_transcript": "Martial Abidbo, pharmacien en Côte d'Ivoire, est arrivé au Québec pensant y exercer son métier. Cependant, il reçoit une lettre lui expliquant qu'il doit reprendre des études universitaires pendant plus d'un an. Malgré tout, Martial garde espoir. Anna ne parvient pas à faire reconnaître sa formation pour venir travailler au Québec.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_X2_IMMIGRANT_5ecb62741a",
+    "parent_source_unit_id": "X2_IMMIGRANT",
+    "source_set": "NEW_2",
+    "transcript": "Cependant, il reçoit une lettre lui expliquant qu'il doit reprendre des études",
+    "full_transcript": "Martial Abidbo, pharmacien en Côte d'Ivoire, est arrivé au Québec pensant y exercer son métier. Cependant, il reçoit une lettre lui expliquant qu'il doit reprendre des études universitaires pendant plus d'un an. Malgré tout, Martial garde espoir. Anna ne parvient pas à faire reconnaître sa formation pour venir travailler au Québec.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X2_SCREENS_fb3926a254",
+    "parent_source_unit_id": "X2_SCREENS",
+    "source_set": "NEW_2",
+    "transcript": "Le problème, c'est que ces usages sont essentiellement récréatifs et qu'ils prennent du temps sur d'autres activités plus structurantes et sur les interactions humaines. En réalité, il y a beaucoup d'études et tous les résultats démontrent un impact négatif sur le langage, l'attention, la régulation émotionnelle et la mémoire.",
+    "full_transcript": "Le problème, c'est que ces usages sont essentiellement récréatifs et qu'ils prennent du temps sur d'autres activités plus structurantes et sur les interactions humaines. En réalité, il y a beaucoup d'études et tous les résultats démontrent un impact négatif sur le langage, l'attention, la régulation émotionnelle et la mémoire.",
+    "is_contiguous_excerpt": true,
+    "word_count": 49
+  },
+  {
+    "audio_unit_id": "C_X2_SCREENS_4d64f0c320",
+    "parent_source_unit_id": "X2_SCREENS",
+    "source_set": "NEW_2",
+    "transcript": "Le problème, c'est que ces usages sont essentiellement récréatifs et qu'ils prennent du temps sur d'autres activités plus structurantes et sur les interactions humaines.",
+    "full_transcript": "Le problème, c'est que ces usages sont essentiellement récréatifs et qu'ils prennent du temps sur d'autres activités plus structurantes et sur les interactions humaines. En réalité, il y a beaucoup d'études et tous les résultats démontrent un impact négatif sur le langage, l'attention, la régulation émotionnelle et la mémoire.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_X2_SCREENS_6073244871",
+    "parent_source_unit_id": "X2_SCREENS",
+    "source_set": "NEW_2",
+    "transcript": "En réalité, il y a beaucoup d'études",
+    "full_transcript": "Le problème, c'est que ces usages sont essentiellement récréatifs et qu'ils prennent du temps sur d'autres activités plus structurantes et sur les interactions humaines. En réalité, il y a beaucoup d'études et tous les résultats démontrent un impact négatif sur le langage, l'attention, la régulation émotionnelle et la mémoire.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_X3_TOMATO_b426212be8",
+    "parent_source_unit_id": "X3_TOMATO",
+    "source_set": "NEW_3",
+    "transcript": "La tomate est un fruit, mais la controverse est allée jusqu'à la Cour suprême des États-Unis à la fin du XIXe siècle pour une question de droits de douane : à l'époque seuls les légumes étaient taxés. La Cour suprême a tranché en déclarant que la tomate était un légume, peu importe la botanique.",
+    "full_transcript": "La tomate est un fruit, mais la controverse est allée jusqu'à la Cour suprême des États-Unis à la fin du XIXe siècle pour une question de droits de douane : à l'époque seuls les légumes étaient taxés. La Cour suprême a tranché en déclarant que la tomate était un légume, peu importe la botanique.",
+    "is_contiguous_excerpt": true,
+    "word_count": 54
+  },
+  {
+    "audio_unit_id": "C_X3_TOMATO_e1c96ac58c",
+    "parent_source_unit_id": "X3_TOMATO",
+    "source_set": "NEW_3",
+    "transcript": "La tomate est un fruit, mais la controverse est allée jusqu'à la Cour suprême des États-Unis à la fin du XIXe siècle pour une question de droits de douane : à l'époque seuls les légumes étaient taxés.",
+    "full_transcript": "La tomate est un fruit, mais la controverse est allée jusqu'à la Cour suprême des États-Unis à la fin du XIXe siècle pour une question de droits de douane : à l'époque seuls les légumes étaient taxés. La Cour suprême a tranché en déclarant que la tomate était un légume, peu importe la botanique.",
+    "is_contiguous_excerpt": true,
+    "word_count": 37
+  },
+  {
+    "audio_unit_id": "C_X3_TOMATO_f14e20d77a",
+    "parent_source_unit_id": "X3_TOMATO",
+    "source_set": "NEW_3",
+    "transcript": "pour une question de droits de douane",
+    "full_transcript": "La tomate est un fruit, mais la controverse est allée jusqu'à la Cour suprême des États-Unis à la fin du XIXe siècle pour une question de droits de douane : à l'époque seuls les légumes étaient taxés. La Cour suprême a tranché en déclarant que la tomate était un légume, peu importe la botanique.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_X3_MIGRAINE_40ded0cf88",
+    "parent_source_unit_id": "X3_MIGRAINE",
+    "source_set": "NEW_3",
+    "transcript": "Elle s'installe progressivement et le plus souvent unilatérale. Elle peut durer de quatre heures à trois jours.",
+    "full_transcript": "La migraine est une céphalée particulière. Elle s'installe progressivement et le plus souvent unilatérale. Elle peut durer de quatre heures à trois jours. Elle est particulièrement longue, elle bat généralement, et elle s'accompagne le plus souvent de nausées, de vomissements, d'une gêne à la lumière ou d'une gêne au bruit.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "C_X3_MIGRAINE_7d5c98e75b",
+    "parent_source_unit_id": "X3_MIGRAINE",
+    "source_set": "NEW_3",
+    "transcript": "Elle peut durer de quatre heures à trois jours.",
+    "full_transcript": "La migraine est une céphalée particulière. Elle s'installe progressivement et le plus souvent unilatérale. Elle peut durer de quatre heures à trois jours. Elle est particulièrement longue, elle bat généralement, et elle s'accompagne le plus souvent de nausées, de vomissements, d'une gêne à la lumière ou d'une gêne au bruit.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_X3_MIGRAINE_e15d0da971",
+    "parent_source_unit_id": "X3_MIGRAINE",
+    "source_set": "NEW_3",
+    "transcript": "Elle s'installe progressivement et le plus souvent unilatérale",
+    "full_transcript": "La migraine est une céphalée particulière. Elle s'installe progressivement et le plus souvent unilatérale. Elle peut durer de quatre heures à trois jours. Elle est particulièrement longue, elle bat généralement, et elle s'accompagne le plus souvent de nausées, de vomissements, d'une gêne à la lumière ou d'une gêne au bruit.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_X3_APPAREIL_c8a0e76a80",
+    "parent_source_unit_id": "X3_APPAREIL",
+    "source_set": "NEW_3",
+    "transcript": "Le mot appareil est donc devenu synonyme de préparatif ; on parlait d'un appareil de cérémonie, c'est-à-dire avoir une apparence magnifique, se préparer.",
+    "full_transcript": "Il faudrait chercher dans le mot appareil et dans le verbe appareiller. Le verbe paraît signifier s'habiller, se préparer. On s'appareillait pour une cérémonie. Le mot appareil est donc devenu synonyme de préparatif ; on parlait d'un appareil de cérémonie, c'est-à-dire avoir une apparence magnifique, se préparer.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "C_X3_APPAREIL_8d099a2a9a",
+    "parent_source_unit_id": "X3_APPAREIL",
+    "source_set": "NEW_3",
+    "transcript": "synonyme de préparatif",
+    "full_transcript": "Il faudrait chercher dans le mot appareil et dans le verbe appareiller. Le verbe paraît signifier s'habiller, se préparer. On s'appareillait pour une cérémonie. Le mot appareil est donc devenu synonyme de préparatif ; on parlait d'un appareil de cérémonie, c'est-à-dire avoir une apparence magnifique, se préparer.",
+    "is_contiguous_excerpt": true,
+    "word_count": 3
+  },
+  {
+    "audio_unit_id": "C_X3_RIGHTS_88d6fc7b8c",
+    "parent_source_unit_id": "X3_RIGHTS",
+    "source_set": "NEW_3",
+    "transcript": "Au moment où nous rédigions la déclaration, on était encore sous le poids des événements de la Deuxième Guerre mondiale. Il y avait eu beaucoup de violations des droits de l'homme, non seulement du côté de l'axe mais aussi du côté des alliés victorieux.",
+    "full_transcript": "Au moment où nous rédigions la déclaration, on était encore sous le poids des événements de la Deuxième Guerre mondiale. Il y avait eu beaucoup de violations des droits de l'homme, non seulement du côté de l'axe mais aussi du côté des alliés victorieux. On ne pouvait pas ignorer ces défaites et ces violences.",
+    "is_contiguous_excerpt": true,
+    "word_count": 44
+  },
+  {
+    "audio_unit_id": "C_X3_RIGHTS_c6b1dada09",
+    "parent_source_unit_id": "X3_RIGHTS",
+    "source_set": "NEW_3",
+    "transcript": "Il y avait eu beaucoup de violations des droits de l'homme, non seulement du côté de l'axe mais aussi du côté des alliés victorieux.",
+    "full_transcript": "Au moment où nous rédigions la déclaration, on était encore sous le poids des événements de la Deuxième Guerre mondiale. Il y avait eu beaucoup de violations des droits de l'homme, non seulement du côté de l'axe mais aussi du côté des alliés victorieux. On ne pouvait pas ignorer ces défaites et ces violences.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_X3_RIGHTS_aa761ce6da",
+    "parent_source_unit_id": "X3_RIGHTS",
+    "source_set": "NEW_3",
+    "transcript": "sous le poids des événements de la Deuxième Guerre mondiale",
+    "full_transcript": "Au moment où nous rédigions la déclaration, on était encore sous le poids des événements de la Deuxième Guerre mondiale. Il y avait eu beaucoup de violations des droits de l'homme, non seulement du côté de l'axe mais aussi du côté des alliés victorieux. On ne pouvait pas ignorer ces défaites et ces violences.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_X3_HEAT_cb85feedde",
+    "parent_source_unit_id": "X3_HEAT",
+    "source_set": "NEW_3",
+    "transcript": "Les personnes sont moins aptes à réguler leur temps, leurs émotions ; les réactions plus extrêmes sont plus directes, on a moins de filtres dans un milieu chaud.",
+    "full_transcript": "On voit un impact visible sur le comportement. Les personnes sont moins aptes à réguler leur temps, leurs émotions ; les réactions plus extrêmes sont plus directes, on a moins de filtres dans un milieu chaud. On a une dégradation de fonctions cognitives, on va peut-être être un peu plus réactif vis-à-vis des autres.",
+    "is_contiguous_excerpt": true,
+    "word_count": 28
+  },
+  {
+    "audio_unit_id": "C_X3_HEAT_b01d93278b",
+    "parent_source_unit_id": "X3_HEAT",
+    "source_set": "NEW_3",
+    "transcript": "On a une dégradation de fonctions cognitives, on va peut-être être un peu plus réactif vis-à-vis des autres.",
+    "full_transcript": "On voit un impact visible sur le comportement. Les personnes sont moins aptes à réguler leur temps, leurs émotions ; les réactions plus extrêmes sont plus directes, on a moins de filtres dans un milieu chaud. On a une dégradation de fonctions cognitives, on va peut-être être un peu plus réactif vis-à-vis des autres.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_X3_HEAT_5623adf461",
+    "parent_source_unit_id": "X3_HEAT",
+    "source_set": "NEW_3",
+    "transcript": "les réactions plus extrêmes sont plus directes, on a moins de filtres",
+    "full_transcript": "On voit un impact visible sur le comportement. Les personnes sont moins aptes à réguler leur temps, leurs émotions ; les réactions plus extrêmes sont plus directes, on a moins de filtres dans un milieu chaud. On a une dégradation de fonctions cognitives, on va peut-être être un peu plus réactif vis-à-vis des autres.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X3_IMMIGRATION_ad18e1a609",
+    "parent_source_unit_id": "X3_IMMIGRATION",
+    "source_set": "NEW_3",
+    "transcript": "L'immigration est une partie de la population française, c'est une composante importante de la croissance de la population française en âge de travailler, de nos forces de travail potentielles.",
+    "full_transcript": "L'immigration est une partie de la population française, c'est une composante importante de la croissance de la population française en âge de travailler, de nos forces de travail potentielles. L'immigration fait partie de l'économie française et ce que l'on sait en termes d'évaluation d'impact économique n'est pas traduit par une augmentation du chômage.",
+    "is_contiguous_excerpt": true,
+    "word_count": 29
+  },
+  {
+    "audio_unit_id": "C_X3_IMMIGRATION_5918caa3e2",
+    "parent_source_unit_id": "X3_IMMIGRATION",
+    "source_set": "NEW_3",
+    "transcript": "n'est pas traduit par une augmentation du chômage",
+    "full_transcript": "L'immigration est une partie de la population française, c'est une composante importante de la croissance de la population française en âge de travailler, de nos forces de travail potentielles. L'immigration fait partie de l'économie française et ce que l'on sait en termes d'évaluation d'impact économique n'est pas traduit par une augmentation du chômage.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_X4_TRAVEL_AGENCY_32191e2dfa",
+    "parent_source_unit_id": "X4_TRAVEL_AGENCY",
+    "source_set": "NEW_4",
+    "transcript": "Mais certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple.",
+    "full_transcript": "Les agences de voyages permettent aux personnes qui n'ont pas l'habitude de voyager d'être orientées, conseillées, guidées. Mais certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple.",
+    "is_contiguous_excerpt": true,
+    "word_count": 27
+  },
+  {
+    "audio_unit_id": "C_X4_TRAVEL_AGENCY_729aef5a20",
+    "parent_source_unit_id": "X4_TRAVEL_AGENCY",
+    "source_set": "NEW_4",
+    "transcript": "sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin",
+    "full_transcript": "Les agences de voyages permettent aux personnes qui n'ont pas l'habitude de voyager d'être orientées, conseillées, guidées. Mais certaines agences, sous prétexte de conseiller des voyageurs inexpérimentés, vendent des services dont le client n'a pas nécessairement besoin, comme les services de guide par exemple.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "C_X4_EMOTION_1cc7661a23",
+    "parent_source_unit_id": "X4_EMOTION",
+    "source_set": "NEW_4",
+    "transcript": "La première chose à faire, c'est déjà reconnaître que l'émotion n'est pas là pour rien, c'est-à-dire s'accorder à soi-même d'être ému, touché. Accepter d'être en colère ou triste, c'est normal d'avoir des émotions normales.",
+    "full_transcript": "La première chose à faire, c'est déjà reconnaître que l'émotion n'est pas là pour rien, c'est-à-dire s'accorder à soi-même d'être ému, touché. Accepter d'être en colère ou triste, c'est normal d'avoir des émotions normales. Plus nous essayons de résister, plus ça s'amplifie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 34
+  },
+  {
+    "audio_unit_id": "C_X4_EMOTION_e7c530f22e",
+    "parent_source_unit_id": "X4_EMOTION",
+    "source_set": "NEW_4",
+    "transcript": "Accepter d'être en colère ou triste, c'est normal d'avoir des émotions normales.",
+    "full_transcript": "La première chose à faire, c'est déjà reconnaître que l'émotion n'est pas là pour rien, c'est-à-dire s'accorder à soi-même d'être ému, touché. Accepter d'être en colère ou triste, c'est normal d'avoir des émotions normales. Plus nous essayons de résister, plus ça s'amplifie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X4_EMOTION_5ce8059920",
+    "parent_source_unit_id": "X4_EMOTION",
+    "source_set": "NEW_4",
+    "transcript": "Plus nous essayons de résister, plus ça s'amplifie",
+    "full_transcript": "La première chose à faire, c'est déjà reconnaître que l'émotion n'est pas là pour rien, c'est-à-dire s'accorder à soi-même d'être ému, touché. Accepter d'être en colère ou triste, c'est normal d'avoir des émotions normales. Plus nous essayons de résister, plus ça s'amplifie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 8
+  },
+  {
+    "audio_unit_id": "C_X4_CAPITALISTES_d8fdbd7967",
+    "parent_source_unit_id": "X4_CAPITALISTES",
+    "source_set": "NEW_4",
+    "transcript": "Un groupe de parole se réunit tous les quinze jours à la Fabrique à Issy-les-Moulineaux pour partager son rapport à la consommation et à la sobriété. Le modèle est calqué sur celui des Alcooliques anonymes, en huit étapes clés.",
+    "full_transcript": "Un groupe de parole se réunit tous les quinze jours à la Fabrique à Issy-les-Moulineaux pour partager son rapport à la consommation et à la sobriété. Le modèle est calqué sur celui des Alcooliques anonymes, en huit étapes clés. Parmi lesquelles le fait d'admettre sa participation à la crise et de comprendre que la sobriété est l'objectif à atteindre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 39
+  },
+  {
+    "audio_unit_id": "C_X4_CAPITALISTES_374219ea49",
+    "parent_source_unit_id": "X4_CAPITALISTES",
+    "source_set": "NEW_4",
+    "transcript": "Un groupe de parole se réunit tous les quinze jours à la Fabrique à Issy-les-Moulineaux pour partager son rapport à la consommation et à la sobriété.",
+    "full_transcript": "Un groupe de parole se réunit tous les quinze jours à la Fabrique à Issy-les-Moulineaux pour partager son rapport à la consommation et à la sobriété. Le modèle est calqué sur celui des Alcooliques anonymes, en huit étapes clés. Parmi lesquelles le fait d'admettre sa participation à la crise et de comprendre que la sobriété est l'objectif à atteindre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 26
+  },
+  {
+    "audio_unit_id": "C_X4_CAPITALISTES_dd1364511f",
+    "parent_source_unit_id": "X4_CAPITALISTES",
+    "source_set": "NEW_4",
+    "transcript": "la sobriété est l'objectif à atteindre",
+    "full_transcript": "Un groupe de parole se réunit tous les quinze jours à la Fabrique à Issy-les-Moulineaux pour partager son rapport à la consommation et à la sobriété. Le modèle est calqué sur celui des Alcooliques anonymes, en huit étapes clés. Parmi lesquelles le fait d'admettre sa participation à la crise et de comprendre que la sobriété est l'objectif à atteindre.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_X4_AI_91fe0c82bd",
+    "parent_source_unit_id": "X4_AI",
+    "source_set": "NEW_4",
+    "transcript": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises. On lui montre une image ; si elle répond mal, on lui dit la bonne réponse et puis elle ajuste ses paramètres internes.",
+    "full_transcript": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises. On lui montre une image ; si elle répond mal, on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit par modification.",
+    "is_contiguous_excerpt": true,
+    "word_count": 51
+  },
+  {
+    "audio_unit_id": "C_X4_AI_2048719f06",
+    "parent_source_unit_id": "X4_AI",
+    "source_set": "NEW_4",
+    "transcript": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises.",
+    "full_transcript": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises. On lui montre une image ; si elle répond mal, on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit par modification.",
+    "is_contiguous_excerpt": true,
+    "word_count": 28
+  },
+  {
+    "audio_unit_id": "C_X4_AI_43b2bf73ba",
+    "parent_source_unit_id": "X4_AI",
+    "source_set": "NEW_4",
+    "transcript": "on lui dit la bonne réponse et puis elle ajuste ses paramètres",
+    "full_transcript": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises. On lui montre une image ; si elle répond mal, on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit par modification.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X4_RIGHT_REPAIR_1b779d8c61",
+    "parent_source_unit_id": "X4_RIGHT_REPAIR",
+    "source_set": "NEW_4",
+    "transcript": "Pour tout produit, les consommateurs devraient pouvoir trouver des pièces de rechange facilement et à un prix raisonnable. Cela obligerait aussi le fabricant à fournir gratuitement à tout réparateur certifié un manuel de réparation d'un bien.",
+    "full_transcript": "Pour tout produit, les consommateurs devraient pouvoir trouver des pièces de rechange facilement et à un prix raisonnable. Cela obligerait aussi le fabricant à fournir gratuitement à tout réparateur certifié un manuel de réparation d'un bien. La loi forcerait également les fabricants à apposer sur leurs produits une étiquette indiquant leur durée de vie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 36
+  },
+  {
+    "audio_unit_id": "C_X4_RIGHT_REPAIR_4ac684d6bc",
+    "parent_source_unit_id": "X4_RIGHT_REPAIR",
+    "source_set": "NEW_4",
+    "transcript": "La loi forcerait également les fabricants à apposer sur leurs produits une étiquette indiquant leur durée de vie.",
+    "full_transcript": "Pour tout produit, les consommateurs devraient pouvoir trouver des pièces de rechange facilement et à un prix raisonnable. Cela obligerait aussi le fabricant à fournir gratuitement à tout réparateur certifié un manuel de réparation d'un bien. La loi forcerait également les fabricants à apposer sur leurs produits une étiquette indiquant leur durée de vie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "C_X4_RIGHT_REPAIR_c8c3e2ef98",
+    "parent_source_unit_id": "X4_RIGHT_REPAIR",
+    "source_set": "NEW_4",
+    "transcript": "trouver des pièces de rechange facilement",
+    "full_transcript": "Pour tout produit, les consommateurs devraient pouvoir trouver des pièces de rechange facilement et à un prix raisonnable. Cela obligerait aussi le fabricant à fournir gratuitement à tout réparateur certifié un manuel de réparation d'un bien. La loi forcerait également les fabricants à apposer sur leurs produits une étiquette indiquant leur durée de vie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_X4_NUTRISCORE_3f61528114",
+    "parent_source_unit_id": "X4_NUTRISCORE",
+    "source_set": "NEW_4",
+    "transcript": "La nouveauté, c'est que l'OCDE a aussi analysé l'impact sur l'économie de la mise en place du Nutri-Score à l'échelle européenne. Cela permettrait de faire des économies en termes de dépenses de santé.",
+    "full_transcript": "L'efficacité d'un Nutri-Score avait déjà été évaluée par d'autres études scientifiques. La nouveauté, c'est que l'OCDE a aussi analysé l'impact sur l'économie de la mise en place du Nutri-Score à l'échelle européenne. Cela permettrait de faire des économies en termes de dépenses de santé.",
+    "is_contiguous_excerpt": true,
+    "word_count": 33
+  },
+  {
+    "audio_unit_id": "C_X4_NUTRISCORE_da512a751f",
+    "parent_source_unit_id": "X4_NUTRISCORE",
+    "source_set": "NEW_4",
+    "transcript": "Cela permettrait de faire des économies en termes de dépenses de santé.",
+    "full_transcript": "L'efficacité d'un Nutri-Score avait déjà été évaluée par d'autres études scientifiques. La nouveauté, c'est que l'OCDE a aussi analysé l'impact sur l'économie de la mise en place du Nutri-Score à l'échelle européenne. Cela permettrait de faire des économies en termes de dépenses de santé.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X4_NUTRISCORE_838fcd4299",
+    "parent_source_unit_id": "X4_NUTRISCORE",
+    "source_set": "NEW_4",
+    "transcript": "faire des économies en termes de dépenses de santé",
+    "full_transcript": "L'efficacité d'un Nutri-Score avait déjà été évaluée par d'autres études scientifiques. La nouveauté, c'est que l'OCDE a aussi analysé l'impact sur l'économie de la mise en place du Nutri-Score à l'échelle européenne. Cela permettrait de faire des économies en termes de dépenses de santé.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_X5_MYLENE_d51319c002",
+    "parent_source_unit_id": "X5_MYLENE",
+    "source_set": "NEW_5",
+    "transcript": "Si elle réussit cet exploit, elle devra parcourir 5000 kilomètres et prévoit environ 130 jours en mer.",
+    "full_transcript": "Notre équipe radio au Canada a décidé de suivre la première navigatrice nord-américaine à traverser l'Atlantique nord en solitaire et en solitaire à Montréalais Mylène Paquette est partie de Halifax. Si elle réussit cet exploit, elle devra parcourir 5000 kilomètres et prévoit environ 130 jours en mer.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "C_X5_MYLENE_c1023f8d6d",
+    "parent_source_unit_id": "X5_MYLENE",
+    "source_set": "NEW_5",
+    "transcript": "la première navigatrice nord-américaine à traverser l'Atlantique nord en solitaire",
+    "full_transcript": "Notre équipe radio au Canada a décidé de suivre la première navigatrice nord-américaine à traverser l'Atlantique nord en solitaire et en solitaire à Montréalais Mylène Paquette est partie de Halifax. Si elle réussit cet exploit, elle devra parcourir 5000 kilomètres et prévoit environ 130 jours en mer.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_X5_PARENTAL_0dab8e9e28",
+    "parent_source_unit_id": "X5_PARENTAL",
+    "source_set": "NEW_5",
+    "transcript": "Peu de pays ont réellement expérimenté un revenu parental en tant que tel ; la plupart compensent le congé lié à une naissance, congé maternité ou congé paternité.",
+    "full_transcript": "Pour une majorité, quatre mois par parents et par enfant rémunérés aux mêmes conditions que les arrêts maladie. Mais plusieurs États ont bataillé contre cette idée. Peu de pays ont réellement expérimenté un revenu parental en tant que tel ; la plupart compensent le congé lié à une naissance, congé maternité ou congé paternité.",
+    "is_contiguous_excerpt": true,
+    "word_count": 28
+  },
+  {
+    "audio_unit_id": "C_X5_PARENTAL_eb97bffc27",
+    "parent_source_unit_id": "X5_PARENTAL",
+    "source_set": "NEW_5",
+    "transcript": "la plupart compensent le congé lié à une naissance",
+    "full_transcript": "Pour une majorité, quatre mois par parents et par enfant rémunérés aux mêmes conditions que les arrêts maladie. Mais plusieurs États ont bataillé contre cette idée. Peu de pays ont réellement expérimenté un revenu parental en tant que tel ; la plupart compensent le congé lié à une naissance, congé maternité ou congé paternité.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_X5_REFUGEES_83c5932e1d",
+    "parent_source_unit_id": "X5_REFUGEES",
+    "source_set": "NEW_5",
+    "transcript": "Quatre réfugiés sur cinq sont partis dans un pays voisin du leur et 85 % des réfugiés vivent dans un pays en voie de développement.",
+    "full_transcript": "Les signes d'hostilité se multiplient. Le rapport annuel montre que le nombre de réfugiés a augmenté. Quatre réfugiés sur cinq sont partis dans un pays voisin du leur et 85 % des réfugiés vivent dans un pays en voie de développement. Le droit d'asile se rétrécit et se grignote petit à petit.",
+    "is_contiguous_excerpt": true,
+    "word_count": 25
+  },
+  {
+    "audio_unit_id": "C_X5_REFUGEES_150970e4fb",
+    "parent_source_unit_id": "X5_REFUGEES",
+    "source_set": "NEW_5",
+    "transcript": "85 % des réfugiés vivent dans un pays en voie de développement",
+    "full_transcript": "Les signes d'hostilité se multiplient. Le rapport annuel montre que le nombre de réfugiés a augmenté. Quatre réfugiés sur cinq sont partis dans un pays voisin du leur et 85 % des réfugiés vivent dans un pays en voie de développement. Le droit d'asile se rétrécit et se grignote petit à petit.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X5_BLACKFRIDAY_fc8c94010d",
+    "parent_source_unit_id": "X5_BLACKFRIDAY",
+    "source_set": "NEW_5",
+    "transcript": "En 2018, plus de 50 millions de transactions par carte bancaire ont été réalisées le vendredi, soit une hausse de huit millions en un an. Rien que la journée du Black Friday, les Français dépensent environ 2,5 milliards d'euros.",
+    "full_transcript": "Les Français sont de plus en plus nombreux chaque année à profiter du Black Friday. En 2018, plus de 50 millions de transactions par carte bancaire ont été réalisées le vendredi, soit une hausse de huit millions en un an. Rien que la journée du Black Friday, les Français dépensent environ 2,5 milliards d'euros.",
+    "is_contiguous_excerpt": true,
+    "word_count": 39
+  },
+  {
+    "audio_unit_id": "C_X5_BLACKFRIDAY_75d9b2482d",
+    "parent_source_unit_id": "X5_BLACKFRIDAY",
+    "source_set": "NEW_5",
+    "transcript": "Rien que la journée du Black Friday, les Français dépensent environ 2,5 milliards d'euros.",
+    "full_transcript": "Les Français sont de plus en plus nombreux chaque année à profiter du Black Friday. En 2018, plus de 50 millions de transactions par carte bancaire ont été réalisées le vendredi, soit une hausse de huit millions en un an. Rien que la journée du Black Friday, les Français dépensent environ 2,5 milliards d'euros.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_X5_BLACKFRIDAY_5dc6b94021",
+    "parent_source_unit_id": "X5_BLACKFRIDAY",
+    "source_set": "NEW_5",
+    "transcript": "les Français dépensent environ 2,5 milliards d'euros",
+    "full_transcript": "Les Français sont de plus en plus nombreux chaque année à profiter du Black Friday. En 2018, plus de 50 millions de transactions par carte bancaire ont été réalisées le vendredi, soit une hausse de huit millions en un an. Rien que la journée du Black Friday, les Français dépensent environ 2,5 milliards d'euros.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_X5_ORGANIC_9fb5782526",
+    "parent_source_unit_id": "X5_ORGANIC",
+    "source_set": "NEW_5",
+    "transcript": "Beaucoup y voient un moyen de mieux gagner leur vie. Les éleveurs de bovins ont vu le prix du lait chuter avec la crise ; certains ont décidé de passer au bio.",
+    "full_transcript": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie. Les éleveurs de bovins ont vu le prix du lait chuter avec la crise ; certains ont décidé de passer au bio. Un agriculteur en a profité pour tripler la taille de son cheptel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 32
+  },
+  {
+    "audio_unit_id": "C_X5_ORGANIC_6e02f321b1",
+    "parent_source_unit_id": "X5_ORGANIC",
+    "source_set": "NEW_5",
+    "transcript": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique.",
+    "full_transcript": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie. Les éleveurs de bovins ont vu le prix du lait chuter avec la crise ; certains ont décidé de passer au bio. Un agriculteur en a profité pour tripler la taille de son cheptel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_X5_ORGANIC_bbf7a11caf",
+    "parent_source_unit_id": "X5_ORGANIC",
+    "source_set": "NEW_5",
+    "transcript": "pas seulement par conviction écologique",
+    "full_transcript": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie. Les éleveurs de bovins ont vu le prix du lait chuter avec la crise ; certains ont décidé de passer au bio. Un agriculteur en a profité pour tripler la taille de son cheptel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 5
+  },
+  {
+    "audio_unit_id": "C_X5_ANIMALS_3389a7ca4c",
+    "parent_source_unit_id": "X5_ANIMALS",
+    "source_set": "NEW_5",
+    "transcript": "Je suis d'accord pour dire que les Français ne sont pas du tout prêts à renoncer à leur steak ou à leur poisson.",
+    "full_transcript": "Je suis d'accord pour dire que les Français ne sont pas du tout prêts à renoncer à leur steak ou à leur poisson. Autre produit issu de l'exploitation des animaux que nous disons, nous l'association Droit des animaux. C'est un horizon moral. Une société qui revendique des valeurs de paix et de justice devrait les porter aussi à l'égard des animaux.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "C_X5_ANIMALS_f23e901889",
+    "parent_source_unit_id": "X5_ANIMALS",
+    "source_set": "NEW_5",
+    "transcript": "Une société qui revendique des valeurs de paix et de justice devrait les porter aussi à l'égard des animaux.",
+    "full_transcript": "Je suis d'accord pour dire que les Français ne sont pas du tout prêts à renoncer à leur steak ou à leur poisson. Autre produit issu de l'exploitation des animaux que nous disons, nous l'association Droit des animaux. C'est un horizon moral. Une société qui revendique des valeurs de paix et de justice devrait les porter aussi à l'égard des animaux.",
+    "is_contiguous_excerpt": true,
+    "word_count": 19
+  },
+  {
+    "audio_unit_id": "C_X5_ANIMALS_6e04168967",
+    "parent_source_unit_id": "X5_ANIMALS",
+    "source_set": "NEW_5",
+    "transcript": "un horizon moral. Une société qui revendique des valeurs de paix et de justice",
+    "full_transcript": "Je suis d'accord pour dire que les Français ne sont pas du tout prêts à renoncer à leur steak ou à leur poisson. Autre produit issu de l'exploitation des animaux que nous disons, nous l'association Droit des animaux. C'est un horizon moral. Une société qui revendique des valeurs de paix et de justice devrait les porter aussi à l'égard des animaux.",
+    "is_contiguous_excerpt": true,
+    "word_count": 14
+  },
+  {
+    "audio_unit_id": "C_X6_STRIKE_cecde07cfe",
+    "parent_source_unit_id": "X6_STRIKE",
+    "source_set": "NEW_6",
+    "transcript": "Jusqu'à présent les discussions ont été peu fructueuses. Nous resterons déterminés jusqu'à ce que nos demandes soient entendues ; nous sommes prêts à continuer la lutte aussi longtemps qu'il le faudra.",
+    "full_transcript": "Nous protestons contre les conditions de travail précaires et les bas salaires dans notre industrie. Jusqu'à présent les discussions ont été peu fructueuses. Nous resterons déterminés jusqu'à ce que nos demandes soient entendues ; nous sommes prêts à continuer la lutte aussi longtemps qu'il le faudra.",
+    "is_contiguous_excerpt": true,
+    "word_count": 31
+  },
+  {
+    "audio_unit_id": "C_X6_STRIKE_6ff84d9f08",
+    "parent_source_unit_id": "X6_STRIKE",
+    "source_set": "NEW_6",
+    "transcript": "Nous resterons déterminés jusqu'à ce que nos demandes soient entendues ; nous sommes prêts à continuer la lutte aussi longtemps qu'il le faudra.",
+    "full_transcript": "Nous protestons contre les conditions de travail précaires et les bas salaires dans notre industrie. Jusqu'à présent les discussions ont été peu fructueuses. Nous resterons déterminés jusqu'à ce que nos demandes soient entendues ; nous sommes prêts à continuer la lutte aussi longtemps qu'il le faudra.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "C_X6_STRIKE_2902f761b5",
+    "parent_source_unit_id": "X6_STRIKE",
+    "source_set": "NEW_6",
+    "transcript": "jusqu'à ce que nos demandes soient entendues",
+    "full_transcript": "Nous protestons contre les conditions de travail précaires et les bas salaires dans notre industrie. Jusqu'à présent les discussions ont été peu fructueuses. Nous resterons déterminés jusqu'à ce que nos demandes soient entendues ; nous sommes prêts à continuer la lutte aussi longtemps qu'il le faudra.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_X6_TELEWORK_c83b511c0c",
+    "parent_source_unit_id": "X6_TELEWORK",
+    "source_set": "NEW_6",
+    "transcript": "Sophie souligne que travailler depuis chez elle lui a permis de mieux gérer son temps et d'éviter les déplacements stressants. En revanche, pour Antoine, le travail à distance a été un défi : difficultés de communication avec son équipe, sentiment d'isolement et frontière plus floue entre vie professionnelle et vie personnelle.",
+    "full_transcript": "Sophie souligne que travailler depuis chez elle lui a permis de mieux gérer son temps et d'éviter les déplacements stressants. En revanche, pour Antoine, le travail à distance a été un défi : difficultés de communication avec son équipe, sentiment d'isolement et frontière plus floue entre vie professionnelle et vie personnelle.",
+    "is_contiguous_excerpt": true,
+    "word_count": 51
+  },
+  {
+    "audio_unit_id": "C_X6_TELEWORK_60bd447197",
+    "parent_source_unit_id": "X6_TELEWORK",
+    "source_set": "NEW_6",
+    "transcript": "le travail à distance a été un défi : difficultés de communication avec son équipe",
+    "full_transcript": "Sophie souligne que travailler depuis chez elle lui a permis de mieux gérer son temps et d'éviter les déplacements stressants. En revanche, pour Antoine, le travail à distance a été un défi : difficultés de communication avec son équipe, sentiment d'isolement et frontière plus floue entre vie professionnelle et vie personnelle.",
+    "is_contiguous_excerpt": true,
+    "word_count": 15
+  },
+  {
+    "audio_unit_id": "C_X6_TELEWORK_9b4904628a",
+    "parent_source_unit_id": "X6_TELEWORK",
+    "source_set": "NEW_6",
+    "transcript": "En revanche, pour Antoine, le travail à distance a été un défi",
+    "full_transcript": "Sophie souligne que travailler depuis chez elle lui a permis de mieux gérer son temps et d'éviter les déplacements stressants. En revanche, pour Antoine, le travail à distance a été un défi : difficultés de communication avec son équipe, sentiment d'isolement et frontière plus floue entre vie professionnelle et vie personnelle.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X6_NGO_c8ee58940a",
+    "parent_source_unit_id": "X6_NGO",
+    "source_set": "NEW_6",
+    "transcript": "Elle affirme que les dirigeants de ces entreprises sont responsables de dégradations écologiques graves ; son action vise à tenir ces dirigeants responsables de leurs actes.",
+    "full_transcript": "Une organisation non gouvernementale décide de porter plainte contre les dirigeants de grandes entreprises pour leurs pratiques néfastes envers l'environnement. Elle affirme que les dirigeants de ces entreprises sont responsables de dégradations écologiques graves ; son action vise à tenir ces dirigeants responsables de leurs actes.",
+    "is_contiguous_excerpt": true,
+    "word_count": 26
+  },
+  {
+    "audio_unit_id": "C_X6_NGO_f45953764b",
+    "parent_source_unit_id": "X6_NGO",
+    "source_set": "NEW_6",
+    "transcript": "tenir ces dirigeants responsables de leurs actes",
+    "full_transcript": "Une organisation non gouvernementale décide de porter plainte contre les dirigeants de grandes entreprises pour leurs pratiques néfastes envers l'environnement. Elle affirme que les dirigeants de ces entreprises sont responsables de dégradations écologiques graves ; son action vise à tenir ces dirigeants responsables de leurs actes.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_X6_BOUQUINISTES_7f769a9058",
+    "parent_source_unit_id": "X6_BOUQUINISTES",
+    "source_set": "NEW_6",
+    "transcript": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024.",
+    "full_transcript": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024. Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition pour les générations futures.",
+    "is_contiguous_excerpt": true,
+    "word_count": 22
+  },
+  {
+    "audio_unit_id": "C_X6_BOUQUINISTES_8613f82377",
+    "parent_source_unit_id": "X6_BOUQUINISTES",
+    "source_set": "NEW_6",
+    "transcript": "Il a souligné l'importance de préserver cette tradition pour les générations futures.",
+    "full_transcript": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024. Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition pour les générations futures.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_X6_BOUQUINISTES_ce1fd704e1",
+    "parent_source_unit_id": "X6_BOUQUINISTES",
+    "source_set": "NEW_6",
+    "transcript": "a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement",
+    "full_transcript": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024. Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition pour les générations futures.",
+    "is_contiguous_excerpt": true,
+    "word_count": 13
+  },
+  {
+    "audio_unit_id": "C_X6_FASTFOOD_971c68d254",
+    "parent_source_unit_id": "X6_FASTFOOD",
+    "source_set": "NEW_6",
+    "transcript": "Chez les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %. Les repas rapides sont souvent riches en gras, en sucre et en sel.",
+    "full_transcript": "Selon les données les plus récentes, près de 40 % des Canadiens consomment au moins un repas dans un fast-food chaque jour. Chez les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %. Les repas rapides sont souvent riches en gras, en sucre et en sel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 30
+  },
+  {
+    "audio_unit_id": "C_X6_FASTFOOD_f8837efd48",
+    "parent_source_unit_id": "X6_FASTFOOD",
+    "source_set": "NEW_6",
+    "transcript": "Selon les données les plus récentes, près de 40 % des Canadiens consomment au moins un repas dans un fast-food chaque jour.",
+    "full_transcript": "Selon les données les plus récentes, près de 40 % des Canadiens consomment au moins un repas dans un fast-food chaque jour. Chez les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %. Les repas rapides sont souvent riches en gras, en sucre et en sel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 22
+  },
+  {
+    "audio_unit_id": "C_X6_FASTFOOD_1e64f243ca",
+    "parent_source_unit_id": "X6_FASTFOOD",
+    "source_set": "NEW_6",
+    "transcript": "Chez les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %",
+    "full_transcript": "Selon les données les plus récentes, près de 40 % des Canadiens consomment au moins un repas dans un fast-food chaque jour. Chez les jeunes Canadiens âgés de 18 à 34 ans, ce pourcentage grimpe même à 60 %. Les repas rapides sont souvent riches en gras, en sucre et en sel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "C_X6_SCAMS_09c0263439",
+    "parent_source_unit_id": "X6_SCAMS",
+    "source_set": "NEW_6",
+    "transcript": "Les arnaques téléphoniques prennent différentes formes, allant des appels frauduleux de faux centres d'appels prétendant représenter des entreprises ou des institutions publiques légitimes aux tentatives de phishing visant à obtenir des informations personnelles et bancaires des victimes. Elles peuvent entraîner perte d'argent et usurpation d'identité.",
+    "full_transcript": "Les arnaques téléphoniques prennent différentes formes, allant des appels frauduleux de faux centres d'appels prétendant représenter des entreprises ou des institutions publiques légitimes aux tentatives de phishing visant à obtenir des informations personnelles et bancaires des victimes. Elles peuvent entraîner perte d'argent et usurpation d'identité.",
+    "is_contiguous_excerpt": true,
+    "word_count": 45
+  },
+  {
+    "audio_unit_id": "C_X6_SCAMS_223fbfe4db",
+    "parent_source_unit_id": "X6_SCAMS",
+    "source_set": "NEW_6",
+    "transcript": "allant des appels frauduleux de faux centres d'appels prétendant représenter des entreprises ou des institutions publiques légitimes aux tentatives de phishing visant à obtenir des informations personnelles et bancaires des victimes.",
+    "full_transcript": "Les arnaques téléphoniques prennent différentes formes, allant des appels frauduleux de faux centres d'appels prétendant représenter des entreprises ou des institutions publiques légitimes aux tentatives de phishing visant à obtenir des informations personnelles et bancaires des victimes. Elles peuvent entraîner perte d'argent et usurpation d'identité.",
+    "is_contiguous_excerpt": true,
+    "word_count": 31
+  },
+  {
+    "audio_unit_id": "C_X6_SCAMS_0c98c7a82a",
+    "parent_source_unit_id": "X6_SCAMS",
+    "source_set": "NEW_6",
+    "transcript": "obtenir des informations personnelles et bancaires",
+    "full_transcript": "Les arnaques téléphoniques prennent différentes formes, allant des appels frauduleux de faux centres d'appels prétendant représenter des entreprises ou des institutions publiques légitimes aux tentatives de phishing visant à obtenir des informations personnelles et bancaires des victimes. Elles peuvent entraîner perte d'argent et usurpation d'identité.",
+    "is_contiguous_excerpt": true,
+    "word_count": 6
+  },
+  {
+    "audio_unit_id": "C_ST_N3_ORIG_P1_49a8714029",
+    "parent_source_unit_id": "ST_N3_ORIG_P1",
+    "source_set": "NEW_3",
+    "transcript": "Il y a l'origine locale, ça c'est bien pour soutenir l'économie locale, j'en achète parfois si c'est pas trop cher.",
+    "full_transcript": "Il y a l'origine locale, ça c'est bien pour soutenir l'économie locale, j'en achète parfois si c'est pas trop cher.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "C_ST_N3_ORIG_P2_ca5b3d0398",
+    "parent_source_unit_id": "ST_N3_ORIG_P2",
+    "source_set": "NEW_3",
+    "transcript": "Je ne consomme que des produits garantissant le bien-être animal",
+    "full_transcript": "Je ne consomme que des produits garantissant le bien-être animal, et pour ça il faut de la transparence, donc des produits avec une origine claire, c'est pas si compliqué.",
+    "is_contiguous_excerpt": true,
+    "word_count": 10
+  },
+  {
+    "audio_unit_id": "C_ST_N3_ORIG_P3_299768ec91",
+    "parent_source_unit_id": "ST_N3_ORIG_P3",
+    "source_set": "NEW_3",
+    "transcript": "Je privilégie le local, le fait maison",
+    "full_transcript": "Du bio provenant de l'autre bout du monde, non merci, il faut arrêter avec ces concepts marketing. Je privilégie le local, le fait maison.",
+    "is_contiguous_excerpt": true,
+    "word_count": 7
+  },
+  {
+    "audio_unit_id": "C_ST_N3_SAVE_P2_9c5309d6ff",
+    "parent_source_unit_id": "ST_N3_SAVE_P2",
+    "source_set": "NEW_3",
+    "transcript": "J'aimerais bien pouvoir économiser un peu chaque mois, ne serait-ce que pour payer des vacances sympas à mes enfants mais honnêtement c'est compliqué et en cas de gros soucis, euh, j'ai un peu peur.",
+    "full_transcript": "J'aimerais bien pouvoir économiser un peu chaque mois, ne serait-ce que pour payer des vacances sympas à mes enfants mais honnêtement c'est compliqué et en cas de gros soucis, euh, j'ai un peu peur.",
+    "is_contiguous_excerpt": true,
+    "word_count": 34
+  },
+  {
+    "audio_unit_id": "C_ST_N4_TW_P1_1433a5de50",
+    "parent_source_unit_id": "ST_N4_TW_P1",
+    "source_set": "NEW_4",
+    "transcript": "Cette autonomie se traduit par une amélioration significative de l'équilibre entre la vie professionnelle et personnelle.",
+    "full_transcript": "Le télétravail est une révolution positive. Il offre une flexibilité inégalée permettant aux travailleurs de gérer leur emploi du temps de manière plus autonome. Cette autonomie se traduit par une amélioration significative de l'équilibre entre la vie professionnelle et personnelle. Je suis profondément convaincu que le télétravail représente l'avenir du travail moderne, offrant des avantages considérables.",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  },
+  {
+    "audio_unit_id": "C_ST_N4_TW_P3_5400047028",
+    "parent_source_unit_id": "ST_N4_TW_P3",
+    "source_set": "NEW_4",
+    "transcript": "Le télétravail est une menace pour la productivité et la cohésion d'équipe.",
+    "full_transcript": "Le télétravail est une menace pour la productivité et la cohésion d'équipe. Rien ne remplace le travail en personne, je m'oppose fermement à cette tendance.",
+    "is_contiguous_excerpt": true,
+    "word_count": 12
+  },
+  {
+    "audio_unit_id": "C_ST_N6_UNI_P1_8f8421c05a",
+    "parent_source_unit_id": "ST_N6_UNI_P1",
+    "source_set": "NEW_6",
+    "transcript": "Mais honnêtement, j'ai peu d'espoir que ça marche malheureusement.",
+    "full_transcript": "Si on était en 1904, ça pourrait marcher facilement, mais on est en 2024. Ce serait vraiment dur d'imposer ça aux jeunes d'aujourd'hui parce qu'ils veulent exprimer leur identité à tout prix sur les réseaux sociaux. Mais vu l'état déplorable de la jeunesse, peut-être qu'il faut essayer. Mais honnêtement, j'ai peu d'espoir que ça marche malheureusement.",
+    "is_contiguous_excerpt": true,
+    "word_count": 9
+  },
+  {
+    "audio_unit_id": "C_ST_N6_UNI_P2_692c4df8ed",
+    "parent_source_unit_id": "ST_N6_UNI_P2",
+    "source_set": "NEW_6",
+    "transcript": "Donc s'habiller pareil comme à l'ancienne pourrait, d'après moi, leur faire prendre conscience de la vie en groupe et qu'il faut respecter les règles.",
+    "full_transcript": "Personnellement, je pense que les jeunes ne sont pas disciplinés de nos jours. Donc s'habiller pareil comme à l'ancienne pourrait, d'après moi, leur faire prendre conscience de la vie en groupe et qu'il faut respecter les règles. Donc c'est une bonne idée, il faut le faire.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_ST_N6_LEAVE_P1_e622e086e8",
+    "parent_source_unit_id": "ST_N6_LEAVE_P1",
+    "source_set": "NEW_6",
+    "transcript": "la qualité de vie est très bonne, je n'irais nulle part",
+    "full_transcript": "Absolument pas, j'aime mon pays. Je sais qu'il n'est pas parfait mais comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+    "is_contiguous_excerpt": true,
+    "word_count": 11
+  },
+  {
+    "audio_unit_id": "C_ST_N6_LEAVE_P2_741a20bd29",
+    "parent_source_unit_id": "ST_N6_LEAVE_P2",
+    "source_set": "NEW_6",
+    "transcript": "je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs mais si j'en ai l'occasion",
+    "full_transcript": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs mais si j'en ai l'occasion, je le ferai peut-être.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "C_ST_N6_LEAVE_P3_c0cc473641",
+    "parent_source_unit_id": "ST_N6_LEAVE_P3",
+    "source_set": "NEW_6",
+    "transcript": "Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française.",
+    "full_transcript": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française. Les gens sont trop fermés ici.",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "version": "0.4-clip-refactor",
+  "stimuli": 420,
+  "full_sources": 116,
+  "audio_units": 267,
+  "expected_mp3": 1068,
+  "modules": {
+    "COMM_INTENT": {
+      "n": 100,
+      "median_words": 8.0,
+      "p90_words": 21,
+      "min_words": 3,
+      "max_words": 33,
+      "pct_le_20_words": 88.0
+    },
+    "LOGIC_STATE": {
+      "n": 136,
+      "median_words": 6.0,
+      "p90_words": 13,
+      "min_words": 3,
+      "max_words": 22,
+      "pct_le_20_words": 98.5
+    },
+    "VERB_FRAME": {
+      "n": 40,
+      "median_words": 14.5,
+      "p90_words": 21,
+      "min_words": 5,
+      "max_words": 23,
+      "pct_le_20_words": 85.0
+    },
+    "STANCE": {
+      "n": 36,
+      "median_words": 16.5,
+      "p90_words": 28,
+      "min_words": 3,
+      "max_words": 34,
+      "pct_le_20_words": 69.4
+    },
+    "PARAPHRASE": {
+      "n": 60,
+      "median_words": 20.0,
+      "p90_words": 28,
+      "min_words": 9,
+      "max_words": 37,
+      "pct_le_20_words": 56.7
+    },
+    "SHORT_MID": {
+      "n": 48,
+      "median_words": 32.5,
+      "p90_words": 50,
+      "min_words": 17,
+      "max_words": 58,
+      "pct_le_20_words": 6.2
+    }
+  }
+}
