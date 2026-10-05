@@ -1,0 +1,39 @@
+{
+  "version": "0.5-language-mine",
+  "new_language_chunks": 250,
+  "new_audio_units_total_for_lc": 250,
+  "chunk_subtypes": {
+    "STATE": 37,
+    "FORMULA": 62,
+    "TIME": 13,
+    "COLLOCATION": 14,
+    "QUANTITY": 3,
+    "AFFECT": 10,
+    "ADMIN": 15,
+    "LOGIC": 25,
+    "TRAVEL": 3,
+    "VERB_FRAME": 25,
+    "LOCATION": 3,
+    "CONDITION": 7,
+    "STANCE": 14,
+    "IDIOM": 7,
+    "DISCOURSE": 12
+  },
+  "tier_counts": {
+    "A": 179,
+    "B": 71
+  },
+  "word_count": {
+    "min": 2,
+    "median": 6,
+    "max": 11,
+    "le_10": 249,
+    "le_15": 250
+  },
+  "policy": [
+    "authentic contiguous excerpts only",
+    "non-answer-bearing material actively included",
+    "short rapid repetition prioritized",
+    "PARAPHRASE and SHORT_MID disabled from default ALL scheduler"
+  ]
+}

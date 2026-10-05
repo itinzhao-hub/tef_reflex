@@ -27,12 +27,12 @@ for aid,unit in units.items():
     for v,sp,pr in profiles:
         rel=f'audio/clips/{aid}__{pr}.mp3'; p=ROOT/rel
         files.append({'audio_unit_id':aid,'parent_source_unit_id':unit['parent_source_unit_id'],'voice':v,'speed':sp,'profile':pr,'path':rel,'exists':p.exists(),'bytes':p.stat().st_size if p.exists() else 0})
-dump(AUDIO_MANIFEST,{'version':4,'expected_files':len(files),'generated_files':sum(x['exists'] for x in files),'files':files})
+dump(AUDIO_MANIFEST,{'version':5,'expected_files':len(files),'generated_files':sum(x['exists'] for x in files),'files':files})
 
 existing=['./'+x['path'] for x in files if x['exists']]
-core=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./data/stimuli.json','./data/trainer_config.json','./data/audio_manifest.json','./data/source_units.json','./data/audio_units.json','./data/clip_refactor_report.json']
+core=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./data/stimuli.json','./data/trainer_config.json','./data/audio_manifest.json','./data/source_units.json','./data/audio_units.json','./data/clip_refactor_report.json','./data/language_mine_report.json']
 assets=core+existing
-sw="""const CACHE='tef-reflex-core-v04-clips';\nconst CORE="""+json.dumps(assets,ensure_ascii=False)+""";\nself.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));\nself.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));\nself.addEventListener('fetch',e=>{\n  if(e.request.method!=='GET') return;\n  e.respondWith(caches.match(e.request).then(cached=>cached||fetch(e.request).then(resp=>{\n    const copy=resp.clone(); caches.open(CACHE).then(c=>c.put(e.request,copy)).catch(()=>{}); return resp;\n  })));\n});\n"""
+sw="""const CACHE='tef-reflex-core-v05-language-mine';\nconst CORE="""+json.dumps(assets,ensure_ascii=False)+""";\nself.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));\nself.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));\nself.addEventListener('fetch',e=>{\n  if(e.request.method!=='GET') return;\n  e.respondWith(caches.match(e.request).then(cached=>cached||fetch(e.request).then(resp=>{\n    const copy=resp.clone(); caches.open(CACHE).then(c=>c.put(e.request,copy)).catch(()=>{}); return resp;\n  })));\n});\n"""
 SW.write_text(sw,encoding='utf-8')
 print(f'Patched {len(stimuli)} stimuli using {len(units)} clip audio units.')
 print(f'Audio manifest: {sum(x["exists"] for x in files)}/{len(files)} files present.')

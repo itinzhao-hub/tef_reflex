@@ -452,7 +452,11 @@
   }
 
   function selectStimulus(){
-    let pool=stimuli.filter(s=>(settings.moduleFilter==='ALL'||s.module===settings.moduleFilter) && (!s.group_id || Number(s.group_position)===1));
+    const disabledDefault = new Set(config?.scheduler?.disabled_by_default || []);
+    let pool=stimuli.filter(s=>{
+      const moduleOK = settings.moduleFilter==='ALL' ? !disabledDefault.has(s.module) : s.module===settings.moduleFilter;
+      return moduleOK && (!s.group_id || Number(s.group_position)===1);
+    });
     if(!pool.length) pool=stimuli;
     session.reinsertion = session.reinsertion || [];
     for(const item of session.reinsertion) item.after--;
@@ -475,11 +479,12 @@
   }
   function stimulusWeight(s){
     const tierW={A:3,B:1.6,C:.7}[s.tier]||1;
+    const moduleW = settings.moduleFilter==='ALL' ? (config?.scheduler?.module_weights?.[s.module] ?? 1) : 1;
     const m=mastery[s.stimulus_id]||{score:0,state:'ACQUISITION',recent:[]};
     let maturityW=m.state==='ACQUISITION'?1.5:m.state==='CONSOLIDATION'?1.1:.55;
     const r=m.recent||[];
     if(r.some(x=>['FP_WRONG','REPLAY_WRONG','REVEAL'].includes(x))) maturityW*=1.5;
-    return tierW*maturityW*(.85+Math.random()*.3);
+    return tierW*moduleW*maturityW*(.85+Math.random()*.3);
   }
 
   function scheduleReinsert(id){

@@ -1,6 +1,6 @@
 {
-  "version": "0.4-clip-refactor",
-  "created_from": "User-provided TEF_NEW_1 through TEF_NEW_6 screenshots only. v0.3 expands authentic source diversity and adds task-reframing reinforcement without adding external corpus.",
+  "version": "0.5-language-mine",
+  "created_from": "Core 0.4 clip architecture + second-pass mining of user-provided TEF_NEW_1 through TEF_NEW_6 transcripts. No external French corpus.",
   "counts": {
     "COMM_INTENT": 100,
     "LOGIC_STATE": 136,
@@ -8,10 +8,11 @@
     "STANCE": 36,
     "PARAPHRASE": 60,
     "SHORT_MID": 48,
-    "total": 420,
+    "LANGUAGE_CHUNK": 250,
+    "total": 670,
     "unique_source_units": 116,
-    "native_source_tasks": 300,
-    "task_reframing_only": 120
+    "unique_audio_units": 488,
+    "default_active_total": 562
   },
   "source_priority": "native_true_exam_first",
   "timing": {
@@ -61,7 +62,27 @@
       5,
       15
     ],
-    "avoid_sibling_same_session_window": true
+    "avoid_sibling_same_session_window": true,
+    "disabled_by_default": [
+      "PARAPHRASE",
+      "SHORT_MID"
+    ],
+    "module_weights": {
+      "LANGUAGE_CHUNK": 1.0,
+      "VERB_FRAME": 5.9,
+      "LOGIC_STATE": 1.35,
+      "COMM_INTENT": 1.5,
+      "STANCE": 2.62,
+      "PARAPHRASE": 0.0,
+      "SHORT_MID": 0.0
+    },
+    "target_mix_note": {
+      "LANGUAGE_CHUNK": "~30%",
+      "VERB_FRAME": "~25%",
+      "LOGIC_STATE": "~20%",
+      "COMM_INTENT": "~15%",
+      "STANCE": "~10%"
+    }
   },
   "feedback": {
     "fp_correct": "auto_next",
@@ -79,12 +100,20 @@
     "PARAPHRASE": {
       "answer_ui": "french_alternatives",
       "preread": true,
-      "primary_metric": "first_pass_accuracy"
+      "primary_metric": "first_pass_accuracy",
+      "default_enabled": false
     },
     "SHORT_MID": {
       "answer_ui": "french_alternatives",
       "preread": true,
-      "primary_metric": "main_idea_first_pass_accuracy"
+      "primary_metric": "main_idea_first_pass_accuracy",
+      "default_enabled": false
+    },
+    "LANGUAGE_CHUNK": {
+      "answer_ui": "semantic_labels_zh",
+      "preread": false,
+      "primary_metric": "first_pass_accuracy_and_replay_free_rate",
+      "goal": "rapid auditory mapping of high-frequency TEF chunks"
     }
   },
   "expansion_policy": {
@@ -92,7 +121,11 @@
     "new_authentic_source_units_added": 36,
     "derived_audio_texts_added": 0,
     "task_reframing_reinforcement": 120,
-    "reserve_for_blind_test": true
+    "reserve_for_blind_test": true,
+    "language_mine_second_pass": true,
+    "language_chunks_added": 250,
+    "non_answer_bearing_material_included": true,
+    "default_long_text_modules_disabled": true
   },
   "clip_policy": {
     "COMM_INTENT": "mostly 5-18 words",
@@ -102,6 +135,7 @@
     "PARAPHRASE": "mostly 8-26 words",
     "SHORT_MID": "24-46 words / Macro only",
     "full_transcript_preserved_for_feedback": true,
-    "audio_generation_source": "data/audio_units.json"
+    "audio_generation_source": "data/audio_units.json",
+    "LANGUAGE_CHUNK": "mostly 2-10 words; authentic contiguous TEF excerpt; no artificial rewrite"
   }
 }
