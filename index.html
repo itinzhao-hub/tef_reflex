@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#111827" />
+  <title>TEF Reflex — Core 0.3</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">TEF REFLEX · CORE 0.3</div>
+        <h1>听觉决策训练</h1>
+      </div>
+      <div class="top-actions">
+        <button id="statsBtn" class="ghost">统计</button>
+        <button id="settingsBtn" class="ghost">设置</button>
+      </div>
+    </header>
+
+    <main>
+      <section id="trainerView" class="panel trainer-panel">
+        <div class="meta-row">
+          <span id="moduleBadge" class="badge">—</span>
+          <span id="maturityBadge" class="badge subtle">ACQUISITION</span>
+          <span id="progressText" class="muted">0 / 0</span>
+        </div>
+
+        <div class="prompt-block">
+          <div id="statusIcon" class="status-icon">▶</div>
+          <div>
+            <div id="listenStatus" class="listen-status">准备加载…</div>
+            <div id="promptText" class="prompt">—</div>
+          </div>
+        </div>
+
+        <div id="preReadBar" class="preread hidden">
+          <span>先读选项，准备好后按 Space</span>
+          <button id="readyBtn">开始播放</button>
+        </div>
+
+        <div id="options" class="options" aria-live="polite"></div>
+
+        <div class="controls">
+          <button id="replayBtn" class="secondary">R · 重播</button>
+          <button id="revealBtn" class="secondary danger-lite">0 · 看答案</button>
+          <button id="nextBtn" class="primary hidden">Enter · 下一题</button>
+        </div>
+
+        <div id="feedback" class="feedback hidden"></div>
+
+        <div class="micro-stats">
+          <span>本轮 First-pass <strong id="miniFp">—</strong></span>
+          <span>无重播 <strong id="miniReplayFree">—</strong></span>
+          <span>FP中位RT <strong id="miniRt">—</strong></span>
+          <span>STANCE ≥2/3组 <strong id="miniGroup">—</strong></span>
+        </div>
+      </section>
+
+      <section id="statsView" class="panel hidden">
+        <div class="section-head">
+          <div><div class="eyebrow">SESSION & HISTORY</div><h2>成绩趋势</h2></div>
+          <button class="ghost closeView">返回训练</button>
+        </div>
+        <div id="statsCards" class="stats-grid"></div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>模块</th><th>次数</th><th>FP正确</th><th>无重播</th><th>FP中位RT</th><th>Hard fail</th></tr></thead>
+            <tbody id="moduleStatsBody"></tbody>
+          </table>
+        </div>
+        <div class="export-row">
+          <button id="exportJsonBtn" class="secondary">导出JSON日志</button>
+          <button id="exportCsvBtn" class="secondary">导出CSV日志</button>
+          <button id="resetSessionBtn" class="secondary">清空本轮</button>
+          <button id="resetAllBtn" class="secondary danger-lite">清空全部历史</button>
+        </div>
+      </section>
+
+      <section id="settingsView" class="panel hidden">
+        <div class="section-head">
+          <div><div class="eyebrow">TRAINER SETTINGS</div><h2>训练设置</h2></div>
+          <button class="ghost closeView">返回训练</button>
+        </div>
+        <div class="settings-grid">
+          <label>模块
+            <select id="moduleFilter">
+              <option value="ALL">全部混合</option>
+              <option value="COMM_INTENT">COMM_INTENT</option>
+              <option value="LOGIC_STATE">LOGIC_STATE</option>
+              <option value="VERB_FRAME">VERB_FRAME</option>
+              <option value="STANCE">STANCE</option>
+              <option value="PARAPHRASE">PARAPHRASE</option>
+              <option value="SHORT_MID">SHORT_MID</option>
+            </select>
+          </label>
+          <label>音频模式
+            <select id="audioMode">
+              <option value="auto">自动：MP3优先 / TTS备用</option>
+              <option value="tts">仅浏览器TTS</option>
+              <option value="mp3">仅MP3</option>
+            </select>
+          </label>
+          <label>TTS语速
+            <select id="ttsRate">
+              <option value="0.95">0.95×</option>
+              <option value="1" selected>1.00×</option>
+              <option value="1.08">1.08×</option>
+              <option value="1.15">1.15×</option>
+              <option value="1.22">1.22×</option>
+            </select>
+          </label>
+          <label>自动下一题延迟
+            <select id="autoNextDelay">
+              <option value="300">0.3秒</option>
+              <option value="550" selected>0.55秒</option>
+              <option value="800">0.8秒</option>
+              <option value="1200">1.2秒</option>
+            </select>
+          </label>
+        </div>
+        <div class="setting-toggle">
+          <label><input id="shuffleOptions" type="checkbox" checked /> 非量表题随机选项顺序</label>
+        </div>
+        <div class="setting-toggle">
+          <label><input id="showPostRt" type="checkbox" /> 正确后短暂显示Decision RT</label>
+        </div>
+        <div class="setting-toggle">
+          <label><input id="useFastTtsRandom" type="checkbox" checked /> 随机混入快速TTS（约1.15×）</label>
+        </div>
+        <div class="note-box">
+          播放过程中1–4按键不会提交答案，但会记录为 premature input。主RT只统计 <strong>First-pass correct</strong>。PARAPHRASE / SHORT_MID 会先进入 Pre-read；STANCE 以三人一组连续训练并记录 ≥2/3 组正确率。
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

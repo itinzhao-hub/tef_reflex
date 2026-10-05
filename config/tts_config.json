@@ -1,0 +1,31 @@
+{
+  "provider": "google_cloud_tts_rest",
+  "language_code": "fr-FR",
+  "audio_encoding": "MP3",
+  "profiles": {
+    "female_normal": {
+      "voice": "fr-FR-Wavenet-F",
+      "gender": "FEMALE",
+      "speaking_rate": 1.0,
+      "pitch": 0.0
+    },
+    "female_fast": {
+      "voice": "fr-FR-Neural2-F",
+      "gender": "FEMALE",
+      "speaking_rate": 1.1,
+      "pitch": -0.8
+    },
+    "male_normal": {
+      "voice": "fr-FR-Neural2-G",
+      "gender": "MALE",
+      "speaking_rate": 1.0,
+      "pitch": 0.0
+    },
+    "male_fast": {
+      "voice": "fr-FR-Wavenet-G",
+      "gender": "MALE",
+      "speaking_rate": 1.1,
+      "pitch": 0.8
+    }
+  }
+}

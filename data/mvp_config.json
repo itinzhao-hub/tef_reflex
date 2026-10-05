@@ -1,0 +1,67 @@
+{
+  "version": "TEF_REFLEX_MVP_0.1",
+  "created_from": "User-provided TEF_NEW_1 through TEF_NEW_6 screenshots; no external corpus added. MVP draws 50 source units from NEW_1..NEW_6.",
+  "counts": {
+    "COMM_INTENT": 50,
+    "LOGIC_STATE": 50,
+    "VERB_FRAME": 20,
+    "total": 120,
+    "unique_source_units": 50
+  },
+  "source_priority": "native_true_exam_first",
+  "timing": {
+    "lock_answers_during_audio": true,
+    "decision_rt_origin": "audio_end",
+    "primary_metrics": [
+      "first_pass_accuracy",
+      "replay_free_rate",
+      "first_pass_decision_rt",
+      "hard_fail_rate"
+    ],
+    "first_pass_rt_population": "FP_CORRECT only",
+    "show_live_timer": false
+  },
+  "controls": {
+    "replay": "R",
+    "reveal": "0",
+    "next_after_feedback": "Enter"
+  },
+  "result_codes": [
+    "FP_CORRECT",
+    "FP_WRONG",
+    "REPLAY_CORRECT",
+    "REPLAY_WRONG",
+    "REVEAL"
+  ],
+  "maturity_states": [
+    "ACQUISITION",
+    "CONSOLIDATION",
+    "EXAM"
+  ],
+  "scheduler": {
+    "base_mix": {
+      "recent_weak": 0.35,
+      "acquisition": 0.25,
+      "consolidation": 0.2,
+      "exam_review": 0.15,
+      "random_coverage": 0.05
+    },
+    "tier_weights": {
+      "A": 3.0,
+      "B": 1.6,
+      "C": 0.7
+    },
+    "same_source_cooldown_stimuli": 20,
+    "wrong_reinsert_after_range": [
+      5,
+      15
+    ],
+    "avoid_sibling_same_session_window": true
+  },
+  "feedback": {
+    "fp_correct": "auto_next",
+    "replay_correct": "auto_next_with_replay_count",
+    "wrong": "show_transcript_key_span_correct_answer_short_note_then_manual_next",
+    "reveal": "show_transcript_key_span_correct_answer_allow_transcript_replay"
+  }
+}

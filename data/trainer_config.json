@@ -1,0 +1,97 @@
+{
+  "version": "TEF_REFLEX_CORE_0.3",
+  "created_from": "User-provided TEF_NEW_1 through TEF_NEW_6 screenshots only. v0.3 expands authentic source diversity and adds task-reframing reinforcement without adding external corpus.",
+  "counts": {
+    "COMM_INTENT": 100,
+    "LOGIC_STATE": 136,
+    "VERB_FRAME": 40,
+    "STANCE": 36,
+    "PARAPHRASE": 60,
+    "SHORT_MID": 48,
+    "total": 420,
+    "unique_source_units": 116,
+    "native_source_tasks": 300,
+    "task_reframing_only": 120
+  },
+  "source_priority": "native_true_exam_first",
+  "timing": {
+    "lock_answers_during_audio": true,
+    "decision_rt_origin": "audio_end",
+    "primary_metrics": [
+      "first_pass_accuracy",
+      "replay_free_rate",
+      "first_pass_decision_rt",
+      "hard_fail_rate"
+    ],
+    "first_pass_rt_population": "FP_CORRECT only",
+    "show_live_timer": false
+  },
+  "controls": {
+    "replay": "R",
+    "reveal": "0",
+    "next_after_feedback": "Enter"
+  },
+  "result_codes": [
+    "FP_CORRECT",
+    "FP_WRONG",
+    "REPLAY_CORRECT",
+    "REPLAY_WRONG",
+    "REVEAL"
+  ],
+  "maturity_states": [
+    "ACQUISITION",
+    "CONSOLIDATION",
+    "EXAM"
+  ],
+  "scheduler": {
+    "base_mix": {
+      "recent_weak": 0.35,
+      "acquisition": 0.25,
+      "consolidation": 0.2,
+      "exam_review": 0.15,
+      "random_coverage": 0.05
+    },
+    "tier_weights": {
+      "A": 3.0,
+      "B": 1.6,
+      "C": 0.7
+    },
+    "same_source_cooldown_stimuli": 20,
+    "wrong_reinsert_after_range": [
+      5,
+      15
+    ],
+    "avoid_sibling_same_session_window": true
+  },
+  "feedback": {
+    "fp_correct": "auto_next",
+    "replay_correct": "auto_next_with_replay_count",
+    "wrong": "show_transcript_key_span_correct_answer_short_note_then_manual_next",
+    "reveal": "show_transcript_key_span_correct_answer_allow_transcript_replay"
+  },
+  "module_behavior": {
+    "STANCE": {
+      "answer_ui": "fixed_scale",
+      "preread": false,
+      "group_mode": true,
+      "primary_metric": "group_2_of_3_rate"
+    },
+    "PARAPHRASE": {
+      "answer_ui": "french_alternatives",
+      "preread": true,
+      "primary_metric": "first_pass_accuracy"
+    },
+    "SHORT_MID": {
+      "answer_ui": "french_alternatives",
+      "preread": true,
+      "primary_metric": "main_idea_first_pass_accuracy"
+    }
+  },
+  "expansion_policy": {
+    "native_source_priority": true,
+    "new_authentic_source_units_added": 36,
+    "derived_audio_texts_added": 0,
+    "task_reframing_reinforcement": 120,
+    "reserve_for_blind_test": true
+  }
+}
