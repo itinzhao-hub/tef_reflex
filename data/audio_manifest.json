@@ -1,7 +1,7 @@
 {
   "version": 2,
   "expected_files": 464,
-  "generated_files": 464,
+  "generated_files": 0,
   "files": [
     {
       "source_unit_id": "N1_01",
@@ -9,8 +9,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_01__female_normal.mp3",
-      "exists": true,
-      "bytes": 59328
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_01",
@@ -18,8 +18,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_01__female_fast.mp3",
-      "exists": true,
-      "bytes": 54144
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_01",
@@ -27,8 +27,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_01__male_normal.mp3",
-      "exists": true,
-      "bytes": 56064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_01",
@@ -36,8 +36,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_01__male_fast.mp3",
-      "exists": true,
-      "bytes": 51264
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_02",
@@ -45,8 +45,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_02__female_normal.mp3",
-      "exists": true,
-      "bytes": 74880
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_02",
@@ -54,8 +54,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_02__female_fast.mp3",
-      "exists": true,
-      "bytes": 68352
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_02",
@@ -63,8 +63,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_02__male_normal.mp3",
-      "exists": true,
-      "bytes": 70656
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_02",
@@ -72,8 +72,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_02__male_fast.mp3",
-      "exists": true,
-      "bytes": 64320
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_03",
@@ -81,8 +81,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_03__female_normal.mp3",
-      "exists": true,
-      "bytes": 121152
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_03",
@@ -90,8 +90,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_03__female_fast.mp3",
-      "exists": true,
-      "bytes": 110400
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_03",
@@ -99,8 +99,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_03__male_normal.mp3",
-      "exists": true,
-      "bytes": 111744
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_03",
@@ -108,8 +108,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_03__male_fast.mp3",
-      "exists": true,
-      "bytes": 101568
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_04",
@@ -117,8 +117,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_04__female_normal.mp3",
-      "exists": true,
-      "bytes": 132672
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_04",
@@ -126,8 +126,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_04__female_fast.mp3",
-      "exists": true,
-      "bytes": 120576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_04",
@@ -135,8 +135,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_04__male_normal.mp3",
-      "exists": true,
-      "bytes": 125568
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_04",
@@ -144,8 +144,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_04__male_fast.mp3",
-      "exists": true,
-      "bytes": 114432
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_05",
@@ -153,8 +153,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_05__female_normal.mp3",
-      "exists": true,
-      "bytes": 68352
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_05",
@@ -162,8 +162,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_05__female_fast.mp3",
-      "exists": true,
-      "bytes": 62400
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_05",
@@ -171,8 +171,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_05__male_normal.mp3",
-      "exists": true,
-      "bytes": 64320
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_05",
@@ -180,8 +180,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_05__male_fast.mp3",
-      "exists": true,
-      "bytes": 58560
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_06",
@@ -189,8 +189,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_06__female_normal.mp3",
-      "exists": true,
-      "bytes": 84480
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_06",
@@ -198,8 +198,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_06__female_fast.mp3",
-      "exists": true,
-      "bytes": 76800
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_06",
@@ -207,8 +207,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_06__male_normal.mp3",
-      "exists": true,
-      "bytes": 79872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_06",
@@ -216,8 +216,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_06__male_fast.mp3",
-      "exists": true,
-      "bytes": 72576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_07",
@@ -225,8 +225,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_07__female_normal.mp3",
-      "exists": true,
-      "bytes": 84864
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_07",
@@ -234,8 +234,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_07__female_fast.mp3",
-      "exists": true,
-      "bytes": 77376
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_07",
@@ -243,8 +243,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_07__male_normal.mp3",
-      "exists": true,
-      "bytes": 80064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_07",
@@ -252,8 +252,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_07__male_fast.mp3",
-      "exists": true,
-      "bytes": 73152
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_08",
@@ -261,8 +261,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_08__female_normal.mp3",
-      "exists": true,
-      "bytes": 155712
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_08",
@@ -270,8 +270,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_08__female_fast.mp3",
-      "exists": true,
-      "bytes": 142080
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_08",
@@ -279,8 +279,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_08__male_normal.mp3",
-      "exists": true,
-      "bytes": 143040
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_08",
@@ -288,8 +288,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_08__male_fast.mp3",
-      "exists": true,
-      "bytes": 130752
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_09",
@@ -297,8 +297,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_09__female_normal.mp3",
-      "exists": true,
-      "bytes": 103296
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_09",
@@ -306,8 +306,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_09__female_fast.mp3",
-      "exists": true,
-      "bytes": 93888
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_09",
@@ -315,8 +315,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_09__male_normal.mp3",
-      "exists": true,
-      "bytes": 96576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_09",
@@ -324,8 +324,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_09__male_fast.mp3",
-      "exists": true,
-      "bytes": 87936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_10",
@@ -333,8 +333,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N1_10__female_normal.mp3",
-      "exists": true,
-      "bytes": 96576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_10",
@@ -342,8 +342,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N1_10__female_fast.mp3",
-      "exists": true,
-      "bytes": 88128
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_10",
@@ -351,8 +351,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N1_10__male_normal.mp3",
-      "exists": true,
-      "bytes": 90240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N1_10",
@@ -360,8 +360,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N1_10__male_fast.mp3",
-      "exists": true,
-      "bytes": 82176
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_01",
@@ -369,8 +369,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_01__female_normal.mp3",
-      "exists": true,
-      "bytes": 79872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_01",
@@ -378,8 +378,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_01__female_fast.mp3",
-      "exists": true,
-      "bytes": 72576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_01",
@@ -387,8 +387,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_01__male_normal.mp3",
-      "exists": true,
-      "bytes": 74688
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_01",
@@ -396,8 +396,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_01__male_fast.mp3",
-      "exists": true,
-      "bytes": 67776
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_02",
@@ -405,8 +405,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_02__female_normal.mp3",
-      "exists": true,
-      "bytes": 64320
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_02",
@@ -414,8 +414,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_02__female_fast.mp3",
-      "exists": true,
-      "bytes": 58752
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_02",
@@ -423,8 +423,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_02__male_normal.mp3",
-      "exists": true,
-      "bytes": 59712
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_02",
@@ -432,8 +432,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_02__male_fast.mp3",
-      "exists": true,
-      "bytes": 54336
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_03",
@@ -441,8 +441,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_03__female_normal.mp3",
-      "exists": true,
-      "bytes": 78720
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_03",
@@ -450,8 +450,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_03__female_fast.mp3",
-      "exists": true,
-      "bytes": 71616
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_03",
@@ -459,8 +459,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_03__male_normal.mp3",
-      "exists": true,
-      "bytes": 75072
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_03",
@@ -468,8 +468,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_03__male_fast.mp3",
-      "exists": true,
-      "bytes": 68352
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_04",
@@ -477,8 +477,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_04__female_normal.mp3",
-      "exists": true,
-      "bytes": 90624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_04",
@@ -486,8 +486,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_04__female_fast.mp3",
-      "exists": true,
-      "bytes": 82560
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_04",
@@ -495,8 +495,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_04__male_normal.mp3",
-      "exists": true,
-      "bytes": 86400
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_04",
@@ -504,8 +504,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_04__male_fast.mp3",
-      "exists": true,
-      "bytes": 78720
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_05",
@@ -513,8 +513,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_05__female_normal.mp3",
-      "exists": true,
-      "bytes": 76032
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_05",
@@ -522,8 +522,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_05__female_fast.mp3",
-      "exists": true,
-      "bytes": 69312
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_05",
@@ -531,8 +531,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_05__male_normal.mp3",
-      "exists": true,
-      "bytes": 70272
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_05",
@@ -540,8 +540,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_05__male_fast.mp3",
-      "exists": true,
-      "bytes": 64128
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_06",
@@ -549,8 +549,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_06__female_normal.mp3",
-      "exists": true,
-      "bytes": 70656
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_06",
@@ -558,8 +558,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_06__female_fast.mp3",
-      "exists": true,
-      "bytes": 64320
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_06",
@@ -567,8 +567,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_06__male_normal.mp3",
-      "exists": true,
-      "bytes": 64704
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_06",
@@ -576,8 +576,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_06__male_fast.mp3",
-      "exists": true,
-      "bytes": 58944
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_07",
@@ -585,8 +585,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_07__female_normal.mp3",
-      "exists": true,
-      "bytes": 70464
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_07",
@@ -594,8 +594,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_07__female_fast.mp3",
-      "exists": true,
-      "bytes": 63936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_07",
@@ -603,8 +603,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_07__male_normal.mp3",
-      "exists": true,
-      "bytes": 64896
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_07",
@@ -612,8 +612,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_07__male_fast.mp3",
-      "exists": true,
-      "bytes": 59136
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_08",
@@ -621,8 +621,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_08__female_normal.mp3",
-      "exists": true,
-      "bytes": 111936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_08",
@@ -630,8 +630,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_08__female_fast.mp3",
-      "exists": true,
-      "bytes": 102144
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_08",
@@ -639,8 +639,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_08__male_normal.mp3",
-      "exists": true,
-      "bytes": 105984
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_08",
@@ -648,8 +648,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_08__male_fast.mp3",
-      "exists": true,
-      "bytes": 96192
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_09",
@@ -657,8 +657,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_09__female_normal.mp3",
-      "exists": true,
-      "bytes": 121536
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_09",
@@ -666,8 +666,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_09__female_fast.mp3",
-      "exists": true,
-      "bytes": 110592
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_09",
@@ -675,8 +675,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_09__male_normal.mp3",
-      "exists": true,
-      "bytes": 113280
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_09",
@@ -684,8 +684,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_09__male_fast.mp3",
-      "exists": true,
-      "bytes": 103104
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_10",
@@ -693,8 +693,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N2_10__female_normal.mp3",
-      "exists": true,
-      "bytes": 122304
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_10",
@@ -702,8 +702,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N2_10__female_fast.mp3",
-      "exists": true,
-      "bytes": 111936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_10",
@@ -711,8 +711,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N2_10__male_normal.mp3",
-      "exists": true,
-      "bytes": 114624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N2_10",
@@ -720,8 +720,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N2_10__male_fast.mp3",
-      "exists": true,
-      "bytes": 104064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_01",
@@ -729,8 +729,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_01__female_normal.mp3",
-      "exists": true,
-      "bytes": 62016
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_01",
@@ -738,8 +738,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_01__female_fast.mp3",
-      "exists": true,
-      "bytes": 56256
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_01",
@@ -747,8 +747,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_01__male_normal.mp3",
-      "exists": true,
-      "bytes": 58368
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_01",
@@ -756,8 +756,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_01__male_fast.mp3",
-      "exists": true,
-      "bytes": 53184
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_02",
@@ -765,8 +765,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_02__female_normal.mp3",
-      "exists": true,
-      "bytes": 121536
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_02",
@@ -774,8 +774,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_02__female_fast.mp3",
-      "exists": true,
-      "bytes": 110784
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_02",
@@ -783,8 +783,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_02__male_normal.mp3",
-      "exists": true,
-      "bytes": 114432
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_02",
@@ -792,8 +792,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_02__male_fast.mp3",
-      "exists": true,
-      "bytes": 104256
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_03",
@@ -801,8 +801,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_03__female_normal.mp3",
-      "exists": true,
-      "bytes": 112704
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_03",
@@ -810,8 +810,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_03__female_fast.mp3",
-      "exists": true,
-      "bytes": 102528
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_03",
@@ -819,8 +819,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_03__male_normal.mp3",
-      "exists": true,
-      "bytes": 104832
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_03",
@@ -828,8 +828,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_03__male_fast.mp3",
-      "exists": true,
-      "bytes": 95232
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_04",
@@ -837,8 +837,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_04__female_normal.mp3",
-      "exists": true,
-      "bytes": 150336
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_04",
@@ -846,8 +846,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_04__female_fast.mp3",
-      "exists": true,
-      "bytes": 136704
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_04",
@@ -855,8 +855,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_04__male_normal.mp3",
-      "exists": true,
-      "bytes": 140544
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_04",
@@ -864,8 +864,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_04__male_fast.mp3",
-      "exists": true,
-      "bytes": 128064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_05",
@@ -873,8 +873,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_05__female_normal.mp3",
-      "exists": true,
-      "bytes": 97920
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_05",
@@ -882,8 +882,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_05__female_fast.mp3",
-      "exists": true,
-      "bytes": 88896
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_05",
@@ -891,8 +891,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_05__male_normal.mp3",
-      "exists": true,
-      "bytes": 90432
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_05",
@@ -900,8 +900,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_05__male_fast.mp3",
-      "exists": true,
-      "bytes": 81984
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_06",
@@ -909,8 +909,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_06__female_normal.mp3",
-      "exists": true,
-      "bytes": 77760
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_06",
@@ -918,8 +918,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_06__female_fast.mp3",
-      "exists": true,
-      "bytes": 70848
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_06",
@@ -927,8 +927,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_06__male_normal.mp3",
-      "exists": true,
-      "bytes": 71808
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_06",
@@ -936,8 +936,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_06__male_fast.mp3",
-      "exists": true,
-      "bytes": 65472
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_07",
@@ -945,8 +945,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_07__female_normal.mp3",
-      "exists": true,
-      "bytes": 119808
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_07",
@@ -954,8 +954,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_07__female_fast.mp3",
-      "exists": true,
-      "bytes": 109440
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_07",
@@ -963,8 +963,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_07__male_normal.mp3",
-      "exists": true,
-      "bytes": 110784
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_07",
@@ -972,8 +972,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_07__male_fast.mp3",
-      "exists": true,
-      "bytes": 100800
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_08",
@@ -981,8 +981,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_08__female_normal.mp3",
-      "exists": true,
-      "bytes": 99456
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_08",
@@ -990,8 +990,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_08__female_fast.mp3",
-      "exists": true,
-      "bytes": 90816
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_08",
@@ -999,8 +999,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_08__male_normal.mp3",
-      "exists": true,
-      "bytes": 92352
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_08",
@@ -1008,8 +1008,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_08__male_fast.mp3",
-      "exists": true,
-      "bytes": 83904
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_09",
@@ -1017,8 +1017,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_09__female_normal.mp3",
-      "exists": true,
-      "bytes": 122880
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_09",
@@ -1026,8 +1026,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_09__female_fast.mp3",
-      "exists": true,
-      "bytes": 111936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_09",
@@ -1035,8 +1035,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_09__male_normal.mp3",
-      "exists": true,
-      "bytes": 114240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_09",
@@ -1044,8 +1044,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_09__male_fast.mp3",
-      "exists": true,
-      "bytes": 103872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_10",
@@ -1053,8 +1053,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N3_10__female_normal.mp3",
-      "exists": true,
-      "bytes": 116544
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_10",
@@ -1062,8 +1062,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N3_10__female_fast.mp3",
-      "exists": true,
-      "bytes": 105792
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_10",
@@ -1071,8 +1071,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N3_10__male_normal.mp3",
-      "exists": true,
-      "bytes": 109056
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N3_10",
@@ -1080,8 +1080,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N3_10__male_fast.mp3",
-      "exists": true,
-      "bytes": 99072
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_04",
@@ -1089,8 +1089,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N4_04__female_normal.mp3",
-      "exists": true,
-      "bytes": 87360
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_04",
@@ -1098,8 +1098,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N4_04__female_fast.mp3",
-      "exists": true,
-      "bytes": 79872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_04",
@@ -1107,8 +1107,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N4_04__male_normal.mp3",
-      "exists": true,
-      "bytes": 82368
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_04",
@@ -1116,8 +1116,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N4_04__male_fast.mp3",
-      "exists": true,
-      "bytes": 75072
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_05",
@@ -1125,8 +1125,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N4_05__female_normal.mp3",
-      "exists": true,
-      "bytes": 75264
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_05",
@@ -1134,8 +1134,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N4_05__female_fast.mp3",
-      "exists": true,
-      "bytes": 68544
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_05",
@@ -1143,8 +1143,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N4_05__male_normal.mp3",
-      "exists": true,
-      "bytes": 69888
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_05",
@@ -1152,8 +1152,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N4_05__male_fast.mp3",
-      "exists": true,
-      "bytes": 63744
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_06",
@@ -1161,8 +1161,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N4_06__female_normal.mp3",
-      "exists": true,
-      "bytes": 90048
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_06",
@@ -1170,8 +1170,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N4_06__female_fast.mp3",
-      "exists": true,
-      "bytes": 82176
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_06",
@@ -1179,8 +1179,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N4_06__male_normal.mp3",
-      "exists": true,
-      "bytes": 84672
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_06",
@@ -1188,8 +1188,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N4_06__male_fast.mp3",
-      "exists": true,
-      "bytes": 76992
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_07",
@@ -1197,8 +1197,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N4_07__female_normal.mp3",
-      "exists": true,
-      "bytes": 102912
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_07",
@@ -1206,8 +1206,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N4_07__female_fast.mp3",
-      "exists": true,
-      "bytes": 93504
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_07",
@@ -1215,8 +1215,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N4_07__male_normal.mp3",
-      "exists": true,
-      "bytes": 95616
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_07",
@@ -1224,8 +1224,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N4_07__male_fast.mp3",
-      "exists": true,
-      "bytes": 87168
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_08",
@@ -1233,8 +1233,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N4_08__female_normal.mp3",
-      "exists": true,
-      "bytes": 105216
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_08",
@@ -1242,8 +1242,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N4_08__female_fast.mp3",
-      "exists": true,
-      "bytes": 95616
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_08",
@@ -1251,8 +1251,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N4_08__male_normal.mp3",
-      "exists": true,
-      "bytes": 99456
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_08",
@@ -1260,8 +1260,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N4_08__male_fast.mp3",
-      "exists": true,
-      "bytes": 90624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_09",
@@ -1269,8 +1269,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N4_09__female_normal.mp3",
-      "exists": true,
-      "bytes": 120192
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_09",
@@ -1278,8 +1278,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N4_09__female_fast.mp3",
-      "exists": true,
-      "bytes": 109248
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_09",
@@ -1287,8 +1287,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N4_09__male_normal.mp3",
-      "exists": true,
-      "bytes": 114240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_09",
@@ -1296,8 +1296,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N4_09__male_fast.mp3",
-      "exists": true,
-      "bytes": 103680
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_10",
@@ -1305,8 +1305,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N4_10__female_normal.mp3",
-      "exists": true,
-      "bytes": 112128
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_10",
@@ -1314,8 +1314,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N4_10__female_fast.mp3",
-      "exists": true,
-      "bytes": 101952
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_10",
@@ -1323,8 +1323,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N4_10__male_normal.mp3",
-      "exists": true,
-      "bytes": 105792
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N4_10",
@@ -1332,8 +1332,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N4_10__male_fast.mp3",
-      "exists": true,
-      "bytes": 96192
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_01",
@@ -1341,8 +1341,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_01__female_normal.mp3",
-      "exists": true,
-      "bytes": 126144
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_01",
@@ -1350,8 +1350,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_01__female_fast.mp3",
-      "exists": true,
-      "bytes": 114624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_01",
@@ -1359,8 +1359,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_01__male_normal.mp3",
-      "exists": true,
-      "bytes": 118464
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_01",
@@ -1368,8 +1368,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_01__male_fast.mp3",
-      "exists": true,
-      "bytes": 107712
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_02",
@@ -1377,8 +1377,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_02__female_normal.mp3",
-      "exists": true,
-      "bytes": 113856
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_02",
@@ -1386,8 +1386,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_02__female_fast.mp3",
-      "exists": true,
-      "bytes": 103872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_02",
@@ -1395,8 +1395,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_02__male_normal.mp3",
-      "exists": true,
-      "bytes": 107328
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_02",
@@ -1404,8 +1404,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_02__male_fast.mp3",
-      "exists": true,
-      "bytes": 97536
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_03",
@@ -1413,8 +1413,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_03__female_normal.mp3",
-      "exists": true,
-      "bytes": 167232
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_03",
@@ -1422,8 +1422,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_03__female_fast.mp3",
-      "exists": true,
-      "bytes": 151872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_03",
@@ -1431,8 +1431,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_03__male_normal.mp3",
-      "exists": true,
-      "bytes": 154752
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_03",
@@ -1440,8 +1440,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_03__male_fast.mp3",
-      "exists": true,
-      "bytes": 140928
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_04",
@@ -1449,8 +1449,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_04__female_normal.mp3",
-      "exists": true,
-      "bytes": 80256
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_04",
@@ -1458,8 +1458,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_04__female_fast.mp3",
-      "exists": true,
-      "bytes": 72768
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_04",
@@ -1467,8 +1467,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_04__male_normal.mp3",
-      "exists": true,
-      "bytes": 75072
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_04",
@@ -1476,8 +1476,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_04__male_fast.mp3",
-      "exists": true,
-      "bytes": 68352
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_05",
@@ -1485,8 +1485,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_05__female_normal.mp3",
-      "exists": true,
-      "bytes": 132480
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_05",
@@ -1494,8 +1494,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_05__female_fast.mp3",
-      "exists": true,
-      "bytes": 120384
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_05",
@@ -1503,8 +1503,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_05__male_normal.mp3",
-      "exists": true,
-      "bytes": 123456
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_05",
@@ -1512,8 +1512,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_05__male_fast.mp3",
-      "exists": true,
-      "bytes": 112512
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_06",
@@ -1521,8 +1521,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_06__female_normal.mp3",
-      "exists": true,
-      "bytes": 153408
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_06",
@@ -1530,8 +1530,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_06__female_fast.mp3",
-      "exists": true,
-      "bytes": 139584
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_06",
@@ -1539,8 +1539,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_06__male_normal.mp3",
-      "exists": true,
-      "bytes": 141696
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_06",
@@ -1548,8 +1548,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_06__male_fast.mp3",
-      "exists": true,
-      "bytes": 128832
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_07",
@@ -1557,8 +1557,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_07__female_normal.mp3",
-      "exists": true,
-      "bytes": 138240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_07",
@@ -1566,8 +1566,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_07__female_fast.mp3",
-      "exists": true,
-      "bytes": 126144
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_07",
@@ -1575,8 +1575,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_07__male_normal.mp3",
-      "exists": true,
-      "bytes": 129600
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_07",
@@ -1584,8 +1584,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_07__male_fast.mp3",
-      "exists": true,
-      "bytes": 117696
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_08",
@@ -1593,8 +1593,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_08__female_normal.mp3",
-      "exists": true,
-      "bytes": 126912
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_08",
@@ -1602,8 +1602,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_08__female_fast.mp3",
-      "exists": true,
-      "bytes": 115200
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_08",
@@ -1611,8 +1611,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_08__male_normal.mp3",
-      "exists": true,
-      "bytes": 118848
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_08",
@@ -1620,8 +1620,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_08__male_fast.mp3",
-      "exists": true,
-      "bytes": 108480
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_10",
@@ -1629,8 +1629,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N5_10__female_normal.mp3",
-      "exists": true,
-      "bytes": 155328
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_10",
@@ -1638,8 +1638,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N5_10__female_fast.mp3",
-      "exists": true,
-      "bytes": 141120
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_10",
@@ -1647,8 +1647,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N5_10__male_normal.mp3",
-      "exists": true,
-      "bytes": 146496
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N5_10",
@@ -1656,8 +1656,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N5_10__male_fast.mp3",
-      "exists": true,
-      "bytes": 132864
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_01",
@@ -1665,8 +1665,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N6_01__female_normal.mp3",
-      "exists": true,
-      "bytes": 74688
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_01",
@@ -1674,8 +1674,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N6_01__female_fast.mp3",
-      "exists": true,
-      "bytes": 67968
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_01",
@@ -1683,8 +1683,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N6_01__male_normal.mp3",
-      "exists": true,
-      "bytes": 70080
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_01",
@@ -1692,8 +1692,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N6_01__male_fast.mp3",
-      "exists": true,
-      "bytes": 63744
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_02",
@@ -1701,8 +1701,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N6_02__female_normal.mp3",
-      "exists": true,
-      "bytes": 102912
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_02",
@@ -1710,8 +1710,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N6_02__female_fast.mp3",
-      "exists": true,
-      "bytes": 93504
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_02",
@@ -1719,8 +1719,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N6_02__male_normal.mp3",
-      "exists": true,
-      "bytes": 97536
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_02",
@@ -1728,8 +1728,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N6_02__male_fast.mp3",
-      "exists": true,
-      "bytes": 88704
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_03",
@@ -1737,8 +1737,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N6_03__female_normal.mp3",
-      "exists": true,
-      "bytes": 106176
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_03",
@@ -1746,8 +1746,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N6_03__female_fast.mp3",
-      "exists": true,
-      "bytes": 96576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_03",
@@ -1755,8 +1755,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N6_03__male_normal.mp3",
-      "exists": true,
-      "bytes": 99648
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_03",
@@ -1764,8 +1764,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N6_03__male_fast.mp3",
-      "exists": true,
-      "bytes": 90624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_04",
@@ -1773,8 +1773,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/N6_04__female_normal.mp3",
-      "exists": true,
-      "bytes": 74688
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_04",
@@ -1782,8 +1782,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/N6_04__female_fast.mp3",
-      "exists": true,
-      "bytes": 68160
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_04",
@@ -1791,8 +1791,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/N6_04__male_normal.mp3",
-      "exists": true,
-      "bytes": 70272
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "N6_04",
@@ -1800,8 +1800,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/N6_04__male_fast.mp3",
-      "exists": true,
-      "bytes": 63744
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P1",
@@ -1809,8 +1809,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N3_ORIG_P1__female_normal.mp3",
-      "exists": true,
-      "bytes": 48576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P1",
@@ -1818,8 +1818,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N3_ORIG_P1__female_fast.mp3",
-      "exists": true,
-      "bytes": 44160
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P1",
@@ -1827,8 +1827,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N3_ORIG_P1__male_normal.mp3",
-      "exists": true,
-      "bytes": 46272
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P1",
@@ -1836,8 +1836,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N3_ORIG_P1__male_fast.mp3",
-      "exists": true,
-      "bytes": 42240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P2",
@@ -1845,8 +1845,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N3_ORIG_P2__female_normal.mp3",
-      "exists": true,
-      "bytes": 70080
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P2",
@@ -1854,8 +1854,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N3_ORIG_P2__female_fast.mp3",
-      "exists": true,
-      "bytes": 63936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P2",
@@ -1863,8 +1863,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N3_ORIG_P2__male_normal.mp3",
-      "exists": true,
-      "bytes": 66240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P2",
@@ -1872,8 +1872,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N3_ORIG_P2__male_fast.mp3",
-      "exists": true,
-      "bytes": 60096
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P3",
@@ -1881,8 +1881,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N3_ORIG_P3__female_normal.mp3",
-      "exists": true,
-      "bytes": 65472
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P3",
@@ -1890,8 +1890,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N3_ORIG_P3__female_fast.mp3",
-      "exists": true,
-      "bytes": 59520
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P3",
@@ -1899,8 +1899,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N3_ORIG_P3__male_normal.mp3",
-      "exists": true,
-      "bytes": 61440
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_ORIG_P3",
@@ -1908,8 +1908,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N3_ORIG_P3__male_fast.mp3",
-      "exists": true,
-      "bytes": 55872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P1",
@@ -1917,8 +1917,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N3_SAVE_P1__female_normal.mp3",
-      "exists": true,
-      "bytes": 65664
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P1",
@@ -1926,8 +1926,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N3_SAVE_P1__female_fast.mp3",
-      "exists": true,
-      "bytes": 59712
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P1",
@@ -1935,8 +1935,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N3_SAVE_P1__male_normal.mp3",
-      "exists": true,
-      "bytes": 61440
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P1",
@@ -1944,8 +1944,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N3_SAVE_P1__male_fast.mp3",
-      "exists": true,
-      "bytes": 56064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P2",
@@ -1953,8 +1953,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N3_SAVE_P2__female_normal.mp3",
-      "exists": true,
-      "bytes": 78144
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P2",
@@ -1962,8 +1962,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N3_SAVE_P2__female_fast.mp3",
-      "exists": true,
-      "bytes": 71040
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P2",
@@ -1971,8 +1971,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N3_SAVE_P2__male_normal.mp3",
-      "exists": true,
-      "bytes": 72384
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P2",
@@ -1980,8 +1980,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N3_SAVE_P2__male_fast.mp3",
-      "exists": true,
-      "bytes": 65856
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P3",
@@ -1989,8 +1989,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N3_SAVE_P3__female_normal.mp3",
-      "exists": true,
-      "bytes": 66816
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P3",
@@ -1998,8 +1998,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N3_SAVE_P3__female_fast.mp3",
-      "exists": true,
-      "bytes": 60672
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P3",
@@ -2007,8 +2007,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N3_SAVE_P3__male_normal.mp3",
-      "exists": true,
-      "bytes": 62400
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N3_SAVE_P3",
@@ -2016,8 +2016,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N3_SAVE_P3__male_fast.mp3",
-      "exists": true,
-      "bytes": 56640
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P1",
@@ -2025,8 +2025,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N4_AI_P1__female_normal.mp3",
-      "exists": true,
-      "bytes": 61824
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P1",
@@ -2034,8 +2034,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N4_AI_P1__female_fast.mp3",
-      "exists": true,
-      "bytes": 56256
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P1",
@@ -2043,8 +2043,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N4_AI_P1__male_normal.mp3",
-      "exists": true,
-      "bytes": 57792
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P1",
@@ -2052,8 +2052,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N4_AI_P1__male_fast.mp3",
-      "exists": true,
-      "bytes": 52608
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P2",
@@ -2061,8 +2061,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N4_AI_P2__female_normal.mp3",
-      "exists": true,
-      "bytes": 73536
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P2",
@@ -2070,8 +2070,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N4_AI_P2__female_fast.mp3",
-      "exists": true,
-      "bytes": 66624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P2",
@@ -2079,8 +2079,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N4_AI_P2__male_normal.mp3",
-      "exists": true,
-      "bytes": 69504
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P2",
@@ -2088,8 +2088,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N4_AI_P2__male_fast.mp3",
-      "exists": true,
-      "bytes": 63360
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P3",
@@ -2097,8 +2097,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N4_AI_P3__female_normal.mp3",
-      "exists": true,
-      "bytes": 75264
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P3",
@@ -2106,8 +2106,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N4_AI_P3__female_fast.mp3",
-      "exists": true,
-      "bytes": 68352
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P3",
@@ -2115,8 +2115,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N4_AI_P3__male_normal.mp3",
-      "exists": true,
-      "bytes": 71232
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_AI_P3",
@@ -2124,8 +2124,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N4_AI_P3__male_fast.mp3",
-      "exists": true,
-      "bytes": 64704
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P1",
@@ -2133,8 +2133,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N4_TW_P1__female_normal.mp3",
-      "exists": true,
-      "bytes": 172608
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P1",
@@ -2142,8 +2142,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N4_TW_P1__female_fast.mp3",
-      "exists": true,
-      "bytes": 157056
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P1",
@@ -2151,8 +2151,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N4_TW_P1__male_normal.mp3",
-      "exists": true,
-      "bytes": 162048
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P1",
@@ -2160,8 +2160,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N4_TW_P1__male_fast.mp3",
-      "exists": true,
-      "bytes": 147648
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P2",
@@ -2169,8 +2169,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N4_TW_P2__female_normal.mp3",
-      "exists": true,
-      "bytes": 141312
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P2",
@@ -2178,8 +2178,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N4_TW_P2__female_fast.mp3",
-      "exists": true,
-      "bytes": 128832
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P2",
@@ -2187,8 +2187,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N4_TW_P2__male_normal.mp3",
-      "exists": true,
-      "bytes": 130368
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P2",
@@ -2196,8 +2196,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N4_TW_P2__male_fast.mp3",
-      "exists": true,
-      "bytes": 118464
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P3",
@@ -2205,8 +2205,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N4_TW_P3__female_normal.mp3",
-      "exists": true,
-      "bytes": 69120
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P3",
@@ -2214,8 +2214,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N4_TW_P3__female_fast.mp3",
-      "exists": true,
-      "bytes": 62784
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P3",
@@ -2223,8 +2223,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N4_TW_P3__male_normal.mp3",
-      "exists": true,
-      "bytes": 65280
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N4_TW_P3",
@@ -2232,8 +2232,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N4_TW_P3__male_fast.mp3",
-      "exists": true,
-      "bytes": 59328
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P1",
@@ -2241,8 +2241,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N6_UNI_P1__female_normal.mp3",
-      "exists": true,
-      "bytes": 148416
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P1",
@@ -2250,8 +2250,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N6_UNI_P1__female_fast.mp3",
-      "exists": true,
-      "bytes": 135168
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P1",
@@ -2259,8 +2259,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N6_UNI_P1__male_normal.mp3",
-      "exists": true,
-      "bytes": 140352
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P1",
@@ -2268,8 +2268,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N6_UNI_P1__male_fast.mp3",
-      "exists": true,
-      "bytes": 127680
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P2",
@@ -2277,8 +2277,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N6_UNI_P2__female_normal.mp3",
-      "exists": true,
-      "bytes": 108288
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P2",
@@ -2286,8 +2286,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N6_UNI_P2__female_fast.mp3",
-      "exists": true,
-      "bytes": 98496
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P2",
@@ -2295,8 +2295,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N6_UNI_P2__male_normal.mp3",
-      "exists": true,
-      "bytes": 102336
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P2",
@@ -2304,8 +2304,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N6_UNI_P2__male_fast.mp3",
-      "exists": true,
-      "bytes": 93120
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P3",
@@ -2313,8 +2313,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N6_UNI_P3__female_normal.mp3",
-      "exists": true,
-      "bytes": 57024
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P3",
@@ -2322,8 +2322,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N6_UNI_P3__female_fast.mp3",
-      "exists": true,
-      "bytes": 52032
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P3",
@@ -2331,8 +2331,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N6_UNI_P3__male_normal.mp3",
-      "exists": true,
-      "bytes": 54144
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_UNI_P3",
@@ -2340,8 +2340,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N6_UNI_P3__male_fast.mp3",
-      "exists": true,
-      "bytes": 49344
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P1",
@@ -2349,8 +2349,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N6_LEAVE_P1__female_normal.mp3",
-      "exists": true,
-      "bytes": 66624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P1",
@@ -2358,8 +2358,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N6_LEAVE_P1__female_fast.mp3",
-      "exists": true,
-      "bytes": 61056
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P1",
@@ -2367,8 +2367,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N6_LEAVE_P1__male_normal.mp3",
-      "exists": true,
-      "bytes": 61440
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P1",
@@ -2376,8 +2376,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N6_LEAVE_P1__male_fast.mp3",
-      "exists": true,
-      "bytes": 56064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P2",
@@ -2385,8 +2385,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N6_LEAVE_P2__female_normal.mp3",
-      "exists": true,
-      "bytes": 63552
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P2",
@@ -2394,8 +2394,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N6_LEAVE_P2__female_fast.mp3",
-      "exists": true,
-      "bytes": 57792
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P2",
@@ -2403,8 +2403,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N6_LEAVE_P2__male_normal.mp3",
-      "exists": true,
-      "bytes": 59712
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P2",
@@ -2412,8 +2412,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N6_LEAVE_P2__male_fast.mp3",
-      "exists": true,
-      "bytes": 54336
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P3",
@@ -2421,8 +2421,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/ST_N6_LEAVE_P3__female_normal.mp3",
-      "exists": true,
-      "bytes": 61632
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P3",
@@ -2430,8 +2430,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/ST_N6_LEAVE_P3__female_fast.mp3",
-      "exists": true,
-      "bytes": 55872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P3",
@@ -2439,8 +2439,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/ST_N6_LEAVE_P3__male_normal.mp3",
-      "exists": true,
-      "bytes": 57024
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "ST_N6_LEAVE_P3",
@@ -2448,8 +2448,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/ST_N6_LEAVE_P3__male_fast.mp3",
-      "exists": true,
-      "bytes": 52032
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_CAUSE",
@@ -2457,8 +2457,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N3_SCI_CAUSE__female_normal.mp3",
-      "exists": true,
-      "bytes": 102720
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_CAUSE",
@@ -2466,8 +2466,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N3_SCI_CAUSE__female_fast.mp3",
-      "exists": true,
-      "bytes": 93312
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_CAUSE",
@@ -2475,8 +2475,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N3_SCI_CAUSE__male_normal.mp3",
-      "exists": true,
-      "bytes": 96192
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_CAUSE",
@@ -2484,8 +2484,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N3_SCI_CAUSE__male_fast.mp3",
-      "exists": true,
-      "bytes": 87552
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_SOL",
@@ -2493,8 +2493,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N3_SCI_SOL__female_normal.mp3",
-      "exists": true,
-      "bytes": 111552
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_SOL",
@@ -2502,8 +2502,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N3_SCI_SOL__female_fast.mp3",
-      "exists": true,
-      "bytes": 101568
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_SOL",
@@ -2511,8 +2511,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N3_SCI_SOL__male_normal.mp3",
-      "exists": true,
-      "bytes": 104448
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SCI_SOL",
@@ -2520,8 +2520,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N3_SCI_SOL__male_fast.mp3",
-      "exists": true,
-      "bytes": 94848
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_CAUSE",
@@ -2529,8 +2529,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N3_SPORT_CAUSE__female_normal.mp3",
-      "exists": true,
-      "bytes": 140928
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_CAUSE",
@@ -2538,8 +2538,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N3_SPORT_CAUSE__female_fast.mp3",
-      "exists": true,
-      "bytes": 128064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_CAUSE",
@@ -2547,8 +2547,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N3_SPORT_CAUSE__male_normal.mp3",
-      "exists": true,
-      "bytes": 132288
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_CAUSE",
@@ -2556,8 +2556,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N3_SPORT_CAUSE__male_fast.mp3",
-      "exists": true,
-      "bytes": 120192
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_SOL",
@@ -2565,8 +2565,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N3_SPORT_SOL__female_normal.mp3",
-      "exists": true,
-      "bytes": 103872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_SOL",
@@ -2574,8 +2574,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N3_SPORT_SOL__female_fast.mp3",
-      "exists": true,
-      "bytes": 94272
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_SOL",
@@ -2583,8 +2583,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N3_SPORT_SOL__male_normal.mp3",
-      "exists": true,
-      "bytes": 96960
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N3_SPORT_SOL",
@@ -2592,8 +2592,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N3_SPORT_SOL__male_fast.mp3",
-      "exists": true,
-      "bytes": 88320
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_SRC",
@@ -2601,8 +2601,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N6_WRITER_SRC__female_normal.mp3",
-      "exists": true,
-      "bytes": 78912
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_SRC",
@@ -2610,8 +2610,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N6_WRITER_SRC__female_fast.mp3",
-      "exists": true,
-      "bytes": 72000
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_SRC",
@@ -2619,8 +2619,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N6_WRITER_SRC__male_normal.mp3",
-      "exists": true,
-      "bytes": 72960
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_SRC",
@@ -2628,8 +2628,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N6_WRITER_SRC__male_fast.mp3",
-      "exists": true,
-      "bytes": 66624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_THEME",
@@ -2637,8 +2637,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N6_WRITER_THEME__female_normal.mp3",
-      "exists": true,
-      "bytes": 55872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_THEME",
@@ -2646,8 +2646,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N6_WRITER_THEME__female_fast.mp3",
-      "exists": true,
-      "bytes": 50880
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_THEME",
@@ -2655,8 +2655,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N6_WRITER_THEME__male_normal.mp3",
-      "exists": true,
-      "bytes": 52416
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_WRITER_THEME",
@@ -2664,8 +2664,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N6_WRITER_THEME__male_fast.mp3",
-      "exists": true,
-      "bytes": 47616
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_CRIT",
@@ -2673,8 +2673,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N6_OLYMPIC_CRIT__female_normal.mp3",
-      "exists": true,
-      "bytes": 182976
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_CRIT",
@@ -2682,8 +2682,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N6_OLYMPIC_CRIT__female_fast.mp3",
-      "exists": true,
-      "bytes": 166848
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_CRIT",
@@ -2691,8 +2691,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N6_OLYMPIC_CRIT__male_normal.mp3",
-      "exists": true,
-      "bytes": 171072
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_CRIT",
@@ -2700,8 +2700,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N6_OLYMPIC_CRIT__male_fast.mp3",
-      "exists": true,
-      "bytes": 155904
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_ACT",
@@ -2709,8 +2709,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N6_OLYMPIC_ACT__female_normal.mp3",
-      "exists": true,
-      "bytes": 86784
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_ACT",
@@ -2718,8 +2718,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N6_OLYMPIC_ACT__female_fast.mp3",
-      "exists": true,
-      "bytes": 78912
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_ACT",
@@ -2727,8 +2727,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N6_OLYMPIC_ACT__male_normal.mp3",
-      "exists": true,
-      "bytes": 81408
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_OLYMPIC_ACT",
@@ -2736,8 +2736,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N6_OLYMPIC_ACT__male_fast.mp3",
-      "exists": true,
-      "bytes": 73920
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_FIELD",
@@ -2745,8 +2745,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N4_HEALTH_FIELD__female_normal.mp3",
-      "exists": true,
-      "bytes": 149376
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_FIELD",
@@ -2754,8 +2754,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N4_HEALTH_FIELD__female_fast.mp3",
-      "exists": true,
-      "bytes": 135936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_FIELD",
@@ -2763,8 +2763,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N4_HEALTH_FIELD__male_normal.mp3",
-      "exists": true,
-      "bytes": 139392
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_FIELD",
@@ -2772,8 +2772,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N4_HEALTH_FIELD__male_fast.mp3",
-      "exists": true,
-      "bytes": 127104
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_EX",
@@ -2781,8 +2781,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N4_HEALTH_EX__female_normal.mp3",
-      "exists": true,
-      "bytes": 104448
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_EX",
@@ -2790,8 +2790,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N4_HEALTH_EX__female_fast.mp3",
-      "exists": true,
-      "bytes": 95040
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_EX",
@@ -2799,8 +2799,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N4_HEALTH_EX__male_normal.mp3",
-      "exists": true,
-      "bytes": 98304
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N4_HEALTH_EX",
@@ -2808,8 +2808,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N4_HEALTH_EX__male_fast.mp3",
-      "exists": true,
-      "bytes": 89472
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_BEN",
@@ -2817,8 +2817,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N6_STRETCH_BEN__female_normal.mp3",
-      "exists": true,
-      "bytes": 116544
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_BEN",
@@ -2826,8 +2826,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N6_STRETCH_BEN__female_fast.mp3",
-      "exists": true,
-      "bytes": 106368
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_BEN",
@@ -2835,8 +2835,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N6_STRETCH_BEN__male_normal.mp3",
-      "exists": true,
-      "bytes": 107712
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_BEN",
@@ -2844,8 +2844,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N6_STRETCH_BEN__male_fast.mp3",
-      "exists": true,
-      "bytes": 97920
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_CALM",
@@ -2853,8 +2853,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/PX_N6_STRETCH_CALM__female_normal.mp3",
-      "exists": true,
-      "bytes": 134208
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_CALM",
@@ -2862,8 +2862,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/PX_N6_STRETCH_CALM__female_fast.mp3",
-      "exists": true,
-      "bytes": 121920
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_CALM",
@@ -2871,8 +2871,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/PX_N6_STRETCH_CALM__male_normal.mp3",
-      "exists": true,
-      "bytes": 125952
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "PX_N6_STRETCH_CALM",
@@ -2880,8 +2880,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/PX_N6_STRETCH_CALM__male_fast.mp3",
-      "exists": true,
-      "bytes": 114432
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_HOMELESS",
@@ -2889,8 +2889,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X1_HOMELESS__female_normal.mp3",
-      "exists": true,
-      "bytes": 112512
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_HOMELESS",
@@ -2898,8 +2898,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X1_HOMELESS__female_fast.mp3",
-      "exists": true,
-      "bytes": 102528
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_HOMELESS",
@@ -2907,8 +2907,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X1_HOMELESS__male_normal.mp3",
-      "exists": true,
-      "bytes": 103872
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_HOMELESS",
@@ -2916,8 +2916,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X1_HOMELESS__male_fast.mp3",
-      "exists": true,
-      "bytes": 94656
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_SEMINAR",
@@ -2925,8 +2925,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X1_SEMINAR__female_normal.mp3",
-      "exists": true,
-      "bytes": 124992
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_SEMINAR",
@@ -2934,8 +2934,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X1_SEMINAR__female_fast.mp3",
-      "exists": true,
-      "bytes": 113472
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_SEMINAR",
@@ -2943,8 +2943,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X1_SEMINAR__male_normal.mp3",
-      "exists": true,
-      "bytes": 117120
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_SEMINAR",
@@ -2952,8 +2952,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X1_SEMINAR__male_fast.mp3",
-      "exists": true,
-      "bytes": 106368
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_NEIGHBOR",
@@ -2961,8 +2961,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X1_NEIGHBOR__female_normal.mp3",
-      "exists": true,
-      "bytes": 119424
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_NEIGHBOR",
@@ -2970,8 +2970,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X1_NEIGHBOR__female_fast.mp3",
-      "exists": true,
-      "bytes": 108672
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_NEIGHBOR",
@@ -2979,8 +2979,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X1_NEIGHBOR__male_normal.mp3",
-      "exists": true,
-      "bytes": 112128
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_NEIGHBOR",
@@ -2988,8 +2988,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X1_NEIGHBOR__male_fast.mp3",
-      "exists": true,
-      "bytes": 102336
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_ONG",
@@ -2997,8 +2997,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X1_ONG__female_normal.mp3",
-      "exists": true,
-      "bytes": 134400
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_ONG",
@@ -3006,8 +3006,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X1_ONG__female_fast.mp3",
-      "exists": true,
-      "bytes": 122304
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_ONG",
@@ -3015,8 +3015,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X1_ONG__male_normal.mp3",
-      "exists": true,
-      "bytes": 124800
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_ONG",
@@ -3024,8 +3024,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X1_ONG__male_fast.mp3",
-      "exists": true,
-      "bytes": 113664
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DIGITAL",
@@ -3033,8 +3033,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X1_DIGITAL__female_normal.mp3",
-      "exists": true,
-      "bytes": 133824
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DIGITAL",
@@ -3042,8 +3042,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X1_DIGITAL__female_fast.mp3",
-      "exists": true,
-      "bytes": 121920
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DIGITAL",
@@ -3051,8 +3051,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X1_DIGITAL__male_normal.mp3",
-      "exists": true,
-      "bytes": 125760
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DIGITAL",
@@ -3060,8 +3060,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X1_DIGITAL__male_fast.mp3",
-      "exists": true,
-      "bytes": 114624
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DISCOUNTS",
@@ -3069,8 +3069,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X1_DISCOUNTS__female_normal.mp3",
-      "exists": true,
-      "bytes": 152448
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DISCOUNTS",
@@ -3078,8 +3078,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X1_DISCOUNTS__female_fast.mp3",
-      "exists": true,
-      "bytes": 138432
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DISCOUNTS",
@@ -3087,8 +3087,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X1_DISCOUNTS__male_normal.mp3",
-      "exists": true,
-      "bytes": 142848
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X1_DISCOUNTS",
@@ -3096,8 +3096,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X1_DISCOUNTS__male_fast.mp3",
-      "exists": true,
-      "bytes": 129792
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_ROAD",
@@ -3105,8 +3105,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X2_ROAD__female_normal.mp3",
-      "exists": true,
-      "bytes": 130944
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_ROAD",
@@ -3114,8 +3114,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X2_ROAD__female_fast.mp3",
-      "exists": true,
-      "bytes": 119040
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_ROAD",
@@ -3123,8 +3123,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X2_ROAD__male_normal.mp3",
-      "exists": true,
-      "bytes": 123072
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_ROAD",
@@ -3132,8 +3132,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X2_ROAD__male_fast.mp3",
-      "exists": true,
-      "bytes": 111744
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_DIRECTOR",
@@ -3141,8 +3141,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X2_DIRECTOR__female_normal.mp3",
-      "exists": true,
-      "bytes": 123264
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_DIRECTOR",
@@ -3150,8 +3150,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X2_DIRECTOR__female_fast.mp3",
-      "exists": true,
-      "bytes": 111936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_DIRECTOR",
@@ -3159,8 +3159,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X2_DIRECTOR__male_normal.mp3",
-      "exists": true,
-      "bytes": 117504
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_DIRECTOR",
@@ -3168,8 +3168,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X2_DIRECTOR__male_fast.mp3",
-      "exists": true,
-      "bytes": 106944
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_STUDENTS",
@@ -3177,8 +3177,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X2_STUDENTS__female_normal.mp3",
-      "exists": true,
-      "bytes": 108288
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_STUDENTS",
@@ -3186,8 +3186,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X2_STUDENTS__female_fast.mp3",
-      "exists": true,
-      "bytes": 98688
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_STUDENTS",
@@ -3195,8 +3195,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X2_STUDENTS__male_normal.mp3",
-      "exists": true,
-      "bytes": 101376
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_STUDENTS",
@@ -3204,8 +3204,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X2_STUDENTS__male_fast.mp3",
-      "exists": true,
-      "bytes": 91968
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_FRANCOPHONE",
@@ -3213,8 +3213,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X2_FRANCOPHONE__female_normal.mp3",
-      "exists": true,
-      "bytes": 122496
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_FRANCOPHONE",
@@ -3222,8 +3222,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X2_FRANCOPHONE__female_fast.mp3",
-      "exists": true,
-      "bytes": 111552
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_FRANCOPHONE",
@@ -3231,8 +3231,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X2_FRANCOPHONE__male_normal.mp3",
-      "exists": true,
-      "bytes": 115968
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_FRANCOPHONE",
@@ -3240,8 +3240,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X2_FRANCOPHONE__male_fast.mp3",
-      "exists": true,
-      "bytes": 105600
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_IMMIGRANT",
@@ -3249,8 +3249,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X2_IMMIGRANT__female_normal.mp3",
-      "exists": true,
-      "bytes": 152832
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_IMMIGRANT",
@@ -3258,8 +3258,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X2_IMMIGRANT__female_fast.mp3",
-      "exists": true,
-      "bytes": 138816
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_IMMIGRANT",
@@ -3267,8 +3267,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X2_IMMIGRANT__male_normal.mp3",
-      "exists": true,
-      "bytes": 143808
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_IMMIGRANT",
@@ -3276,8 +3276,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X2_IMMIGRANT__male_fast.mp3",
-      "exists": true,
-      "bytes": 130752
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_SCREENS",
@@ -3285,8 +3285,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X2_SCREENS__female_normal.mp3",
-      "exists": true,
-      "bytes": 135168
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_SCREENS",
@@ -3294,8 +3294,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X2_SCREENS__female_fast.mp3",
-      "exists": true,
-      "bytes": 123264
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_SCREENS",
@@ -3303,8 +3303,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X2_SCREENS__male_normal.mp3",
-      "exists": true,
-      "bytes": 125568
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X2_SCREENS",
@@ -3312,8 +3312,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X2_SCREENS__male_fast.mp3",
-      "exists": true,
-      "bytes": 114240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_TOMATO",
@@ -3321,8 +3321,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X3_TOMATO__female_normal.mp3",
-      "exists": true,
-      "bytes": 123648
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_TOMATO",
@@ -3330,8 +3330,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X3_TOMATO__female_fast.mp3",
-      "exists": true,
-      "bytes": 112512
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_TOMATO",
@@ -3339,8 +3339,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X3_TOMATO__male_normal.mp3",
-      "exists": true,
-      "bytes": 115584
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_TOMATO",
@@ -3348,8 +3348,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X3_TOMATO__male_fast.mp3",
-      "exists": true,
-      "bytes": 105216
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_MIGRAINE",
@@ -3357,8 +3357,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X3_MIGRAINE__female_normal.mp3",
-      "exists": true,
-      "bytes": 127104
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_MIGRAINE",
@@ -3366,8 +3366,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X3_MIGRAINE__female_fast.mp3",
-      "exists": true,
-      "bytes": 115776
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_MIGRAINE",
@@ -3375,8 +3375,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X3_MIGRAINE__male_normal.mp3",
-      "exists": true,
-      "bytes": 120000
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_MIGRAINE",
@@ -3384,8 +3384,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X3_MIGRAINE__male_fast.mp3",
-      "exists": true,
-      "bytes": 109056
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_APPAREIL",
@@ -3393,8 +3393,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X3_APPAREIL__female_normal.mp3",
-      "exists": true,
-      "bytes": 132288
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_APPAREIL",
@@ -3402,8 +3402,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X3_APPAREIL__female_fast.mp3",
-      "exists": true,
-      "bytes": 120576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_APPAREIL",
@@ -3411,8 +3411,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X3_APPAREIL__male_normal.mp3",
-      "exists": true,
-      "bytes": 124224
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_APPAREIL",
@@ -3420,8 +3420,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X3_APPAREIL__male_fast.mp3",
-      "exists": true,
-      "bytes": 112896
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_RIGHTS",
@@ -3429,8 +3429,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X3_RIGHTS__female_normal.mp3",
-      "exists": true,
-      "bytes": 118848
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_RIGHTS",
@@ -3438,8 +3438,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X3_RIGHTS__female_fast.mp3",
-      "exists": true,
-      "bytes": 108096
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_RIGHTS",
@@ -3447,8 +3447,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X3_RIGHTS__male_normal.mp3",
-      "exists": true,
-      "bytes": 111936
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_RIGHTS",
@@ -3456,8 +3456,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X3_RIGHTS__male_fast.mp3",
-      "exists": true,
-      "bytes": 101952
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_HEAT",
@@ -3465,8 +3465,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X3_HEAT__female_normal.mp3",
-      "exists": true,
-      "bytes": 128448
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_HEAT",
@@ -3474,8 +3474,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X3_HEAT__female_fast.mp3",
-      "exists": true,
-      "bytes": 116736
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_HEAT",
@@ -3483,8 +3483,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X3_HEAT__male_normal.mp3",
-      "exists": true,
-      "bytes": 121344
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_HEAT",
@@ -3492,8 +3492,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X3_HEAT__male_fast.mp3",
-      "exists": true,
-      "bytes": 110208
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_IMMIGRATION",
@@ -3501,8 +3501,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X3_IMMIGRATION__female_normal.mp3",
-      "exists": true,
-      "bytes": 141504
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_IMMIGRATION",
@@ -3510,8 +3510,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X3_IMMIGRATION__female_fast.mp3",
-      "exists": true,
-      "bytes": 128640
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_IMMIGRATION",
@@ -3519,8 +3519,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X3_IMMIGRATION__male_normal.mp3",
-      "exists": true,
-      "bytes": 132480
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X3_IMMIGRATION",
@@ -3528,8 +3528,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X3_IMMIGRATION__male_fast.mp3",
-      "exists": true,
-      "bytes": 120576
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_TRAVEL_AGENCY",
@@ -3537,8 +3537,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X4_TRAVEL_AGENCY__female_normal.mp3",
-      "exists": true,
-      "bytes": 126720
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_TRAVEL_AGENCY",
@@ -3546,8 +3546,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X4_TRAVEL_AGENCY__female_fast.mp3",
-      "exists": true,
-      "bytes": 115392
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_TRAVEL_AGENCY",
@@ -3555,8 +3555,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X4_TRAVEL_AGENCY__male_normal.mp3",
-      "exists": true,
-      "bytes": 118464
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_TRAVEL_AGENCY",
@@ -3564,8 +3564,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X4_TRAVEL_AGENCY__male_fast.mp3",
-      "exists": true,
-      "bytes": 107520
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_EMOTION",
@@ -3573,8 +3573,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X4_EMOTION__female_normal.mp3",
-      "exists": true,
-      "bytes": 116160
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_EMOTION",
@@ -3582,8 +3582,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X4_EMOTION__female_fast.mp3",
-      "exists": true,
-      "bytes": 105216
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_EMOTION",
@@ -3591,8 +3591,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X4_EMOTION__male_normal.mp3",
-      "exists": true,
-      "bytes": 109632
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_EMOTION",
@@ -3600,8 +3600,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X4_EMOTION__male_fast.mp3",
-      "exists": true,
-      "bytes": 99840
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_CAPITALISTES",
@@ -3609,8 +3609,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X4_CAPITALISTES__female_normal.mp3",
-      "exists": true,
-      "bytes": 147456
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_CAPITALISTES",
@@ -3618,8 +3618,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X4_CAPITALISTES__female_fast.mp3",
-      "exists": true,
-      "bytes": 133824
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_CAPITALISTES",
@@ -3627,8 +3627,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X4_CAPITALISTES__male_normal.mp3",
-      "exists": true,
-      "bytes": 137280
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_CAPITALISTES",
@@ -3636,8 +3636,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X4_CAPITALISTES__male_fast.mp3",
-      "exists": true,
-      "bytes": 124416
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_AI",
@@ -3645,8 +3645,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X4_AI__female_normal.mp3",
-      "exists": true,
-      "bytes": 143424
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_AI",
@@ -3654,8 +3654,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X4_AI__female_fast.mp3",
-      "exists": true,
-      "bytes": 130368
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_AI",
@@ -3663,8 +3663,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X4_AI__male_normal.mp3",
-      "exists": true,
-      "bytes": 133824
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_AI",
@@ -3672,8 +3672,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X4_AI__male_fast.mp3",
-      "exists": true,
-      "bytes": 121728
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_RIGHT_REPAIR",
@@ -3681,8 +3681,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X4_RIGHT_REPAIR__female_normal.mp3",
-      "exists": true,
-      "bytes": 145920
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_RIGHT_REPAIR",
@@ -3690,8 +3690,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X4_RIGHT_REPAIR__female_fast.mp3",
-      "exists": true,
-      "bytes": 132672
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_RIGHT_REPAIR",
@@ -3699,8 +3699,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X4_RIGHT_REPAIR__male_normal.mp3",
-      "exists": true,
-      "bytes": 135744
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_RIGHT_REPAIR",
@@ -3708,8 +3708,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X4_RIGHT_REPAIR__male_fast.mp3",
-      "exists": true,
-      "bytes": 123456
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_NUTRISCORE",
@@ -3717,8 +3717,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X4_NUTRISCORE__female_normal.mp3",
-      "exists": true,
-      "bytes": 128064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_NUTRISCORE",
@@ -3726,8 +3726,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X4_NUTRISCORE__female_fast.mp3",
-      "exists": true,
-      "bytes": 116544
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_NUTRISCORE",
@@ -3735,8 +3735,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X4_NUTRISCORE__male_normal.mp3",
-      "exists": true,
-      "bytes": 118656
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X4_NUTRISCORE",
@@ -3744,8 +3744,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X4_NUTRISCORE__male_fast.mp3",
-      "exists": true,
-      "bytes": 108288
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_MYLENE",
@@ -3753,8 +3753,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X5_MYLENE__female_normal.mp3",
-      "exists": true,
-      "bytes": 136320
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_MYLENE",
@@ -3762,8 +3762,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X5_MYLENE__female_fast.mp3",
-      "exists": true,
-      "bytes": 124224
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_MYLENE",
@@ -3771,8 +3771,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X5_MYLENE__male_normal.mp3",
-      "exists": true,
-      "bytes": 127296
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_MYLENE",
@@ -3780,8 +3780,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X5_MYLENE__male_fast.mp3",
-      "exists": true,
-      "bytes": 116160
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_PARENTAL",
@@ -3789,8 +3789,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X5_PARENTAL__female_normal.mp3",
-      "exists": true,
-      "bytes": 141504
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_PARENTAL",
@@ -3798,8 +3798,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X5_PARENTAL__female_fast.mp3",
-      "exists": true,
-      "bytes": 129024
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_PARENTAL",
@@ -3807,8 +3807,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X5_PARENTAL__male_normal.mp3",
-      "exists": true,
-      "bytes": 131328
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_PARENTAL",
@@ -3816,8 +3816,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X5_PARENTAL__male_fast.mp3",
-      "exists": true,
-      "bytes": 119616
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_REFUGEES",
@@ -3825,8 +3825,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X5_REFUGEES__female_normal.mp3",
-      "exists": true,
-      "bytes": 125952
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_REFUGEES",
@@ -3834,8 +3834,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X5_REFUGEES__female_fast.mp3",
-      "exists": true,
-      "bytes": 114816
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_REFUGEES",
@@ -3843,8 +3843,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X5_REFUGEES__male_normal.mp3",
-      "exists": true,
-      "bytes": 118272
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_REFUGEES",
@@ -3852,8 +3852,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X5_REFUGEES__male_fast.mp3",
-      "exists": true,
-      "bytes": 107904
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_BLACKFRIDAY",
@@ -3861,8 +3861,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X5_BLACKFRIDAY__female_normal.mp3",
-      "exists": true,
-      "bytes": 139392
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_BLACKFRIDAY",
@@ -3870,8 +3870,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X5_BLACKFRIDAY__female_fast.mp3",
-      "exists": true,
-      "bytes": 126720
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_BLACKFRIDAY",
@@ -3879,8 +3879,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X5_BLACKFRIDAY__male_normal.mp3",
-      "exists": true,
-      "bytes": 130560
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_BLACKFRIDAY",
@@ -3888,8 +3888,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X5_BLACKFRIDAY__male_fast.mp3",
-      "exists": true,
-      "bytes": 119040
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ORGANIC",
@@ -3897,8 +3897,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X5_ORGANIC__female_normal.mp3",
-      "exists": true,
-      "bytes": 134208
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ORGANIC",
@@ -3906,8 +3906,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X5_ORGANIC__female_fast.mp3",
-      "exists": true,
-      "bytes": 122304
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ORGANIC",
@@ -3915,8 +3915,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X5_ORGANIC__male_normal.mp3",
-      "exists": true,
-      "bytes": 126144
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ORGANIC",
@@ -3924,8 +3924,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X5_ORGANIC__male_fast.mp3",
-      "exists": true,
-      "bytes": 115008
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ANIMALS",
@@ -3933,8 +3933,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X5_ANIMALS__female_normal.mp3",
-      "exists": true,
-      "bytes": 139392
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ANIMALS",
@@ -3942,8 +3942,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X5_ANIMALS__female_fast.mp3",
-      "exists": true,
-      "bytes": 127296
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ANIMALS",
@@ -3951,8 +3951,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X5_ANIMALS__male_normal.mp3",
-      "exists": true,
-      "bytes": 130944
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X5_ANIMALS",
@@ -3960,8 +3960,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X5_ANIMALS__male_fast.mp3",
-      "exists": true,
-      "bytes": 119424
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_STRIKE",
@@ -3969,8 +3969,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X6_STRIKE__female_normal.mp3",
-      "exists": true,
-      "bytes": 113088
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_STRIKE",
@@ -3978,8 +3978,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X6_STRIKE__female_fast.mp3",
-      "exists": true,
-      "bytes": 102720
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_STRIKE",
@@ -3987,8 +3987,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X6_STRIKE__male_normal.mp3",
-      "exists": true,
-      "bytes": 107520
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_STRIKE",
@@ -3996,8 +3996,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X6_STRIKE__male_fast.mp3",
-      "exists": true,
-      "bytes": 97728
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_TELEWORK",
@@ -4005,8 +4005,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X6_TELEWORK__female_normal.mp3",
-      "exists": true,
-      "bytes": 134976
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_TELEWORK",
@@ -4014,8 +4014,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X6_TELEWORK__female_fast.mp3",
-      "exists": true,
-      "bytes": 122688
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_TELEWORK",
@@ -4023,8 +4023,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X6_TELEWORK__male_normal.mp3",
-      "exists": true,
-      "bytes": 126528
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_TELEWORK",
@@ -4032,8 +4032,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X6_TELEWORK__male_fast.mp3",
-      "exists": true,
-      "bytes": 115008
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_NGO",
@@ -4041,8 +4041,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X6_NGO__female_normal.mp3",
-      "exists": true,
-      "bytes": 134400
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_NGO",
@@ -4050,8 +4050,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X6_NGO__female_fast.mp3",
-      "exists": true,
-      "bytes": 122304
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_NGO",
@@ -4059,8 +4059,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X6_NGO__male_normal.mp3",
-      "exists": true,
-      "bytes": 125952
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_NGO",
@@ -4068,8 +4068,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X6_NGO__male_fast.mp3",
-      "exists": true,
-      "bytes": 114240
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_BOUQUINISTES",
@@ -4077,8 +4077,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X6_BOUQUINISTES__female_normal.mp3",
-      "exists": true,
-      "bytes": 124032
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_BOUQUINISTES",
@@ -4086,8 +4086,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X6_BOUQUINISTES__female_fast.mp3",
-      "exists": true,
-      "bytes": 113088
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_BOUQUINISTES",
@@ -4095,8 +4095,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X6_BOUQUINISTES__male_normal.mp3",
-      "exists": true,
-      "bytes": 116736
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_BOUQUINISTES",
@@ -4104,8 +4104,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X6_BOUQUINISTES__male_fast.mp3",
-      "exists": true,
-      "bytes": 106368
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_FASTFOOD",
@@ -4113,8 +4113,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X6_FASTFOOD__female_normal.mp3",
-      "exists": true,
-      "bytes": 128064
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_FASTFOOD",
@@ -4122,8 +4122,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X6_FASTFOOD__female_fast.mp3",
-      "exists": true,
-      "bytes": 116736
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_FASTFOOD",
@@ -4131,8 +4131,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X6_FASTFOOD__male_normal.mp3",
-      "exists": true,
-      "bytes": 121344
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_FASTFOOD",
@@ -4140,8 +4140,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X6_FASTFOOD__male_fast.mp3",
-      "exists": true,
-      "bytes": 110400
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_SCAMS",
@@ -4149,8 +4149,8 @@
       "speed": "normal",
       "profile": "female_normal",
       "path": "audio/X6_SCAMS__female_normal.mp3",
-      "exists": true,
-      "bytes": 136320
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_SCAMS",
@@ -4158,8 +4158,8 @@
       "speed": "fast",
       "profile": "female_fast",
       "path": "audio/X6_SCAMS__female_fast.mp3",
-      "exists": true,
-      "bytes": 124224
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_SCAMS",
@@ -4167,8 +4167,8 @@
       "speed": "normal",
       "profile": "male_normal",
       "path": "audio/X6_SCAMS__male_normal.mp3",
-      "exists": true,
-      "bytes": 125952
+      "exists": false,
+      "bytes": 0
     },
     {
       "source_unit_id": "X6_SCAMS",
@@ -4176,8 +4176,8 @@
       "speed": "fast",
       "profile": "male_fast",
       "path": "audio/X6_SCAMS__male_fast.mp3",
-      "exists": true,
-      "bytes": 114816
+      "exists": false,
+      "bytes": 0
     }
   ]
 }

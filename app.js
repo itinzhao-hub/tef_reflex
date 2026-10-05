@@ -14,7 +14,7 @@
 
   const els = Object.fromEntries([
     'trainerView','statsView','settingsView','statsBtn','settingsBtn','moduleBadge','maturityBadge','progressText',
-    'statusIcon','listenStatus','promptText','preReadBar','readyBtn','options','replayBtn','revealBtn','nextBtn','feedback',
+    'statusIcon','listenStatus','promptText','preReadBar','readyBtn','startGateBar','startGateText','startAudioBtn','options','replayBtn','revealBtn','nextBtn','feedback',
     'miniFp','miniReplayFree','miniRt','statsCards','moduleStatsBody','exportJsonBtn','exportCsvBtn','resetSessionBtn','resetAllBtn',
     'moduleFilter','audioMode','ttsRate','autoNextDelay','shuffleOptions','showPostRt','useFastTtsRandom'
   ].map(id => [id, document.getElementById(id)]));
@@ -45,6 +45,9 @@
   let activeGroupRun = null;
   let preReadStartedAt = null;
   let preReadTimeMs = null;
+  // Browsers block the first programmatic audio play until a user gesture.
+  // Keep this document-scoped: a reload/new PWA session should ask once again.
+  let audioUnlocked = false;
 
   init();
 
@@ -74,7 +77,14 @@
     els.replayBtn.onclick = () => requestReplay();
     els.revealBtn.onclick = () => revealAnswer();
     els.nextBtn.onclick = () => nextStimulus();
-    els.readyBtn.onclick = () => startPlayback();
+    els.readyBtn.onclick = () => { audioUnlocked = true; startPlayback(false, false, true); };
+    els.startAudioBtn.onclick = () => {
+      audioUnlocked = true;
+      els.startGateBar.classList.add('hidden');
+      els.replayBtn.classList.remove('hidden');
+      els.revealBtn.classList.remove('hidden');
+      startPlayback(false, false, true);
+    };
     els.exportJsonBtn.onclick = exportJSON;
     els.exportCsvBtn.onclick = exportCSV;
     els.resetSessionBtn.onclick = resetSession;
@@ -125,7 +135,7 @@
     if (e.key.toLowerCase() === 'r') { e.preventDefault(); requestReplay(); return; }
     if (e.key === '0') { e.preventDefault(); revealAnswer(); return; }
     if (e.key === 'Enter' && (state === 'FEEDBACK' || state === 'FEEDBACK_REVEAL')) { e.preventDefault(); nextStimulus(); return; }
-    if (e.code === 'Space' && state === 'PRE_READ') { e.preventDefault(); startPlayback(); }
+    if (e.code === 'Space' && state === 'PRE_READ') { e.preventDefault(); audioUnlocked = true; startPlayback(false, false, true); }
   }
 
   function nextStimulus(){
@@ -155,6 +165,7 @@
     lastAudioMeta = {mode:null, voice:null, speed:null, duration_ms:null};
     firstChoiceMade = false; gaveUp = false;
     els.feedback.classList.add('hidden'); els.feedback.innerHTML='';
+    els.startGateBar.classList.add('hidden');
     els.nextBtn.classList.add('hidden');
     els.replayBtn.classList.remove('hidden'); els.revealBtn.classList.remove('hidden');
     els.moduleBadge.textContent = current.module;
@@ -169,12 +180,14 @@
       state = 'PRE_READ';
       preReadStartedAt = performance.now();
       els.preReadBar.classList.remove('hidden');
+      els.startGateBar.classList.add('hidden');
       els.listenStatus.textContent = 'PRE-READ';
       els.statusIcon.textContent = '◫';
       lockOptions(false, true);
     } else {
       els.preReadBar.classList.add('hidden');
-      setTimeout(startPlayback, 120);
+      if (!audioUnlocked) enterManualStart('浏览器需要一次点击来启用音频；之后各题会自动播放。');
+      else setTimeout(() => startPlayback(false, false, false), 120);
     }
   }
 
@@ -208,27 +221,75 @@
     b.animate([{transform:'translateX(0)'},{transform:'translateX(-3px)'},{transform:'translateX(3px)'},{transform:'translateX(0)'}],{duration:180});
   }
 
-  async function startPlayback(isReplay=false, withTranscript=false){
+  function isAutoplayBlocked(err){
+    const name=String(err?.name||'');
+    const msg=String(err?.message||err?.error||'');
+    return name==='NotAllowedError' || /not[- ]?allowed|autoplay|user gesture|user interaction/i.test(msg);
+  }
+
+  function enterManualStart(message){
+    stopAudio();
+    audioUnlocked=false;
+    state='AWAITING_START';
+    lockOptions(true);
+    els.preReadBar.classList.add('hidden');
+    els.startGateText.textContent=message || '点击开始播放；之后各题会自动播放。';
+    els.startGateBar.classList.remove('hidden');
+    els.listenStatus.textContent='READY';
+    els.statusIcon.textContent='▶';
+    els.replayBtn.classList.add('hidden');
+    els.revealBtn.classList.add('hidden');
+  }
+
+  async function startPlayback(isReplay=false, withTranscript=false, fromUserGesture=false){
     if (!current || state==='PLAYING') return;
+    if (fromUserGesture) audioUnlocked=true;
     if (!isReplay && state==='PRE_READ' && preReadStartedAt!=null && preReadTimeMs==null) preReadTimeMs=Math.round(performance.now()-preReadStartedAt);
     stopAudio();
     els.preReadBar.classList.add('hidden');
+    els.startGateBar.classList.add('hidden');
     state='PLAYING'; playCount++; if(isReplay) replayCount++;
+    els.replayBtn.classList.remove('hidden');
+    els.revealBtn.classList.remove('hidden');
     lockOptions(true);
     els.listenStatus.textContent = isReplay ? `REPLAY ×${replayCount}` : 'LISTENING';
     els.statusIcon.textContent='▶';
     if(withTranscript){ els.feedback.classList.remove('hidden'); }
     const playbackStartedAt = performance.now();
-    try { await playCurrentAudio(); }
-    catch(e){
+    try {
+      await playCurrentAudio();
+    } catch(e){
       console.warn(e);
+      if (isAutoplayBlocked(e)) {
+        playCount=Math.max(0,playCount-1); if(isReplay) replayCount=Math.max(0,replayCount-1);
+        enterManualStart('浏览器阻止了自动播放。点击这里继续；本次点击后后续题目会自动播放。');
+        return;
+      }
       if (settings.audioMode === 'auto') {
-        await playTTS(current.audio?.text || current.source?.transcript_normalized || '');
+        try {
+          await playTTS(current.audio?.text || current.source?.transcript_normalized || '');
+        } catch(e2) {
+          console.warn(e2);
+          if (isAutoplayBlocked(e2)) {
+            playCount=Math.max(0,playCount-1); if(isReplay) replayCount=Math.max(0,replayCount-1);
+            enterManualStart('浏览器阻止了自动播放。点击这里继续；本次点击后后续题目会自动播放。');
+            return;
+          }
+          state='AUDIO_ERROR';
+          els.listenStatus.textContent='AUDIO ERROR';
+          els.statusIcon.textContent='!';
+          return;
+        }
       } else {
+        state='AUDIO_ERROR';
         els.listenStatus.textContent = 'AUDIO ERROR';
+        els.statusIcon.textContent='!';
+        return;
       }
     }
     if(state!=='PLAYING') return;
+    // Reaching here means one complete audio playback actually occurred.
+    audioUnlocked=true;
     const now=performance.now();
     lastAudioMeta.duration_ms = Math.round(now - playbackStartedAt);
     if(firstAudioEndAt===null) firstAudioEndAt=now;
@@ -255,13 +316,14 @@
   function playMp3(path){
     return new Promise((resolve,reject)=>{
       const a=new Audio(path); activeAudio=a;
-      a.onended=()=>resolve(); a.onerror=()=>reject(new Error('MP3 unavailable: '+path));
-      a.play().catch(reject);
+      a.onended=()=>{ activeAudio=null; resolve(); };
+      a.onerror=()=>{ activeAudio=null; reject(new Error('MP3 unavailable: '+path)); };
+      a.play().catch(err=>{ activeAudio=null; reject(err); });
     });
   }
 
   function playTTS(text){
-    return new Promise(resolve=>{
+    return new Promise((resolve,reject)=>{
       if(!('speechSynthesis' in window)){ setTimeout(resolve,Math.max(1200,text.length*55)); return; }
       speechSynthesis.cancel();
       const u=new SpeechSynthesisUtterance(text); ttsUtterance=u; u.lang='fr-FR';
@@ -271,7 +333,12 @@
       if(settings.useFastTtsRandom && Math.random()<0.35) rate=Math.max(rate,1.15);
       u.rate=rate; u.pitch=1;
       lastAudioMeta.mode='tts'; lastAudioMeta.voice=u.voice?.name||'browser-default'; lastAudioMeta.speed=rate;
-      u.onend=()=>resolve(); u.onerror=()=>resolve();
+      u.onend=()=>resolve();
+      u.onerror=(ev)=>{
+        if(String(ev?.error||'').toLowerCase()==='not-allowed'){
+          const err=new Error('TTS autoplay not allowed'); err.name='NotAllowedError'; reject(err);
+        } else resolve();
+      };
       speechSynthesis.speak(u);
     });
   }
