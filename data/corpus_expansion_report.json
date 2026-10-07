@@ -1,0 +1,73 @@
+{
+  "version": "0.6-final-corpus-expansion",
+  "base_stimuli": 670,
+  "new_stimuli_added": 672,
+  "total_stimuli": 1342,
+  "default_active_total": 1234,
+  "new_by_origin": {
+    "AUTH_OLD": 488,
+    "SIMULATED": 90,
+    "DERIVED_SAFE": 94
+  },
+  "new_by_module": {
+    "LANGUAGE_CHUNK": 502,
+    "LOGIC_STATE": 47,
+    "VERB_FRAME": 123
+  },
+  "new_by_subtype": {
+    "FORMULA": 86,
+    "LOGIC_LINK": 35,
+    "LEXICAL_GENERAL": 322,
+    "VERB_OR_STATE": 88,
+    "NOUN_COLLOCATION": 58,
+    "MESO_INTEGRATION": 36,
+    "DERIVED_VERB": 35,
+    "DERIVED_LOGIC": 12
+  },
+  "active_origin_mix": {
+    "AUTH_NEW": 562,
+    "AUTH_OLD": 488,
+    "SIMULATED": 90,
+    "DERIVED_SAFE": 94
+  },
+  "source_units_total": 739,
+  "audio_units_total": 1160,
+  "new_word_count": {
+    "min": 2,
+    "median": 6.0,
+    "max": 21,
+    "le8": 579,
+    "9_14": 67,
+    "15_22": 26
+  },
+  "module_weights": {
+    "LANGUAGE_CHUNK": 1.0,
+    "VERB_FRAME": 3.845,
+    "LOGIC_STATE": 2.74,
+    "COMM_INTENT": 3.76,
+    "STANCE": 6.963,
+    "PARAPHRASE": 0.0,
+    "SHORT_MID": 0.0
+  },
+  "coverage_first_mix": {
+    "unseen": 0.4,
+    "seen_once": 0.25,
+    "weak": 0.2,
+    "mature": 0.1,
+    "random": 0.05
+  },
+  "policies": [
+    "AUTH_NEW remains structural calibration source",
+    "AUTH_OLD mined aggressively for language breadth",
+    "SIMULATED only supplements coverage gaps; Chinese glosses ignored",
+    "DERIVED_SAFE limited and tagged",
+    "no new long/very-long explicit stimuli"
+  ],
+  "active_origin_percent": {
+    "AUTH_NEW": 45.5,
+    "AUTH_OLD": 39.5,
+    "SIMULATED": 7.3,
+    "DERIVED_SAFE": 7.6
+  },
+  "authentic_active_percent": 85.1
+}

@@ -22,6 +22,7 @@
   let stimuli = [];
   let config = {};
   let attempts = loadJSON(STORAGE.attempts, []);
+  let attemptCounts = buildAttemptCounts(attempts);
   let mastery = loadJSON(STORAGE.mastery, {});
   let settings = {...DEFAULT_SETTINGS, ...loadJSON(STORAGE.settings, {})};
   let session = loadJSON(STORAGE.session, null) || {id: makeSessionId(), startedAt: Date.now(), count: 0, recentSourceUnits: [], reinsertion: []};
@@ -398,7 +399,7 @@
   }
 
   function recordAttempt(a){
-    attempts.push(a); sessionAttempts.push(a);
+    attempts.push(a); sessionAttempts.push(a); attemptCounts[a.stimulus_id]=(attemptCounts[a.stimulus_id]||0)+1;
     updateMastery(a); a.maturity_after=getMaturity(a.stimulus_id);
     localStorage.setItem(STORAGE.attempts,JSON.stringify(attempts));
     localStorage.setItem(STORAGE.mastery,JSON.stringify(mastery));
@@ -469,8 +470,40 @@
     }
     const candidates=pool.filter(s=>!recentSourceConflict(s));
     const usable=candidates.length?candidates:pool;
-    const weighted=usable.map(s=>({s,w:stimulusWeight(s)}));
+    const bucket=coverageBucket(usable);
+    const weighted=bucket.map(s=>({s,w:stimulusWeight(s)}));
     return weightedChoice(weighted);
+  }
+
+  function buildAttemptCounts(arr){
+    const m={};
+    for(const a of (arr||[])) m[a.stimulus_id]=(m[a.stimulus_id]||0)+1;
+    return m;
+  }
+
+  function coverageBucket(pool){
+    const mix=config?.scheduler?.coverage_mix;
+    if(!mix || config?.scheduler?.strategy!=='coverage_first_final_expansion') return pool;
+    const buckets={
+      unseen:pool.filter(s=>(attemptCounts[s.stimulus_id]||0)===0),
+      seen_once:pool.filter(s=>(attemptCounts[s.stimulus_id]||0)===1),
+      weak:pool.filter(s=>{
+        const n=attemptCounts[s.stimulus_id]||0;
+        if(n<2)return false;
+        const m=mastery[s.stimulus_id]||{state:'ACQUISITION',recent:[]};
+        return m.state==='ACQUISITION' || (m.recent||[]).some(x=>['FP_WRONG','REPLAY_WRONG','REVEAL'].includes(x));
+      }),
+      mature:pool.filter(s=>{
+        const m=mastery[s.stimulus_id];
+        return m && ['CONSOLIDATION','EXAM'].includes(m.state);
+      }),
+      random:pool
+    };
+    const available=Object.entries(mix).filter(([k,w])=>w>0 && buckets[k]?.length);
+    if(!available.length)return pool;
+    let r=Math.random()*available.reduce((a,[,w])=>a+w,0);
+    for(const [k,w] of available){ r-=w; if(r<=0)return buckets[k]; }
+    return buckets[available[available.length-1][0]];
   }
 
   function recentSourceConflict(s){
@@ -478,13 +511,9 @@
     return recent.slice(-Math.min(8,recent.length)).includes(s.source_unit_id);
   }
   function stimulusWeight(s){
-    const tierW={A:3,B:1.6,C:.7}[s.tier]||1;
+    const tierW=(config?.scheduler?.tier_weights?.[s.tier] ?? {A:3,B:1.6,C:.7}[s.tier] ?? 1);
     const moduleW = settings.moduleFilter==='ALL' ? (config?.scheduler?.module_weights?.[s.module] ?? 1) : 1;
-    const m=mastery[s.stimulus_id]||{score:0,state:'ACQUISITION',recent:[]};
-    let maturityW=m.state==='ACQUISITION'?1.5:m.state==='CONSOLIDATION'?1.1:.55;
-    const r=m.recent||[];
-    if(r.some(x=>['FP_WRONG','REPLAY_WRONG','REVEAL'].includes(x))) maturityW*=1.5;
-    return tierW*moduleW*maturityW*(.85+Math.random()*.3);
+    return tierW*moduleW*(.9+Math.random()*.2);
   }
 
   function scheduleReinsert(id){

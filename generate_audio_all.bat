@@ -4,10 +4,10 @@ cd /d "%~dp0"
 where py >nul 2>nul
 if %errorlevel%==0 (set PY=py) else (set PY=python)
 echo.
-echo TEF Reflex Core 0.5 Language Mine - FULL / INCREMENTAL audio generation
-echo Expected library: 488 clip units x 4 variants = 1952 MP3 files.
-echo Clip MP3s live under audio\clips\ and are exact excerpts of your TEF transcripts.
-echo Existing matching clip files are skipped by fingerprint.
+echo TEF Reflex Core 0.6 FINAL CORPUS EXPANSION - FULL / INCREMENTAL audio generation
+echo Expected library: 1160 clip units x 4 variants = 4640 MP3 files.
+echo Existing matching Core 0.4/0.5 clip files are skipped by fingerprint.
+echo New clip MP3s live under audio\clips\.
 echo API key is requested at runtime and is NOT saved.
 echo.
 %PY% tools\generate_audio.py
@@ -17,7 +17,7 @@ if errorlevel 1 goto :fail
 %PY% tools\verify_audio.py
 if errorlevel 1 goto :fail
 echo.
-echo Full clip audio generation completed.
+echo Full Core 0.6 audio generation completed.
 pause
 exit /b 0
 :fail

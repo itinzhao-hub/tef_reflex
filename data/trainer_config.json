@@ -1,20 +1,25 @@
 {
-  "version": "0.5-language-mine",
-  "created_from": "Core 0.4 clip architecture + second-pass mining of user-provided TEF_NEW_1 through TEF_NEW_6 transcripts. No external French corpus.",
+  "version": "0.6-final-corpus-expansion",
+  "created_from": "Core 0.5 + user-provided authentic TEF corpus (post-reform NEW1-6 retained; pre-reform BEFORE1-14 mined for language breadth) + STI1-8 simulated transcripts for gap filling only. Chinese STI glosses ignored. Limited DERIVED_SAFE variants. No external corpus.",
   "counts": {
     "COMM_INTENT": 100,
-    "LOGIC_STATE": 136,
-    "VERB_FRAME": 40,
+    "LOGIC_STATE": 183,
+    "VERB_FRAME": 163,
     "STANCE": 36,
     "PARAPHRASE": 60,
     "SHORT_MID": 48,
-    "LANGUAGE_CHUNK": 250,
-    "total": 670,
-    "unique_source_units": 116,
-    "unique_audio_units": 488,
-    "default_active_total": 562
+    "LANGUAGE_CHUNK": 752,
+    "total": 1342,
+    "unique_source_units": 739,
+    "unique_audio_units": 1160,
+    "default_active_total": 1234
   },
-  "source_priority": "native_true_exam_first",
+  "source_priority": [
+    "AUTH_NEW",
+    "AUTH_OLD",
+    "SIMULATED",
+    "DERIVED_SAFE"
+  ],
   "timing": {
     "lock_answers_during_audio": true,
     "decision_rt_origin": "audio_end",
@@ -45,12 +50,13 @@
     "EXAM"
   ],
   "scheduler": {
-    "base_mix": {
-      "recent_weak": 0.35,
-      "acquisition": 0.25,
-      "consolidation": 0.2,
-      "exam_review": 0.15,
-      "random_coverage": 0.05
+    "strategy": "coverage_first_final_expansion",
+    "coverage_mix": {
+      "unseen": 0.4,
+      "seen_once": 0.25,
+      "weak": 0.2,
+      "mature": 0.1,
+      "random": 0.05
     },
     "tier_weights": {
       "A": 3.0,
@@ -69,10 +75,10 @@
     ],
     "module_weights": {
       "LANGUAGE_CHUNK": 1.0,
-      "VERB_FRAME": 5.9,
-      "LOGIC_STATE": 1.35,
-      "COMM_INTENT": 1.5,
-      "STANCE": 2.62,
+      "VERB_FRAME": 3.845,
+      "LOGIC_STATE": 2.74,
+      "COMM_INTENT": 3.76,
+      "STANCE": 6.963,
       "PARAPHRASE": 0.0,
       "SHORT_MID": 0.0
     },
@@ -82,7 +88,8 @@
       "LOGIC_STATE": "~20%",
       "COMM_INTENT": "~15%",
       "STANCE": "~10%"
-    }
+    },
+    "coverage_first_note": "1000-attempt log showed the largest gain from first to second exposure; prioritize unseen and seen-once items during final expansion."
   },
   "feedback": {
     "fp_correct": "auto_next",
@@ -125,7 +132,21 @@
     "language_mine_second_pass": true,
     "language_chunks_added": 250,
     "non_answer_bearing_material_included": true,
-    "default_long_text_modules_disabled": true
+    "default_long_text_modules_disabled": true,
+    "final_breadth_expansion": true,
+    "auth_old_sets_mined": "TEF_BEFORE_1–14",
+    "simulated_sets_mined": "TEF_STI_1–8",
+    "simulated_chinese_glosses_ignored": true,
+    "old_final_single_sentence_section_selectively_included": true,
+    "derived_safe_limited": true,
+    "long_explicit_training_added": false,
+    "coverage_over_depth": true,
+    "new_items_added": 672,
+    "new_origin_counts": {
+      "AUTH_OLD": 488,
+      "SIMULATED": 90,
+      "DERIVED_SAFE": 94
+    }
   },
   "clip_policy": {
     "COMM_INTENT": "mostly 5-18 words",
@@ -136,6 +157,7 @@
     "SHORT_MID": "24-46 words / Macro only",
     "full_transcript_preserved_for_feedback": true,
     "audio_generation_source": "data/audio_units.json",
-    "LANGUAGE_CHUNK": "mostly 2-10 words; authentic contiguous TEF excerpt; no artificial rewrite"
+    "LANGUAGE_CHUNK": "mostly 2-10 words; authentic contiguous TEF excerpt; no artificial rewrite",
+    "FINAL_0_6": "short clips remain dominant; medium 9–22-word clips are a minority integration layer; no new long/very-long items"
   }
 }
