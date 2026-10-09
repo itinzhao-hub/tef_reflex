@@ -1,3 +1,39 @@
+# TEF Reflex Trainer Core 0.6.1 — Medium Integration
+
+This is a **targeted add-on**, not a reset or replacement of Core 0.6. The 3002-attempt log shows strong second-exposure gains, and an underrepresented 5–10-second integration tier. All 1234 old active short/medium tasks remain intact.
+
+## Changes
+
+- **37 new two-proposition native continuous clips** (16–29 words), with brief Chinese two-part answer options. All four answers use exactly the same A/B format; incorrect choices flip the first information, the second, or both. This avoids the old long-French-answer length giveaway.
+- Default **ALL** sampler targets **22% medium clips** (15+ French space-separated words), keeping ~78% short exposures. Selection is probabilistic and can vary by session, and length choice precedes existing coverage-first stage. Short stimulus IDs and scheduler history stay intact. Individual module selection remains unchanged.
+- **PARAPHRASE** and **SHORT_MID** remain off in ALL. No new long/very-long clips. No new user controls or prerequisite reading phase.
+- Source text is preserved. New audio clips are **exact contiguous excerpts**; two information cues occur within the one continuous passage. Each new item can be traced to a pre-existing Core 0.6 source. No artificial French grammatical variants were introduced in this patch.
+- New items are `MI061_...`, source matched with `origin_type` and `mine_subtype: MESO_INTEGRATION_061`. They inherit the established first-pass / replay / reveal and local logging behavior.
+
+## Counts
+
+- Base Core 0.6: 1342 stored tasks / 1234 default active / 1160 audio units
+- Core 0.6.1: **1379 tasks / 1271 active / 1194 audio units**
+- New: **37 native medium stimuli**, **34 new audio units** (3 items reuse existing identical clips), **136 additional fixed-MP3 profiles**. Total if all generated: **4776 MP3**.
+- `data/medium_integration_report.json` includes IDs, provenance, and clip word counts.
+
+## Upgrading
+
+1. **Back up existing working project**, `audio/` and `audio/_tts_manifest.json` and **do not reset browser/PWA site data**.
+2. Overlay Core 0.6.1 on the **same repository/site path**, merging rather than deleting `audio/`.
+3. Run `generate_audio_medium_test.bat` to synthesize 5 new medium clips × four voices.
+4. Run `start_local.bat` to verify first audio startup, normal/fast playback, reveal and correct options.
+5. Run `generate_audio_all.bat`; fingerprinted existing audio is skipped, missing 0.6.1 MP3s generated.
+6. Push updated site to GitHub and reload mobile PWA to get the v0.6.1 service worker.
+
+**Note:** Actual synthesis requires your local Google Cloud TTS API key. No MP3s are bundled and no API key is stored. With `auto` audio mode, missing MP3s can use the browser TTS fallback.
+
+## Interpretation of the training log
+
+The 3002 records contain 2989 attempts in the five core modules, using 1127 unique core stimuli. Among those, initial first-pass success was 46.9%, second exposure 72.2%, fourth exposure 84.5%; replay rate was 50.6%, 24.1%, 13.1% respectively. At the item level ~85% of distinct stimuli have a median duration ≤3.5 sec, and only about 1% exceed 7 sec. The need for medium integration follows from the distributional gap; the observational log **cannot independently establish improvement in real-exam listening**.
+
+---
+
 # TEF Reflex Trainer Core 0.6 — Final Corpus Expansion
 
 Core 0.6 is the final pre-exam breadth expansion. It preserves the successful Core 0.4/0.5 **short-clip reflex architecture** and uses the user's training log to shift scheduling toward **first exposure → second-exposure consolidation**.

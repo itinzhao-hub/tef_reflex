@@ -1,5 +1,5 @@
 {
-  "version": "0.6-final-corpus-expansion",
+  "version": "0.6.1-medium-integration",
   "created_from": "Core 0.5 + user-provided authentic TEF corpus (post-reform NEW1-6 retained; pre-reform BEFORE1-14 mined for language breadth) + STI1-8 simulated transcripts for gap filling only. Chinese STI glosses ignored. Limited DERIVED_SAFE variants. No external corpus.",
   "counts": {
     "COMM_INTENT": 100,
@@ -8,11 +8,11 @@
     "STANCE": 36,
     "PARAPHRASE": 60,
     "SHORT_MID": 48,
-    "LANGUAGE_CHUNK": 752,
-    "total": 1342,
+    "LANGUAGE_CHUNK": 789,
+    "total": 1379,
     "unique_source_units": 739,
-    "unique_audio_units": 1160,
-    "default_active_total": 1234
+    "unique_audio_units": 1194,
+    "default_active_total": 1271
   },
   "source_priority": [
     "AUTH_NEW",
@@ -74,7 +74,7 @@
       "SHORT_MID"
     ],
     "module_weights": {
-      "LANGUAGE_CHUNK": 1.0,
+      "LANGUAGE_CHUNK": 0.96,
       "VERB_FRAME": 3.845,
       "LOGIC_STATE": 2.74,
       "COMM_INTENT": 3.76,
@@ -89,7 +89,18 @@
       "COMM_INTENT": "~15%",
       "STANCE": "~10%"
     },
-    "coverage_first_note": "1000-attempt log showed the largest gain from first to second exposure; prioritize unseen and seen-once items during final expansion."
+    "coverage_first_note": "1000-attempt log showed the largest gain from first to second exposure; prioritize unseen and seen-once items during final expansion.",
+    "length_mix": {
+      "enabled_for": "ALL",
+      "medium_share": 0.22,
+      "medium_if_words_at_least": 15,
+      "exclude_modules": [
+        "PARAPHRASE",
+        "SHORT_MID"
+      ],
+      "description": "Choose medium first, then coverage bucket and module/tier weights. Retain existing coverage-first structure."
+    },
+    "length_mix_note": "~22% medium-size 15+ word native clips under ALL; 78% short core. Medium inclusion does not replace any short content."
   },
   "feedback": {
     "fp_correct": "auto_next",

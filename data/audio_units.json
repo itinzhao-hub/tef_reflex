@@ -12003,5 +12003,311 @@
     "word_count": 9,
     "origin_type": "DERIVED_SAFE",
     "verification_status": "derived_safe_reviewed"
+  },
+  {
+    "audio_unit_id": "MI061_cb1768f18650",
+    "parent_source_unit_id": "N1_01",
+    "source_set": "NEW_1",
+    "transcript": "Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+    "full_transcript": "Mesdames, messieurs. Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "MI061_3aa5f0d4111e",
+    "parent_source_unit_id": "N1_05",
+    "source_set": "NEW_1",
+    "transcript": "J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps",
+    "full_transcript": "Bon, c'était papa. J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps, bisous.",
+    "is_contiguous_excerpt": true,
+    "word_count": 26
+  },
+  {
+    "audio_unit_id": "MI061_1b4443a562bc",
+    "parent_source_unit_id": "N1_09",
+    "source_set": "NEW_1",
+    "transcript": "Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent.",
+    "full_transcript": "Allô, c'est encore monsieur Traoré concernant la livraison d'une machine à laver Midea rue Comoé. Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent. Rappelez-moi au plus vite !",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "MI061_58e913a0246a",
+    "parent_source_unit_id": "N1_10",
+    "source_set": "NEW_1",
+    "transcript": "j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important.",
+    "full_transcript": "Oui, Nadia, j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ? Merci !",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "MI061_63f518f43aba",
+    "parent_source_unit_id": "N2_02",
+    "source_set": "NEW_2",
+    "transcript": "Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands",
+    "full_transcript": "Approchez, approchez ! Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands !",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "MI061_ec665da0322f",
+    "parent_source_unit_id": "N2_03",
+    "source_set": "NEW_2",
+    "transcript": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui.",
+    "full_transcript": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui. Merci de respecter le règlement et de surveiller vos enfants.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "MI061_806a1694f4e9",
+    "parent_source_unit_id": "N2_06",
+    "source_set": "NEW_2",
+    "transcript": "Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony.",
+    "full_transcript": "Hey Élie ! Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony. Allez, rappelle-moi, salut !",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "MI061_8bb2c0d8d0be",
+    "parent_source_unit_id": "N2_09",
+    "source_set": "NEW_2",
+    "transcript": "la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ?",
+    "full_transcript": "Bonjour madame Doingt, c'est Victoria Darcy de la Régie de l'assurance maladie du Québec. Vous avez effectué une demande en ligne de remboursement, mais la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ? Je vous remercie.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "MI061_9173576aae54",
+    "parent_source_unit_id": "N2_10",
+    "source_set": "NEW_2",
+    "transcript": "Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort.",
+    "full_transcript": "Bonjour. Antoine Flandin de l'institut IFPS. Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort. Je vous recontacterai dans la semaine, cela ne vous prendra que 5 minutes environ. Bonne fin de journée !",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "MI061_a9fc0c56af86",
+    "parent_source_unit_id": "N3_06",
+    "source_set": "NEW_3",
+    "transcript": "Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois",
+    "full_transcript": "Salut Daniel, j'espère que tu vas bien. Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois ? Bon, je te rappelle, bisous ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 19
+  },
+  {
+    "audio_unit_id": "MI061_c769c984e67c",
+    "parent_source_unit_id": "N3_08",
+    "source_set": "NEW_3",
+    "transcript": "Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle.",
+    "full_transcript": "Oui bonjour, j'ai commandé un piano chez vous. Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle. Est-ce que vous pouvez me rappeler ? Je suis monsieur John. Merci.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "MI061_0043a7e3699f",
+    "parent_source_unit_id": "N4_05",
+    "source_set": "NEW_4",
+    "transcript": "Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+    "full_transcript": "Tu es en congé vendredi, je voudrais te demander un service samedi. Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "MI061_16e133dc5541",
+    "parent_source_unit_id": "N4_06",
+    "source_set": "NEW_4",
+    "transcript": "sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+    "full_transcript": "Sébastien, t'as vu mon courriel ? La réunion de cet après-midi est reportée à demain même heure. Écoute, débrouille-toi mais sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "MI061_0b640c9b2e5d",
+    "parent_source_unit_id": "N4_10",
+    "source_set": "NEW_4",
+    "transcript": "J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne",
+    "full_transcript": "Je m'excuse de vous déranger pendant vos vacances, c'est Chloé, le responsable du département. J'espère que vous profitez bien de votre temps libre. J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 22
+  },
+  {
+    "audio_unit_id": "MI061_6843af21b0d1",
+    "parent_source_unit_id": "N5_01",
+    "source_set": "NEW_5",
+    "transcript": "l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés.",
+    "full_transcript": "En raison d'un événement naturel hors de notre contrôle, l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés. Les passagers concernés sont invités à se présenter au comptoir de la compagnie pour plus d'informations.",
+    "is_contiguous_excerpt": true,
+    "word_count": 23
+  },
+  {
+    "audio_unit_id": "MI061_54f7d93a2d74",
+    "parent_source_unit_id": "N5_03",
+    "source_set": "NEW_5",
+    "transcript": "nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée",
+    "full_transcript": "En raison d'un problème informatique bien involontaire de notre part, le logiciel pour le test n'ayant pas fonctionné pendant leur précédente et n'étant pas encore établi, nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée et nous vous prions de vous rendre à la réception afin que l'on puisse vous ajouter sur la liste pour la prochaine date d'examen.",
+    "is_contiguous_excerpt": true,
+    "word_count": 22
+  },
+  {
+    "audio_unit_id": "MI061_16e0a15399f7",
+    "parent_source_unit_id": "N5_04",
+    "source_set": "NEW_5",
+    "transcript": "j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol",
+    "full_transcript": "Mon nom est Nathalie Martin, j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol afin de faire votre choix de menu. Veuillez consulter notre brochure.",
+    "is_contiguous_excerpt": true,
+    "word_count": 19
+  },
+  {
+    "audio_unit_id": "MI061_a29131418135",
+    "parent_source_unit_id": "ST_N4_AI_P2",
+    "source_set": "NEW_4",
+    "transcript": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires",
+    "full_transcript": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires pour éviter des conséquences négatives.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "MI061_f5263e183ca5",
+    "parent_source_unit_id": "ST_N6_LEAVE_P1",
+    "source_set": "NEW_6",
+    "transcript": "comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+    "full_transcript": "Absolument pas, j'aime mon pays. Je sais qu'il n'est pas parfait mais comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+    "is_contiguous_excerpt": true,
+    "word_count": 19
+  },
+  {
+    "audio_unit_id": "MI061_07bf58cccb5f",
+    "parent_source_unit_id": "ST_N6_LEAVE_P2",
+    "source_set": "NEW_6",
+    "transcript": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs",
+    "full_transcript": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs mais si j'en ai l'occasion, je le ferai peut-être.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "MI061_8cb2245c9b27",
+    "parent_source_unit_id": "ST_N6_LEAVE_P3",
+    "source_set": "NEW_6",
+    "transcript": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française.",
+    "full_transcript": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française. Les gens sont trop fermés ici.",
+    "is_contiguous_excerpt": true,
+    "word_count": 19
+  },
+  {
+    "audio_unit_id": "MI061_ce0fa2d803d1",
+    "parent_source_unit_id": "X4_AI",
+    "source_set": "NEW_4",
+    "transcript": "on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit",
+    "full_transcript": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises. On lui montre une image ; si elle répond mal, on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit par modification.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "MI061_ee06c6368a1c",
+    "parent_source_unit_id": "X5_ORGANIC",
+    "source_set": "NEW_5",
+    "transcript": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie.",
+    "full_transcript": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie. Les éleveurs de bovins ont vu le prix du lait chuter avec la crise ; certains ont décidé de passer au bio. Un agriculteur en a profité pour tripler la taille de son cheptel.",
+    "is_contiguous_excerpt": true,
+    "word_count": 24
+  },
+  {
+    "audio_unit_id": "MI061_6cd1cf6a776a",
+    "parent_source_unit_id": "X6_BOUQUINISTES",
+    "source_set": "NEW_6",
+    "transcript": "Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition",
+    "full_transcript": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024. Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition pour les générations futures.",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "MI061_6e55468f8270",
+    "parent_source_unit_id": "O06_989d13fc",
+    "source_set": "TEF_BEFORE_2",
+    "transcript": "En raison d’un début d'incendie dans la réserve, nous invitons notre clientèle à évacuer notre boutique",
+    "full_transcript": "En raison d’un début d'incendie dans la réserve, nous invitons notre clientèle à évacuer notre boutique, dans le calme, en rejoignant les issues de secours situées sur les côtés.",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  },
+  {
+    "audio_unit_id": "MI061_fd56ed353861",
+    "parent_source_unit_id": "O06_7a03b039",
+    "source_set": "TEF_BEFORE_1",
+    "transcript": "Tu pourrais me rappeler au secrétariat dès que tu seras rentrée, pour me donner ta réponse",
+    "full_transcript": "Tu pourrais me rappeler au secrétariat dès que tu seras rentrée, pour me donner ta réponse ?",
+    "is_contiguous_excerpt": true,
+    "word_count": 16
+  },
+  {
+    "audio_unit_id": "MI061_c34ddf95ebc3",
+    "parent_source_unit_id": "O06_ecc5cddc",
+    "source_set": "TEF_BEFORE_6",
+    "transcript": "Mais j’ai confiance et je veux croire, sincèrement, que nous trouverons ensemble une solution acceptable pour tous.",
+    "full_transcript": "Mais j’ai confiance et je veux croire, sincèrement, que nous trouverons ensemble une solution acceptable pour tous.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "MI061_460d2ff6f01a",
+    "parent_source_unit_id": "O06_ed7f6525",
+    "source_set": "TEF_BEFORE_4",
+    "transcript": "Les scientifiques le supposaient depuis des années, mais maintenant on en est sûr : il y a bien de l'eau sur la planète Mars, plus exactement de la glace.",
+    "full_transcript": "Les scientifiques le supposaient depuis des années, mais maintenant on en est sûr : il y a bien de l'eau sur la planète Mars, plus exactement de la glace.",
+    "is_contiguous_excerpt": true,
+    "word_count": 29
+  },
+  {
+    "audio_unit_id": "MI061_e6063aef6ffc",
+    "parent_source_unit_id": "O06_013f6a88",
+    "source_set": "TEF_BEFORE_1",
+    "transcript": "pour répondre à votre question, je dirais que non, je ne me sens pas complètement en sécurité.",
+    "full_transcript": "Donc, pour répondre à votre question, je dirais que non, je ne me sens pas complètement en sécurité.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "MI061_8836143df5b9",
+    "parent_source_unit_id": "O06_72b4a360",
+    "source_set": "TEF_BEFORE_9",
+    "transcript": "Pour être en relation avec un vendeur, tapez 9, sinon pour des informations sur des horaires et le traffic, tapez étoile.",
+    "full_transcript": "Pour être en relation avec un vendeur, tapez 9, sinon pour des informations sur des horaires et le traffic, tapez étoile.",
+    "is_contiguous_excerpt": true,
+    "word_count": 21
+  },
+  {
+    "audio_unit_id": "MI061_0703efbc957e",
+    "parent_source_unit_id": "O06_bdcea031",
+    "source_set": "TEF_BEFORE_8",
+    "transcript": "Pour être un invité modèle, il y a quelques règles de base et des savoir-vivre à retenir",
+    "full_transcript": "Pour être un invité modèle, il y a quelques règles de base et des savoir-vivre à retenir : 1, Soyez à l'heure.",
+    "is_contiguous_excerpt": true,
+    "word_count": 17
+  },
+  {
+    "audio_unit_id": "MI061_711280c5429f",
+    "parent_source_unit_id": "O06_83de5d35",
+    "source_set": "TEF_BEFORE_5",
+    "transcript": "Elle mélange la musique savante et l'inspiration populaire, elle privilégie les situations cocasses, elle ne se prend pas la tête",
+    "full_transcript": "Elle mélange la musique savante et l'inspiration populaire, elle privilégie les situations cocasses, elle ne se prend pas la tête, elle élève le coeur : c’est la zarzuela !",
+    "is_contiguous_excerpt": true,
+    "word_count": 20
+  },
+  {
+    "audio_unit_id": "MI061_8e501194620d",
+    "parent_source_unit_id": "O06_0392ae86",
+    "source_set": "TEF_BEFORE_11",
+    "transcript": "Voilà les quatre cadeaux merveilleux que je vous présente, il y a aussi d’autres cadeaux à votre choix.",
+    "full_transcript": "Voilà les quatre cadeaux merveilleux que je vous présente, il y a aussi d’autres cadeaux à votre choix.",
+    "is_contiguous_excerpt": true,
+    "word_count": 18
+  },
+  {
+    "audio_unit_id": "MI061_ccb1a6a74940",
+    "parent_source_unit_id": "S06_e1cee1de",
+    "source_set": "TEF_STI_6",
+    "transcript": "Si vous voulez le renouveler, n'hésitez pas à nous rappeler au 13 44 16 78 53, nous sommes toujours à votre disposition.",
+    "full_transcript": "Si vous voulez le renouveler, n'hésitez pas à nous rappeler au 13 44 16 78 53, nous sommes toujours à votre disposition.",
+    "is_contiguous_excerpt": true,
+    "word_count": 22
   }
 ]

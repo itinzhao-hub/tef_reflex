@@ -131497,5 +131497,3751 @@
       "medium_candidate": false
     },
     "variant_of": "PLUS_QUE_PREVU"
+  },
+  {
+    "stimulus_id": "MI061_cb1768f18650",
+    "source_unit_id": "N1_01",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_CB1768F18650",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_1",
+      "transcript_original": "Mesdames, messieurs. Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+      "transcript_normalized": "Mesdames, messieurs. Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "动物可能危险；应看管孩子远离围栏",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "动物可能危险；可让孩子靠近围栏",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "动物十分安全；应看管孩子远离围栏",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "动物十分安全；可让孩子靠近围栏",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_cb1768f18650__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_cb1768f18650__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_cb1768f18650__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_cb1768f18650__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_001",
+      "LS_001",
+      "VF_001",
+      "RN_001",
+      "RN_051",
+      "RN_101",
+      "LC_001",
+      "LC_002"
+    ],
+    "audio_unit_id": "MI061_cb1768f18650",
+    "clip": {
+      "text": "Les animaux du zoo peuvent être dangereux. Merci de surveiller vos enfants, et de ne pas les laisser approcher des grilles.",
+      "word_count": 21,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N1_01",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_3aa5f0d4111e",
+    "source_unit_id": "N1_05",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_3AA5F0D4111E",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_1",
+      "transcript_original": "Bon, c'était papa. J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps, bisous.",
+      "transcript_normalized": "Bon, c'était papa. J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps, bisous.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "询问朋友的近况；希望对方有空回电",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "询问朋友的近况；要求立即前往办公室",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "询问工作待遇；希望对方有空回电",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "询问工作待遇；要求立即前往办公室",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_3aa5f0d4111e__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_3aa5f0d4111e__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_3aa5f0d4111e__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_3aa5f0d4111e__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_005",
+      "LS_005",
+      "RN_005",
+      "RN_055",
+      "LC_016",
+      "LC_017",
+      "LC_018"
+    ],
+    "audio_unit_id": "MI061_3aa5f0d4111e",
+    "clip": {
+      "text": "J'appelais juste pour savoir si tu vas bien, si tu es en forme, et si ton nouveau travail te plaît. Rappelle-moi quand tu as le temps",
+      "word_count": 26,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N1_05",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_1b4443a562bc",
+    "source_unit_id": "N1_09",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_1B4443A562BC",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_1",
+      "transcript_original": "Allô, c'est encore monsieur Traoré concernant la livraison d'une machine à laver Midea rue Comoé. Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent. Rappelez-moi au plus vite !",
+      "transcript_normalized": "Allô, c'est encore monsieur Traoré concernant la livraison d'une machine à laver Midea rue Comoé. Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent. Rappelez-moi au plus vite !",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "送货员延误两小时；对方还没有主动通知",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "送货员延误两小时；对方已经提前通知",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "货物已按时送达；对方还没有主动通知",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "货物已按时送达；对方已经提前通知",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_1b4443a562bc__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_1b4443a562bc__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_1b4443a562bc__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_1b4443a562bc__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_009",
+      "LS_009",
+      "RN_009",
+      "RN_059",
+      "LC_030",
+      "LC_031",
+      "LC_032",
+      "LC_033"
+    ],
+    "audio_unit_id": "MI061_1b4443a562bc",
+    "clip": {
+      "text": "Ça fait deux heures que j'attends les livreurs, ce n'est pas normal qu'on ne m'appelle pas, et j'ai autre chose à faire à présent.",
+      "word_count": 24,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N1_09",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_58e913a0246a",
+    "source_unit_id": "N1_10",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_58E913A0246A",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_1",
+      "transcript_original": "Oui, Nadia, j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ? Merci !",
+      "transcript_normalized": "Oui, Nadia, j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important. Est-ce que tu peux passer dans mon bureau quand tu as ce message pour qu'on voie ça ensemble ? Merci !",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "认为会议纪要整体不错；但还缺一个重点",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "认为会议纪要整体不错；报告已经十分完整",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为会议纪要完全没用；但还缺一个重点",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为会议纪要完全没用；报告已经十分完整",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_58e913a0246a__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_58e913a0246a__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_58e913a0246a__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_58e913a0246a__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_010",
+      "LS_010",
+      "VF_004",
+      "RN_010",
+      "RN_060",
+      "RN_104",
+      "LC_034",
+      "LC_035",
+      "LC_036"
+    ],
+    "audio_unit_id": "MI061_58e913a0246a",
+    "clip": {
+      "text": "j'ai lu ton compte rendu de la réunion de ce matin. Il est très bien, mais il me semble qu'il manque un point important.",
+      "word_count": 24,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N1_10",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_63f518f43aba",
+    "source_unit_id": "N2_02",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_63F518F43ABA",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_2",
+      "transcript_original": "Approchez, approchez ! Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands !",
+      "transcript_normalized": "Approchez, approchez ! Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands !",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "邀请观看马戏节目预演；儿童成人都可免费观看",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "邀请观看马戏节目预演；仅对儿童免费开放",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "通知节目演出取消；儿童成人都可免费观看",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "通知节目演出取消；仅对儿童免费开放",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_63f518f43aba__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_63f518f43aba__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_63f518f43aba__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_63f518f43aba__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_012",
+      "LS_012",
+      "RN_012",
+      "RN_062",
+      "LC_040",
+      "LC_041",
+      "LC_042"
+    ],
+    "audio_unit_id": "MI061_63f518f43aba",
+    "clip": {
+      "text": "Venez découvrir un aperçu des numéros du cirque Cendrar. N'hésitez pas, c'est gratuit pour les petits comme pour les grands",
+      "word_count": 20,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N2_02",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_ec665da0322f",
+    "source_unit_id": "N2_03",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_EC665DA0322F",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_2",
+      "transcript_original": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui. Merci de respecter le règlement et de surveiller vos enfants.",
+      "transcript_normalized": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui. Merci de respecter le règlement et de surveiller vos enfants.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "强风和海流造成危险；因此禁止游泳",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "强风和海流造成危险；因此允许下水游泳",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "风平浪静没有风险；因此禁止游泳",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "风平浪静没有风险；因此允许下水游泳",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_ec665da0322f__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_ec665da0322f__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_ec665da0322f__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_ec665da0322f__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_013",
+      "LS_013",
+      "RN_013",
+      "RN_063",
+      "LC_043",
+      "LC_044",
+      "LC_045"
+    ],
+    "audio_unit_id": "MI061_ec665da0322f",
+    "clip": {
+      "text": "En raison de vents violents et de très forts courants, la mer est extrêmement dangereuse. La baignade est donc interdite aujourd'hui.",
+      "word_count": 21,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N2_03",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_806a1694f4e9",
+    "source_unit_id": "N2_06",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_806A1694F4E9",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_2",
+      "transcript_original": "Hey Élie ! Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony. Allez, rappelle-moi, salut !",
+      "transcript_normalized": "Hey Élie ! Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony. Allez, rappelle-moi, salut !",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "父母周末外出；邀请朋友来家里聚会",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "父母周末外出；拒绝朋友来家聚会",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "父母整个周末都在家；邀请朋友来家里聚会",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "父母整个周末都在家；拒绝朋友来家聚会",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_806a1694f4e9__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_806a1694f4e9__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_806a1694f4e9__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_806a1694f4e9__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_016",
+      "LS_016",
+      "RN_016",
+      "RN_066",
+      "LC_051",
+      "LC_052"
+    ],
+    "audio_unit_id": "MI061_806a1694f4e9",
+    "clip": {
+      "text": "Mes parents partent de vendredi à dimanche. Ça te dirait de venir à la maison ? Je vais aussi contacter Sam et Anthony.",
+      "word_count": 23,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N2_06",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_f2d6658582e2",
+    "source_unit_id": "N2_07",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_F2D6658582E2",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_2",
+      "transcript_original": "Bonjour Émilie, c'est Adama. Est-ce que tu peux me rappeler ? J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier. Merci d'avance !",
+      "transcript_normalized": "Bonjour Émilie, c'est Adama. Est-ce que tu peux me rappeler ? J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier. Merci d'avance !",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "Excel公式修改不了；因此向朋友求助",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "Excel公式修改不了；表示不需要他人帮助",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "Excel已顺利修复；因此向朋友求助",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "Excel已顺利修复；表示不需要他人帮助",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/C_N2_07_a774a73a56__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/C_N2_07_a774a73a56__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/C_N2_07_a774a73a56__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/C_N2_07_a774a73a56__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_017",
+      "LS_017",
+      "VF_006",
+      "RN_017",
+      "RN_067",
+      "RN_106",
+      "LC_053",
+      "LC_054",
+      "LC_055"
+    ],
+    "audio_unit_id": "C_N2_07_a774a73a56",
+    "clip": {
+      "text": "J'ai besoin de ton aide sur Excel, il y a une formule que je n'arrive pas à modifier.",
+      "word_count": 18,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N2_07",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_8bb2c0d8d0be",
+    "source_unit_id": "N2_09",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_8BB2C0D8D0BE",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_2",
+      "transcript_original": "Bonjour madame Doingt, c'est Victoria Darcy de la Régie de l'assurance maladie du Québec. Vous avez effectué une demande en ligne de remboursement, mais la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ? Je vous remercie.",
+      "transcript_normalized": "Bonjour madame Doingt, c'est Victoria Darcy de la Régie de l'assurance maladie du Québec. Vous avez effectué une demande en ligne de remboursement, mais la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ? Je vous remercie.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "发票没有正确登记；请求重新线上提交",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "发票没有正确登记；要求停止提交发票",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "发票已经成功登记；请求重新线上提交",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "发票已经成功登记；要求停止提交发票",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ?",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ?",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_8bb2c0d8d0be__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_8bb2c0d8d0be__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_8bb2c0d8d0be__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_8bb2c0d8d0be__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_019",
+      "LS_019",
+      "VF_008",
+      "RN_019",
+      "RN_069",
+      "RN_108",
+      "LC_059",
+      "LC_060",
+      "LC_243"
+    ],
+    "audio_unit_id": "MI061_8bb2c0d8d0be",
+    "clip": {
+      "text": "la facture n'a pas été enregistrée correctement sur votre espace. Pourriez-vous essayer de la télétransmettre à nouveau ?",
+      "word_count": 18,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N2_09",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_9173576aae54",
+    "source_unit_id": "N2_10",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_9173576AAE54",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_2",
+      "transcript_original": "Bonjour. Antoine Flandin de l'institut IFPS. Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort. Je vous recontacterai dans la semaine, cela ne vous prendra que 5 minutes environ. Bonne fin de journée !",
+      "transcript_normalized": "Bonjour. Antoine Flandin de l'institut IFPS. Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort. Je vous recontacterai dans la semaine, cela ne vous prendra que 5 minutes environ. Bonne fin de journée !",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "正在进行选举意向调查；收件人被随机选中",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "正在进行选举意向调查；收件人主动报名调查",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "正在宣布投票结果；收件人被随机选中",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "正在宣布投票结果；收件人主动报名调查",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_9173576aae54__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_9173576aae54__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_9173576aae54__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_9173576aae54__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_020",
+      "LS_020",
+      "RN_020",
+      "RN_070",
+      "LC_061",
+      "LC_062",
+      "LC_063",
+      "LC_244"
+    ],
+    "audio_unit_id": "MI061_9173576aae54",
+    "clip": {
+      "text": "Nous réalisons actuellement un sondage sur les intentions de vote aux prochaines élections, et votre nom a été tiré au sort.",
+      "word_count": 21,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N2_10",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_a9fc0c56af86",
+    "source_unit_id": "N3_06",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_A9FC0C56AF86",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_3",
+      "transcript_original": "Salut Daniel, j'espère que tu vas bien. Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois ? Bon, je te rappelle, bisous ?",
+      "transcript_normalized": "Salut Daniel, j'espère que tu vas bien. Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois ? Bon, je te rappelle, bisous ?",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "自行车仍然损坏；希望对方再检查一次",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "自行车仍然损坏；不再需要进行检查",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "自行车已经修好；希望对方再检查一次",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "自行车已经修好；不再需要进行检查",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_a9fc0c56af86__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_a9fc0c56af86__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_a9fc0c56af86__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_a9fc0c56af86__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_026",
+      "LS_026",
+      "VF_009",
+      "RN_026",
+      "RN_076",
+      "RN_109",
+      "LC_077",
+      "LC_078",
+      "LC_245"
+    ],
+    "audio_unit_id": "MI061_a9fc0c56af86",
+    "clip": {
+      "text": "Mon vélo est encore en panne, le problème n'est pas résolu. Est-ce que tu pourrais regarder une dernière fois",
+      "word_count": 19,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N3_06",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_80f2e1bcaaa4",
+    "source_unit_id": "N3_07",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_80F2E1BCAAA4",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_3",
+      "transcript_original": "Bonjour, ici le club cycliste du Grand Toronto. Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo. Pouvez-vous nous rappeler au 4169222672 ?",
+      "transcript_normalized": "Bonjour, ici le club cycliste du Grand Toronto. Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo. Pouvez-vous nous rappeler au 4169222672 ?",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "已填骑行活动报名表；但缺一份自行车证明",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "已填骑行活动报名表；所有证明材料齐全",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "尚未填写报名表；但缺一份自行车证明",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "尚未填写报名表；所有证明材料齐全",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/C_N3_07_795abd1fe0__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/C_N3_07_795abd1fe0__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/C_N3_07_795abd1fe0__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/C_N3_07_795abd1fe0__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_027",
+      "LS_027",
+      "VF_010",
+      "RN_027",
+      "RN_077",
+      "RN_110",
+      "LC_079",
+      "LC_246"
+    ],
+    "audio_unit_id": "C_N3_07_795abd1fe0",
+    "clip": {
+      "text": "Vous avez rempli le formulaire d'inscription à la balade cycliste mais il manque un justificatif concernant votre vélo.",
+      "word_count": 18,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N3_07",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_c769c984e67c",
+    "source_unit_id": "N3_08",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_C769C984E67C",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_3",
+      "transcript_original": "Oui bonjour, j'ai commandé un piano chez vous. Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle. Est-ce que vous pouvez me rappeler ? Je suis monsieur John. Merci.",
+      "transcript_normalized": "Oui bonjour, j'ai commandé un piano chez vous. Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle. Est-ce que vous pouvez me rappeler ? Je suis monsieur John. Merci.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "设备已经正确安装；却仍然无法使用",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "设备已经正确安装；设备能够正常使用",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "设备尚未安装；却仍然无法使用",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "设备尚未安装；设备能够正常使用",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_c769c984e67c__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_c769c984e67c__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_c769c984e67c__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_c769c984e67c__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_028",
+      "LS_028",
+      "VF_011",
+      "RN_028",
+      "RN_078",
+      "RN_111",
+      "LC_080",
+      "LC_081",
+      "LC_082"
+    ],
+    "audio_unit_id": "MI061_c769c984e67c",
+    "clip": {
+      "text": "Je l'ai reçu hier et je n'arrive toujours pas à le faire marcher, pourtant j'ai tout installé correctement. Ça fait deux fois que j'appelle.",
+      "word_count": 24,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N3_08",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_0043a7e3699f",
+    "source_unit_id": "N4_05",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_0043A7E3699F",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_4",
+      "transcript_original": "Tu es en congé vendredi, je voudrais te demander un service samedi. Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+      "transcript_normalized": "Tu es en congé vendredi, je voudrais te demander un service samedi. Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "因妹妹婚礼想提前离开；请求同事代班",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "因妹妹婚礼想提前离开；主动要求替同事加班",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "因工作出差必须留下；请求同事代班",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "因工作出差必须留下；主动要求替同事加班",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_0043a7e3699f__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_0043a7e3699f__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_0043a7e3699f__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_0043a7e3699f__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_035",
+      "LS_035",
+      "VF_013",
+      "RN_035",
+      "RN_085",
+      "RN_113",
+      "LC_093",
+      "LC_094",
+      "LC_095"
+    ],
+    "audio_unit_id": "MI061_0043a7e3699f",
+    "clip": {
+      "text": "Je vais au mariage de ma sœur à Marseille et j'aimerais bien partir vendredi. Est-ce que tu pourrais me remplacer ?",
+      "word_count": 21,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N4_05",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_16e133dc5541",
+    "source_unit_id": "N4_06",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_16E133DC5541",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_4",
+      "transcript_original": "Sébastien, t'as vu mon courriel ? La réunion de cet après-midi est reportée à demain même heure. Écoute, débrouille-toi mais sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+      "transcript_normalized": "Sébastien, t'as vu mon courriel ? La réunion de cet après-midi est reportée à demain même heure. Écoute, débrouille-toi mais sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "新老板很反感员工迟到；因此提醒对方准时",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "新老板很反感员工迟到；因此建议晚一点到",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "新老板允许员工迟到；因此提醒对方准时",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "新老板允许员工迟到；因此建议晚一点到",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_16e133dc5541__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_16e133dc5541__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_16e133dc5541__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_16e133dc5541__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_036",
+      "LS_036",
+      "RN_036",
+      "RN_086",
+      "LC_096",
+      "LC_097",
+      "LC_098"
+    ],
+    "audio_unit_id": "MI061_16e133dc5541",
+    "clip": {
+      "text": "sois à l'heure, tu sais que le nouveau patron ne supporte pas les gens qui arrivent en retard.",
+      "word_count": 18,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N4_06",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_0b640c9b2e5d",
+    "source_unit_id": "N4_10",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_0B640C9B2E5D",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_4",
+      "transcript_original": "Je m'excuse de vous déranger pendant vos vacances, c'est Chloé, le responsable du département. J'espère que vous profitez bien de votre temps libre. J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne ?",
+      "transcript_normalized": "Je m'excuse de vous déranger pendant vos vacances, c'est Chloé, le responsable du département. J'espère que vous profitez bien de votre temps libre. J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne ?",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "需要查看总经理档案；询问是否能够在线获取",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "需要查看总经理档案；要求禁止网络访问",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "打算销毁总经理档案；询问是否能够在线获取",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "打算销毁总经理档案；要求禁止网络访问",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_0b640c9b2e5d__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_0b640c9b2e5d__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_0b640c9b2e5d__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_0b640c9b2e5d__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_040",
+      "LS_040",
+      "VF_016",
+      "RN_040",
+      "RN_090",
+      "RN_116",
+      "LC_108",
+      "LC_109",
+      "LC_110",
+      "LC_111"
+    ],
+    "audio_unit_id": "MI061_0b640c9b2e5d",
+    "clip": {
+      "text": "J'ai besoin d'accéder au dossier du directeur général. Pouvez-vous me dire où je peux le trouver ou s'il est accessible en ligne",
+      "word_count": 22,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N4_10",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_6843af21b0d1",
+    "source_unit_id": "N5_01",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_6843AF21B0D1",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_5",
+      "transcript_original": "En raison d'un événement naturel hors de notre contrôle, l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés. Les passagers concernés sont invités à se présenter au comptoir de la compagnie pour plus d'informations.",
+      "transcript_normalized": "En raison d'un événement naturel hors de notre contrôle, l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés. Les passagers concernés sont invités à se présenter au comptoir de la compagnie pour plus d'informations.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "登巴萨机场暂时关闭；飞往巴厘岛的航班取消",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "登巴萨机场暂时关闭；飞往巴厘岛的航班照常",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "登巴萨机场重新开放；飞往巴厘岛的航班取消",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "登巴萨机场重新开放；飞往巴厘岛的航班照常",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_6843af21b0d1__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_6843af21b0d1__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_6843af21b0d1__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_6843af21b0d1__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_041",
+      "LS_041",
+      "RN_041",
+      "RN_091",
+      "LC_112",
+      "LC_113",
+      "LC_114",
+      "LC_115"
+    ],
+    "audio_unit_id": "MI061_6843af21b0d1",
+    "clip": {
+      "text": "l'aéroport de Denpasar sera fermé pour les prochains jours et ce jusqu'à nouvel ordre. Les vols à destination de Bali seront donc annulés.",
+      "word_count": 23,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N5_01",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_54f7d93a2d74",
+    "source_unit_id": "N5_03",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_54F7D93A2D74",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_5",
+      "transcript_original": "En raison d'un problème informatique bien involontaire de notre part, le logiciel pour le test n'ayant pas fonctionné pendant leur précédente et n'étant pas encore établi, nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée et nous vous prions de vous rendre à la réception afin que l'on puisse vous ajouter sur la liste pour la prochaine date d'examen.",
+      "transcript_normalized": "En raison d'un problème informatique bien involontaire de notre part, le logiciel pour le test n'ayant pas fonctionné pendant leur précédente et n'étant pas encore établi, nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée et nous vous prions de vous rendre à la réception afin que l'on puisse vous ajouter sur la liste pour la prochaine date d'examen.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "通知当天考试被取消；并为造成的不便道歉",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "通知当天考试被取消；并指责考生操作错误",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "通知考试按原计划举行；并为造成的不便道歉",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "通知考试按原计划举行；并指责考生操作错误",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_54f7d93a2d74__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_54f7d93a2d74__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_54f7d93a2d74__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_54f7d93a2d74__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_043",
+      "LS_043",
+      "VF_017",
+      "RN_043",
+      "RN_093",
+      "RN_117",
+      "LC_119",
+      "LC_120",
+      "LC_121",
+      "LC_122",
+      "LC_123",
+      "LC_249"
+    ],
+    "audio_unit_id": "MI061_54f7d93a2d74",
+    "clip": {
+      "text": "nous avons le regret de vous annoncer que nous sommes dans l'obligation d'annuler l'examen aujourd'hui. Nous nous excusons pour la gêne occasionnée",
+      "word_count": 22,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N5_03",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_16e0a15399f7",
+    "source_unit_id": "N5_04",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_16E0A15399F7",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_5",
+      "transcript_original": "Mon nom est Nathalie Martin, j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol afin de faire votre choix de menu. Veuillez consulter notre brochure.",
+      "transcript_normalized": "Mon nom est Nathalie Martin, j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol afin de faire votre choix de menu. Veuillez consulter notre brochure.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "餐厅提供三种语言服务；今晚就能使用这些服务",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "餐厅提供三种语言服务；要到下周才提供服务",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "餐厅只接受法语交流；今晚就能使用这些服务",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "餐厅只接受法语交流；要到下周才提供服务",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_16e0a15399f7__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_16e0a15399f7__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_16e0a15399f7__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_16e0a15399f7__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_044",
+      "LS_044",
+      "RN_044",
+      "RN_094",
+      "LC_124",
+      "LC_125",
+      "LC_126"
+    ],
+    "audio_unit_id": "MI061_16e0a15399f7",
+    "clip": {
+      "text": "j'ai l'honneur de vous annoncer que nous pouvons vous servir ce soir en français, en anglais et en espagnol",
+      "word_count": 19,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N5_04",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_d1c1947b7dce",
+    "source_unit_id": "N5_06",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_D1C1947B7DCE",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_5",
+      "transcript_original": "Madame, suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous. Je suis disponible tous les jours du lundi au vendredi et les visites libres pourraient aussi se faire le samedi et dimanche. Je vous confirmerai les informations sur le premier appartement à visiter qui correspondra à vos attentes au Plaisir.",
+      "transcript_normalized": "Madame, suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous. Je suis disponible tous les jours du lundi au vendredi et les visites libres pourraient aussi se faire le samedi et dimanche. Je vous confirmerai les informations sur le premier appartement à visiter qui correspondra à vos attentes au Plaisir.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "收到对方找经纪人的请求；愿意与对方合作",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "收到对方找经纪人的请求；拒绝与对方开展合作",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "对方没有寻找经纪人；愿意与对方合作",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "对方没有寻找经纪人；拒绝与对方开展合作",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/C_N5_06_4bd958cb4b__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/C_N5_06_4bd958cb4b__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/C_N5_06_4bd958cb4b__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/C_N5_06_4bd958cb4b__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "CI_046",
+      "LS_046",
+      "RN_046",
+      "RN_096",
+      "LC_130",
+      "LC_131",
+      "LC_132"
+    ],
+    "audio_unit_id": "C_N5_06_4bd958cb4b",
+    "clip": {
+      "text": "suite à votre demande de recherche de courtier, je vous rappelle afin de vous dire que je serai ravie de faire affaire avec vous.",
+      "word_count": 24,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "N5_06",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_a29131418135",
+    "source_unit_id": "ST_N4_AI_P2",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_A29131418135",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_4",
+      "transcript_original": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires pour éviter des conséquences négatives.",
+      "transcript_normalized": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires pour éviter des conséquences négatives.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "认可人工智能的潜在好处；但担忧就业并要求监管",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "认可人工智能的潜在好处；因此完全不需要监管",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为人工智能毫无益处；但担忧就业并要求监管",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为人工智能毫无益处；因此完全不需要监管",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_a29131418135__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_a29131418135__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_a29131418135__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_a29131418135__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "ST_008",
+      "SR_008",
+      "LC_159",
+      "LC_160",
+      "LC_161"
+    ],
+    "audio_unit_id": "MI061_a29131418135",
+    "clip": {
+      "text": "Je reconnais les bénéfices potentiels de l'IA mais nous devons surveiller de près son influence sur l'emploi. Des régulations sont nécessaires",
+      "word_count": 21,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "ST_N4_AI_P2",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_f5263e183ca5",
+    "source_unit_id": "ST_N6_LEAVE_P1",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_F5263E183CA5",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_6",
+      "transcript_original": "Absolument pas, j'aime mon pays. Je sais qu'il n'est pas parfait mais comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+      "transcript_normalized": "Absolument pas, j'aime mon pays. Je sais qu'il n'est pas parfait mais comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "认为法国生活质量很好；因此完全不想离开",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "认为法国生活质量很好；因此决定马上离开",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为法国生活质量很差；因此完全不想离开",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为法国生活质量很差；因此决定马上离开",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_f5263e183ca5__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_f5263e183ca5__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_f5263e183ca5__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_f5263e183ca5__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "ST_016",
+      "SR_016",
+      "LC_176",
+      "LC_177"
+    ],
+    "audio_unit_id": "MI061_f5263e183ca5",
+    "clip": {
+      "text": "comparé à la plupart des pays du monde la qualité de vie est très bonne, je n'irais nulle part.",
+      "word_count": 19,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "ST_N6_LEAVE_P1",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_07bf58cccb5f",
+    "source_unit_id": "ST_N6_LEAVE_P2",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_07BF58CCCB5F",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_6",
+      "transcript_original": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs mais si j'en ai l'occasion, je le ferai peut-être.",
+      "transcript_normalized": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs mais si j'en ai l'occasion, je le ferai peut-être.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "对出国持矛盾态度；觉得外国未必更好",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "对出国持矛盾态度；认为国外一定更好",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "非常确定要马上出国；觉得外国未必更好",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "非常确定要马上出国；认为国外一定更好",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_07bf58cccb5f__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_07bf58cccb5f__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_07bf58cccb5f__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_07bf58cccb5f__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "ST_017",
+      "SR_017",
+      "LC_178",
+      "LC_179",
+      "LC_180"
+    ],
+    "audio_unit_id": "MI061_07bf58cccb5f",
+    "clip": {
+      "text": "Je suis mitigée en fait, je ne désire pas partir à tout prix et puis comme on dit l'herbe n'est pas plus verte ailleurs",
+      "word_count": 24,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "ST_N6_LEAVE_P2",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_8cb2245c9b27",
+    "source_unit_id": "ST_N6_LEAVE_P3",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_8CB2245C9B27",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_6",
+      "transcript_original": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française. Les gens sont trop fermés ici.",
+      "transcript_normalized": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française. Les gens sont trop fermés ici.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "很想离开法国；对当地人的心态很不满",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "很想离开法国；非常满意当地人的心态",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "很想一辈子留在法国；对当地人的心态很不满",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "很想一辈子留在法国；非常满意当地人的心态",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_8cb2245c9b27__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_8cb2245c9b27__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_8cb2245c9b27__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_8cb2245c9b27__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "ST_018",
+      "SR_018",
+      "LC_181"
+    ],
+    "audio_unit_id": "MI061_8cb2245c9b27",
+    "clip": {
+      "text": "C'est mon rêve. Si je pouvais, je partirais demain parce que franchement j'en peux plus de la mentalité française.",
+      "word_count": 19,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "ST_N6_LEAVE_P3",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_ce0fa2d803d1",
+    "source_unit_id": "X4_AI",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_CE0FA2D803D1",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_4",
+      "transcript_original": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises. On lui montre une image ; si elle répond mal, on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit par modification.",
+      "transcript_normalized": "Quand on veut entraîner une machine à reconnaître des objets dans les images, on lui montre des milliers d'images avec des chiens, des chats, des tables, des chaises. On lui montre une image ; si elle répond mal, on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit par modification.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "机器获得反馈后调整参数；这就是机器学习的方式",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "机器获得反馈后调整参数；机器学习不需要反馈",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "机器收到反馈也不调整；这就是机器学习的方式",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "机器收到反馈也不调整；机器学习不需要反馈",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_ce0fa2d803d1__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_ce0fa2d803d1__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_ce0fa2d803d1__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_ce0fa2d803d1__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "SM_1022",
+      "PX_1022",
+      "LG_1022",
+      "LC_214"
+    ],
+    "audio_unit_id": "MI061_ce0fa2d803d1",
+    "clip": {
+      "text": "on lui dit la bonne réponse et puis elle ajuste ses paramètres internes. C'est comme ça que l'apprentissage se produit",
+      "word_count": 20,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "X4_AI",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_ee06c6368a1c",
+    "source_unit_id": "X5_ORGANIC",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_EE06C6368A1C",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_5",
+      "transcript_original": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie. Les éleveurs de bovins ont vu le prix du lait chuter avec la crise ; certains ont décidé de passer au bio. Un agriculteur en a profité pour tripler la taille de son cheptel.",
+      "transcript_normalized": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie. Les éleveurs de bovins ont vu le prix du lait chuter avec la crise ; certains ont décidé de passer au bio. Un agriculteur en a profité pour tripler la taille de son cheptel.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "选择有机农业不只是为环保；还因为可能改善收入",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "选择有机农业不只是为环保；这样做完全不能赚钱",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "选择有机农业只为环保；还因为可能改善收入",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "选择有机农业只为环保；这样做完全不能赚钱",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_ee06c6368a1c__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_ee06c6368a1c__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_ee06c6368a1c__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_ee06c6368a1c__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "SM_1029",
+      "PX_1029",
+      "LG_1029",
+      "LC_224",
+      "LC_225",
+      "LC_226"
+    ],
+    "audio_unit_id": "MI061_ee06c6368a1c",
+    "clip": {
+      "text": "Le bio séduit de plus en plus d'agriculteurs, et pas seulement par conviction écologique. Beaucoup y voient un moyen de mieux gagner leur vie.",
+      "word_count": 24,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "X5_ORGANIC",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_6cd1cf6a776a",
+    "source_unit_id": "X6_BOUQUINISTES",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_6CD1CF6A776A",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "NEW",
+      "set": "NEW_6",
+      "transcript_original": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024. Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition pour les générations futures.",
+      "transcript_normalized": "Le président Macron a décidé de ne pas déloger les bouquinistes de Paris comme prévu initialement pour les Jeux Olympiques de 2024. Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition pour les générations futures.",
+      "verification_status": "visually_checked_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "这一决定经过数月争论；还强调必须保存传统",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "这一决定经过数月争论；决定应当彻底取消传统",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "这一决定没有经过讨论；还强调必须保存传统",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "这一决定没有经过讨论；决定应当彻底取消传统",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_6cd1cf6a776a__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_6cd1cf6a776a__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_6cd1cf6a776a__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_6cd1cf6a776a__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "SM_1034",
+      "PX_1034",
+      "LG_1034",
+      "LC_234",
+      "LC_235",
+      "LC_236"
+    ],
+    "audio_unit_id": "MI061_6cd1cf6a776a",
+    "clip": {
+      "text": "Cette décision fait suite à des mois de débats et de protestations. Il a souligné l'importance de préserver cette tradition",
+      "word_count": 20,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "X6_BOUQUINISTES",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_NEW",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_6e55468f8270",
+    "source_unit_id": "O06_989d13fc",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_6E55468F8270",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_2",
+      "source_page": 16,
+      "transcript_original": "En raison d’un début d'incendie dans la réserve, nous invitons notre clientèle à évacuer notre boutique, dans le calme, en rejoignant les issues de secours situées sur les côtés.",
+      "transcript_normalized": "En raison d’un début d'incendie dans la réserve, nous invitons notre clientèle à évacuer notre boutique, dans le calme, en rejoignant les issues de secours situées sur les côtés.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "储藏室发生初期火灾；要求顾客撤离商店",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "储藏室发生初期火灾；鼓励顾客继续购物",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "商店举办大型促销；要求顾客撤离商店",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "商店举办大型促销；鼓励顾客继续购物",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "En raison d’un début d'incendie dans la réserve, nous invitons notre clientèle à évacuer notre boutique",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "En raison d’un début d'incendie dans la réserve, nous invitons notre clientèle à évacuer notre boutique",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_6e55468f8270__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_6e55468f8270__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_6e55468f8270__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_6e55468f8270__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "LM06_0062_e2ed3",
+      "LM06_0063_3a035"
+    ],
+    "audio_unit_id": "MI061_6e55468f8270",
+    "clip": {
+      "text": "En raison d’un début d'incendie dans la réserve, nous invitons notre clientèle à évacuer notre boutique",
+      "word_count": 16,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_989d13fc",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_fd56ed353861",
+    "source_unit_id": "O06_7a03b039",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_FD56ED353861",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_1",
+      "source_page": 5,
+      "transcript_original": "Tu pourrais me rappeler au secrétariat dès que tu seras rentrée, pour me donner ta réponse ?",
+      "transcript_normalized": "Tu pourrais me rappeler au secrétariat dès que tu seras rentrée, pour me donner ta réponse ?",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "请对方回家后联系秘书处；以便告知自己的答复",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "请对方回家后联系秘书处；不需要对方做任何回复",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "要求对方马上去秘书处；以便告知自己的答复",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "要求对方马上去秘书处；不需要对方做任何回复",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Tu pourrais me rappeler au secrétariat dès que tu seras rentrée, pour me donner ta réponse",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Tu pourrais me rappeler au secrétariat dès que tu seras rentrée, pour me donner ta réponse",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_fd56ed353861__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_fd56ed353861__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_fd56ed353861__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_fd56ed353861__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "GM06_0003_7ef2f",
+      "LM06_0010_636b8",
+      "LM06_0016_649f7"
+    ],
+    "audio_unit_id": "MI061_fd56ed353861",
+    "clip": {
+      "text": "Tu pourrais me rappeler au secrétariat dès que tu seras rentrée, pour me donner ta réponse",
+      "word_count": 16,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_7a03b039",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_c34ddf95ebc3",
+    "source_unit_id": "O06_ecc5cddc",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_C34DDF95EBC3",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_6",
+      "source_page": 26,
+      "transcript_original": "Mais j’ai confiance et je veux croire, sincèrement, que nous trouverons ensemble une solution acceptable pour tous.",
+      "transcript_normalized": "Mais j’ai confiance et je veux croire, sincèrement, que nous trouverons ensemble une solution acceptable pour tous.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "对未来找到解决办法有信心；希望各方都能接受方案",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "对未来找到解决办法有信心；只考虑其中一方的利益",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为根本找不到任何办法；希望各方都能接受方案",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "认为根本找不到任何办法；只考虑其中一方的利益",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Mais j’ai confiance et je veux croire, sincèrement, que nous trouverons ensemble une solution acceptable pour tous.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Mais j’ai confiance et je veux croire, sincèrement, que nous trouverons ensemble une solution acceptable pour tous.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_c34ddf95ebc3__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_c34ddf95ebc3__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_c34ddf95ebc3__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_c34ddf95ebc3__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "LM06_0171_2720d",
+      "LM06_0512_ba2bd"
+    ],
+    "audio_unit_id": "MI061_c34ddf95ebc3",
+    "clip": {
+      "text": "Mais j’ai confiance et je veux croire, sincèrement, que nous trouverons ensemble une solution acceptable pour tous.",
+      "word_count": 17,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_ecc5cddc",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_460d2ff6f01a",
+    "source_unit_id": "O06_ed7f6525",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_460D2FF6F01A",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_4",
+      "source_page": 13,
+      "transcript_original": "Les scientifiques le supposaient depuis des années, mais maintenant on en est sûr : il y a bien de l'eau sur la planète Mars, plus exactement de la glace.",
+      "transcript_normalized": "Les scientifiques le supposaient depuis des années, mais maintenant on en est sûr : il y a bien de l'eau sur la planète Mars, plus exactement de la glace.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "科学家多年来推测火星有水；如今确认存在冰",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "科学家多年来推测火星有水；目前仍完全没有证据",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "科学家确认火星完全干燥；如今确认存在冰",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "科学家确认火星完全干燥；目前仍完全没有证据",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Les scientifiques le supposaient depuis des années, mais maintenant on en est sûr : il y a bien de l'eau sur la planète Mars, plus exactement de la glace.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Les scientifiques le supposaient depuis des années, mais maintenant on en est sûr : il y a bien de l'eau sur la planète Mars, plus exactement de la glace.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_460d2ff6f01a__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_460d2ff6f01a__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_460d2ff6f01a__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_460d2ff6f01a__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "LM06_0110_9d1de",
+      "LM06_0118_c6dd4",
+      "LM06_0119_9db0a"
+    ],
+    "audio_unit_id": "MI061_460d2ff6f01a",
+    "clip": {
+      "text": "Les scientifiques le supposaient depuis des années, mais maintenant on en est sûr : il y a bien de l'eau sur la planète Mars, plus exactement de la glace.",
+      "word_count": 29,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_ed7f6525",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_e6063aef6ffc",
+    "source_unit_id": "O06_013f6a88",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_E6063AEF6FFC",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_1",
+      "source_page": 27,
+      "transcript_original": "Donc, pour répondre à votre question, je dirais que non, je ne me sens pas complètement en sécurité.",
+      "transcript_normalized": "Donc, pour répondre à votre question, je dirais que non, je ne me sens pas complètement en sécurité.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "回应有关安全感的问题；表示自己并不完全安全",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "回应有关安全感的问题；表示自己绝对安全",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "拒绝讨论安全感问题；表示自己并不完全安全",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "拒绝讨论安全感问题；表示自己绝对安全",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "pour répondre à votre question, je dirais que non, je ne me sens pas complètement en sécurité.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "pour répondre à votre question, je dirais que non, je ne me sens pas complètement en sécurité.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_e6063aef6ffc__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_e6063aef6ffc__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_e6063aef6ffc__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_e6063aef6ffc__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "LM06_0020_67cc7",
+      "LM06_0028_2bab7",
+      "LM06_0029_0ac61"
+    ],
+    "audio_unit_id": "MI061_e6063aef6ffc",
+    "clip": {
+      "text": "pour répondre à votre question, je dirais que non, je ne me sens pas complètement en sécurité.",
+      "word_count": 17,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_013f6a88",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_8836143df5b9",
+    "source_unit_id": "O06_72b4a360",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_8836143DF5B9",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_9",
+      "source_page": 12,
+      "transcript_original": "Pour être en relation avec un vendeur, tapez 9, sinon pour des informations sur des horaires et le traffic, tapez étoile.",
+      "transcript_normalized": "Pour être en relation avec un vendeur, tapez 9, sinon pour des informations sur des horaires et le traffic, tapez étoile.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "按9可以联系销售人员；还可查询时间信息",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "按9可以联系销售人员；不提供任何时间信息",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "按9可以听天气预报；还可查询时间信息",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "按9可以听天气预报；不提供任何时间信息",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Pour être en relation avec un vendeur, tapez 9, sinon pour des informations sur des horaires et le traffic, tapez étoile.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Pour être en relation avec un vendeur, tapez 9, sinon pour des informations sur des horaires et le traffic, tapez étoile.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_8836143df5b9__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_8836143df5b9__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_8836143df5b9__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_8836143df5b9__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "VM06_0247_97556",
+      "LM06_0514_73123"
+    ],
+    "audio_unit_id": "MI061_8836143df5b9",
+    "clip": {
+      "text": "Pour être en relation avec un vendeur, tapez 9, sinon pour des informations sur des horaires et le traffic, tapez étoile.",
+      "word_count": 21,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_72b4a360",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_0703efbc957e",
+    "source_unit_id": "O06_bdcea031",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_0703EFBC957E",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_8",
+      "source_page": 16,
+      "transcript_original": "Pour être un invité modèle, il y a quelques règles de base et des savoir-vivre à retenir : 1, Soyez à l'heure.",
+      "transcript_normalized": "Pour être un invité modèle, il y a quelques règles de base et des savoir-vivre à retenir : 1, Soyez à l'heure.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "谈如何成为合格的客人；需要记住基本礼仪",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "谈如何成为合格的客人；所有礼仪都没有必要",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "谈如何做好餐厅服务员；需要记住基本礼仪",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "谈如何做好餐厅服务员；所有礼仪都没有必要",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Pour être un invité modèle, il y a quelques règles de base et des savoir-vivre à retenir",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Pour être un invité modèle, il y a quelques règles de base et des savoir-vivre à retenir",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_0703efbc957e__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_0703efbc957e__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_0703efbc957e__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_0703efbc957e__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "VM06_0227_a4be9",
+      "LM06_0229_f7604"
+    ],
+    "audio_unit_id": "MI061_0703efbc957e",
+    "clip": {
+      "text": "Pour être un invité modèle, il y a quelques règles de base et des savoir-vivre à retenir",
+      "word_count": 17,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_bdcea031",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_711280c5429f",
+    "source_unit_id": "O06_83de5d35",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_711280C5429F",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_5",
+      "source_page": 16,
+      "transcript_original": "Elle mélange la musique savante et l'inspiration populaire, elle privilégie les situations cocasses, elle ne se prend pas la tête, elle élève le coeur : c’est la zarzuela !",
+      "transcript_normalized": "Elle mélange la musique savante et l'inspiration populaire, elle privilégie les situations cocasses, elle ne se prend pas la tête, elle élève le coeur : c’est la zarzuela !",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "她融合了高雅音乐与民间灵感；她也偏爱幽默情景",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "她融合了高雅音乐与民间灵感；她完全拒绝任何幽默",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "她只使用传统古典音乐；她也偏爱幽默情景",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "她只使用传统古典音乐；她完全拒绝任何幽默",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Elle mélange la musique savante et l'inspiration populaire, elle privilégie les situations cocasses, elle ne se prend pas la tête",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Elle mélange la musique savante et l'inspiration populaire, elle privilégie les situations cocasses, elle ne se prend pas la tête",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_711280c5429f__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_711280c5429f__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_711280c5429f__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_711280c5429f__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "LM06_0135_06d69",
+      "LM06_0136_d22a4",
+      "LM06_0143_08cab"
+    ],
+    "audio_unit_id": "MI061_711280c5429f",
+    "clip": {
+      "text": "Elle mélange la musique savante et l'inspiration populaire, elle privilégie les situations cocasses, elle ne se prend pas la tête",
+      "word_count": 20,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_83de5d35",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_8e501194620d",
+    "source_unit_id": "O06_0392ae86",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_8E501194620D",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "OLD",
+      "set": "TEF_BEFORE_11",
+      "source_page": 1,
+      "transcript_original": "Voilà les quatre cadeaux merveilleux que je vous présente, il y a aussi d’autres cadeaux à votre choix.",
+      "transcript_normalized": "Voilà les quatre cadeaux merveilleux que je vous présente, il y a aussi d’autres cadeaux à votre choix.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "介绍四件礼物；还有其他礼物可供选择",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "介绍四件礼物；完全没有其他选择",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "只介绍唯一一件礼物；还有其他礼物可供选择",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "只介绍唯一一件礼物；完全没有其他选择",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Voilà les quatre cadeaux merveilleux que je vous présente, il y a aussi d’autres cadeaux à votre choix.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Voilà les quatre cadeaux merveilleux que je vous présente, il y a aussi d’autres cadeaux à votre choix.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_8e501194620d__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_8e501194620d__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_8e501194620d__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_8e501194620d__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "LM06_0300_9c76e",
+      "LM06_0301_15520"
+    ],
+    "audio_unit_id": "MI061_8e501194620d",
+    "clip": {
+      "text": "Voilà les quatre cadeaux merveilleux que je vous présente, il y a aussi d’autres cadeaux à votre choix.",
+      "word_count": 18,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "O06_0392ae86",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "AUTH_OLD",
+    "mine_subtype": "MESO_INTEGRATION_061"
+  },
+  {
+    "stimulus_id": "MI061_ccb1a6a74940",
+    "source_unit_id": "S06_e1cee1de",
+    "canonical_id": "TWO_PROPOSITION_INTEGRATION_CCB1A6A74940",
+    "module": "LANGUAGE_CHUNK",
+    "mode": "MESO",
+    "tier": "B",
+    "native": true,
+    "source": {
+      "corpus": "SIMULATED",
+      "set": "TEF_STI_6",
+      "source_page": 6,
+      "transcript_original": "Si vous voulez le renouveler, n'hésitez pas à nous rappeler au 13 44 16 78 53, nous sommes toujours à votre disposition.",
+      "transcript_normalized": "Si vous voulez le renouveler, n'hésitez pas à nous rappeler au 13 44 16 78 53, nous sommes toujours à votre disposition.",
+      "verification_status": "batch_ocr_from_user_screenshot"
+    },
+    "task_family": "two_proposition_native_comprehension",
+    "chunk_subtype": "STATE",
+    "prompt": "音频中的两项信息分别是什么？",
+    "answer_ui": "semantic_labels_zh",
+    "options": [
+      {
+        "text": "如果希望续订某项服务；可以打电话咨询",
+        "correct": true,
+        "error_tag": null
+      },
+      {
+        "text": "如果希望续订某项服务；禁止通过电话联系",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "服务已经自动完成续订；可以打电话咨询",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      },
+      {
+        "text": "服务已经自动完成续订；禁止通过电话联系",
+        "correct": false,
+        "error_tag": "TWO_DETAIL_TRAP"
+      }
+    ],
+    "answer_explanation": {
+      "key_span": "Si vous voulez le renouveler, n'hésitez pas à nous rappeler au 13 44 16 78 53, nous sommes toujours à votre disposition.",
+      "short_note": "需要同时辨认两个信息单元；干扰项会替换第一项或第二项。"
+    },
+    "behavior": {
+      "lock_until_audio_end": true,
+      "preread": false,
+      "shuffle_options": true,
+      "allow_replay": true,
+      "allow_reveal": true
+    },
+    "audio": {
+      "text": "Si vous voulez le renouveler, n'hésitez pas à nous rappeler au 13 44 16 78 53, nous sommes toujours à votre disposition.",
+      "variants": [
+        {
+          "voice": "female",
+          "speed": "normal",
+          "profile": "female_normal",
+          "path": "audio/clips/MI061_ccb1a6a74940__female_normal.mp3"
+        },
+        {
+          "voice": "female",
+          "speed": "fast",
+          "profile": "female_fast",
+          "path": "audio/clips/MI061_ccb1a6a74940__female_fast.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "normal",
+          "profile": "male_normal",
+          "path": "audio/clips/MI061_ccb1a6a74940__male_normal.mp3"
+        },
+        {
+          "voice": "male",
+          "speed": "fast",
+          "profile": "male_fast",
+          "path": "audio/clips/MI061_ccb1a6a74940__male_fast.mp3"
+        }
+      ]
+    },
+    "sibling_stimulus_ids": [
+      "LM06_0469_e9cef",
+      "LM06_0471_3ea4b"
+    ],
+    "audio_unit_id": "MI061_ccb1a6a74940",
+    "clip": {
+      "text": "Si vous voulez le renouveler, n'hésitez pas à nous rappeler au 13 44 16 78 53, nous sommes toujours à votre disposition.",
+      "word_count": 22,
+      "selection_method": "two_native_anchor_contiguous_union",
+      "parent_source_unit_id": "S06_e1cee1de",
+      "is_contiguous_excerpt": true,
+      "length_class": "MEDIUM"
+    },
+    "origin_type": "SIMULATED",
+    "mine_subtype": "MESO_INTEGRATION_061"
   }
 ]

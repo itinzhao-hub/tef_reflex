@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="theme-color" content="#111827" />
-  <title>TEF Reflex — Core 0.6</title>
+  <title>TEF Reflex — Core 0.6.1</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -12,7 +12,7 @@
   <div id="app">
     <header class="topbar">
       <div>
-        <div class="eyebrow">TEF REFLEX · CORE 0.6</div>
+        <div class="eyebrow">TEF REFLEX · CORE 0.6.1</div>
         <h1>听觉决策训练</h1>
       </div>
       <div class="top-actions">
@@ -93,7 +93,7 @@
         <div class="settings-grid">
           <label>模块
             <select id="moduleFilter">
-              <option value="ALL">全部混合（短反射主池）</option>
+              <option value="ALL">全部混合（短反射＋中等长度整合）</option>
               <option value="LANGUAGE_CHUNK">LANGUAGE_CHUNK</option>
               <option value="COMM_INTENT">COMM_INTENT</option>
               <option value="LOGIC_STATE">LOGIC_STATE</option>
@@ -138,7 +138,7 @@
           <label><input id="useFastTtsRandom" type="checkbox" checked /> 随机混入快速TTS（约1.15×）</label>
         </div>
         <div class="note-box">
-          默认“全部混合”现在只抽取短反射主池：LANGUAGE_CHUNK / VERB_FRAME / LOGIC_STATE / COMM_INTENT / STANCE。PARAPHRASE 与 SHORT_MID 保留为可选实验模块，但不会进入默认调度。播放过程中1–4按键不会提交答案；主RT只统计 <strong>First-pass correct</strong>。
+          默认“全部混合”以短反射为主，同时约22%抽取中等长度整合clip：LANGUAGE_CHUNK / VERB_FRAME / LOGIC_STATE / COMM_INTENT / STANCE。PARAPHRASE 与 SHORT_MID 保留为可选实验模块，但不会进入默认调度。播放过程中1–4按键不会提交答案；主RT只统计 <strong>First-pass correct</strong>。
         </div>
       </section>
     </main>

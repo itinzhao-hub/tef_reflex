@@ -470,9 +470,24 @@
     }
     const candidates=pool.filter(s=>!recentSourceConflict(s));
     const usable=candidates.length?candidates:pool;
-    const bucket=coverageBucket(usable);
+    const lengthPool=selectLengthLayer(usable);
+    const bucket=coverageBucket(lengthPool);
     const weighted=bucket.map(s=>({s,w:stimulusWeight(s)}));
     return weightedChoice(weighted);
+  }
+
+  // Default ALL pool only: balance short breadth exposure and medium integrative listening.
+  // Select length class BEFORE the coverage bucket; fallback never empties the pool.
+  function selectLengthLayer(pool){
+    if(settings.moduleFilter!=='ALL') return pool;
+    const mix=config?.scheduler?.length_mix;
+    if(!mix) return pool;
+    const threshold=mix.medium_if_words_at_least ?? 15;
+    const medium=pool.filter(s=>Number(s?.clip?.word_count ?? s?.audio?.text?.split(/\s+/)?.length ?? 0)>=threshold);
+    const short=pool.filter(s=>Number(s?.clip?.word_count ?? s?.audio?.text?.split(/\s+/)?.length ?? 0)<threshold);
+    if(!medium.length || !short.length) return pool;
+    const share=Math.min(1,Math.max(0,Number(mix.medium_share ?? .22)));
+    return Math.random()<share ? medium : short;
   }
 
   function buildAttemptCounts(arr){

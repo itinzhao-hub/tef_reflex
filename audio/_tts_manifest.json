@@ -51040,6 +51040,1366 @@
       "fingerprint": "f0d09b21a0a9d643c5e322cb57c3dccf5228160c0b6c2213870e3ea5c4e2623c",
       "bytes": 17664,
       "generated_at": "2026-10-07T17:37:27Z"
+    },
+    "audio/clips/MI061_cb1768f18650__female_normal.mp3": {
+      "audio_unit_id": "MI061_cb1768f18650",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "f2855c5f56468137a51add43631f1d63298a3715dfc248bf864ba0f082c2d45a",
+      "bytes": 49152,
+      "generated_at": "2026-10-09T17:57:05Z"
+    },
+    "audio/clips/MI061_cb1768f18650__female_fast.mp3": {
+      "audio_unit_id": "MI061_cb1768f18650",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "92dd99a33c6cb6d0776f30735d335e15dc7e7540b5b33d09ae919b3239354046",
+      "bytes": 44736,
+      "generated_at": "2026-10-09T17:57:05Z"
+    },
+    "audio/clips/MI061_cb1768f18650__male_normal.mp3": {
+      "audio_unit_id": "MI061_cb1768f18650",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "43657ca5d6bc73a551f4ed12e605b7daae21665fee4808c6a62bd99f964d5996",
+      "bytes": 46656,
+      "generated_at": "2026-10-09T17:57:06Z"
+    },
+    "audio/clips/MI061_cb1768f18650__male_fast.mp3": {
+      "audio_unit_id": "MI061_cb1768f18650",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "6dc91ef2b2cd72725117ba66d5e09691c80eca4f20bf3fd7f7ebe955d6ebfaaf",
+      "bytes": 42624,
+      "generated_at": "2026-10-09T17:57:07Z"
+    },
+    "audio/clips/MI061_3aa5f0d4111e__female_normal.mp3": {
+      "audio_unit_id": "MI061_3aa5f0d4111e",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "2c6d4d2661f5fa2ee6f2d4bae4e7ae3b88e1e6ecb0398b70cf089505139b5d8c",
+      "bytes": 53760,
+      "generated_at": "2026-10-09T17:57:07Z"
+    },
+    "audio/clips/MI061_3aa5f0d4111e__female_fast.mp3": {
+      "audio_unit_id": "MI061_3aa5f0d4111e",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "60c8145daae9847eb3bcf80679f70de2f3fbd972624b52794153f448c801152b",
+      "bytes": 49344,
+      "generated_at": "2026-10-09T17:57:08Z"
+    },
+    "audio/clips/MI061_3aa5f0d4111e__male_normal.mp3": {
+      "audio_unit_id": "MI061_3aa5f0d4111e",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "ebc5f66919b8f9b5c6f2b878d058f34b2016a5f0914f2cdd274706147c2cd7d5",
+      "bytes": 51264,
+      "generated_at": "2026-10-09T17:57:08Z"
+    },
+    "audio/clips/MI061_3aa5f0d4111e__male_fast.mp3": {
+      "audio_unit_id": "MI061_3aa5f0d4111e",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "9cc5d7fd251d25594e2e346455f144217c96cf3c1cf51ac683b2a952a7d262fb",
+      "bytes": 46848,
+      "generated_at": "2026-10-09T17:57:09Z"
+    },
+    "audio/clips/MI061_1b4443a562bc__female_normal.mp3": {
+      "audio_unit_id": "MI061_1b4443a562bc",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "6c51c6cbeb93663d36df4cb4d6a6d152fd6aeb2427033729153afec130f50cd2",
+      "bytes": 46464,
+      "generated_at": "2026-10-09T17:57:10Z"
+    },
+    "audio/clips/MI061_1b4443a562bc__female_fast.mp3": {
+      "audio_unit_id": "MI061_1b4443a562bc",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "834f1eb62cae9ccb7649864bb27aa8fc4f0f80dd699bedddd2c98b28d48b599e",
+      "bytes": 42240,
+      "generated_at": "2026-10-09T17:57:10Z"
+    },
+    "audio/clips/MI061_1b4443a562bc__male_normal.mp3": {
+      "audio_unit_id": "MI061_1b4443a562bc",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "69883adca0a0e8a7bc254ed8de0c4e88d29814f35f1f0ec287fbd46e36f3e8be",
+      "bytes": 43584,
+      "generated_at": "2026-10-09T17:57:10Z"
+    },
+    "audio/clips/MI061_1b4443a562bc__male_fast.mp3": {
+      "audio_unit_id": "MI061_1b4443a562bc",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "ebd0f0f1c28e77a5dc5a174d8e9f63a7af25289fec32c2cdcbfef18fd401c733",
+      "bytes": 39744,
+      "generated_at": "2026-10-09T17:57:11Z"
+    },
+    "audio/clips/MI061_58e913a0246a__female_normal.mp3": {
+      "audio_unit_id": "MI061_58e913a0246a",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "c94788d427c2433379b944f60231a5a5c1a6d31770e74266195f9a72523e7de2",
+      "bytes": 48192,
+      "generated_at": "2026-10-09T17:57:12Z"
+    },
+    "audio/clips/MI061_58e913a0246a__female_fast.mp3": {
+      "audio_unit_id": "MI061_58e913a0246a",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "f22bb578ffc07f8bcc567c00fffea66ba29cf48709d2591e6a26706da975d3d1",
+      "bytes": 43968,
+      "generated_at": "2026-10-09T17:57:12Z"
+    },
+    "audio/clips/MI061_58e913a0246a__male_normal.mp3": {
+      "audio_unit_id": "MI061_58e913a0246a",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "6a1005cd1e817c70b3920a60fa9b2a3f2f8042834cfe667913d0c955d21a2aa6",
+      "bytes": 45696,
+      "generated_at": "2026-10-09T17:57:13Z"
+    },
+    "audio/clips/MI061_58e913a0246a__male_fast.mp3": {
+      "audio_unit_id": "MI061_58e913a0246a",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "053d8e3db40f495d17bf2073653ef36d6db19c429d17a1205022d358f61a1e68",
+      "bytes": 41664,
+      "generated_at": "2026-10-09T17:57:13Z"
+    },
+    "audio/clips/MI061_63f518f43aba__female_normal.mp3": {
+      "audio_unit_id": "MI061_63f518f43aba",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "7b7e2854f5f2fa1f8fa77e04bf40b9843b8bdbcfd2cc651e0db7138305cb160e",
+      "bytes": 53184,
+      "generated_at": "2026-10-09T17:57:14Z"
+    },
+    "audio/clips/MI061_63f518f43aba__female_fast.mp3": {
+      "audio_unit_id": "MI061_63f518f43aba",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "46a087aeff10eee2c74f0369c5b2a9c5552061d5ab4b998ec1f9f026aa7372cc",
+      "bytes": 49152,
+      "generated_at": "2026-10-09T17:57:14Z"
+    },
+    "audio/clips/MI061_63f518f43aba__male_normal.mp3": {
+      "audio_unit_id": "MI061_63f518f43aba",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "ecc43f9b532ab4e1fb3fd55cca992cde1a695e01295d3f4c118d0613f6099508",
+      "bytes": 49920,
+      "generated_at": "2026-10-09T17:57:15Z"
+    },
+    "audio/clips/MI061_63f518f43aba__male_fast.mp3": {
+      "audio_unit_id": "MI061_63f518f43aba",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "599334dea8d16a807fc41359834d0acc7273db0a6dfda07647ab2b4fc30331f2",
+      "bytes": 45888,
+      "generated_at": "2026-10-09T17:57:15Z"
+    },
+    "audio/clips/MI061_ec665da0322f__female_normal.mp3": {
+      "audio_unit_id": "MI061_ec665da0322f",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "0cbcca88c41df4e4d2054f247e7e8c448ea9d6f2b3e00ba290e6656260934ce7",
+      "bytes": 54144,
+      "generated_at": "2026-10-09T17:57:16Z"
+    },
+    "audio/clips/MI061_ec665da0322f__female_fast.mp3": {
+      "audio_unit_id": "MI061_ec665da0322f",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "c5538e7ab36c54cf93ea339d7097113fc48953ab358c9f551307bace3e14c75f",
+      "bytes": 49344,
+      "generated_at": "2026-10-09T17:57:16Z"
+    },
+    "audio/clips/MI061_ec665da0322f__male_normal.mp3": {
+      "audio_unit_id": "MI061_ec665da0322f",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "e194807447ccd5406d2477c4f0d872730519e0d953d603f689c25f05f2f146b5",
+      "bytes": 51840,
+      "generated_at": "2026-10-09T17:57:17Z"
+    },
+    "audio/clips/MI061_ec665da0322f__male_fast.mp3": {
+      "audio_unit_id": "MI061_ec665da0322f",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "3216ed2c0640262b1eb23ff33290aff7e8b899503c9c2c5c343d506260c8a4e4",
+      "bytes": 47232,
+      "generated_at": "2026-10-09T17:57:17Z"
+    },
+    "audio/clips/MI061_806a1694f4e9__female_normal.mp3": {
+      "audio_unit_id": "MI061_806a1694f4e9",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "7d689b940e5ae9605855b300d64035d93a090f12edf75569592b927b6b9f64bd",
+      "bytes": 50688,
+      "generated_at": "2026-10-09T17:57:18Z"
+    },
+    "audio/clips/MI061_806a1694f4e9__female_fast.mp3": {
+      "audio_unit_id": "MI061_806a1694f4e9",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "e900bb14cc71fc8887d570637e4e8d53a8c011a99d1a2b813ac8851516f62531",
+      "bytes": 46080,
+      "generated_at": "2026-10-09T17:57:19Z"
+    },
+    "audio/clips/MI061_806a1694f4e9__male_normal.mp3": {
+      "audio_unit_id": "MI061_806a1694f4e9",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "995312ada2988d80509d6663ccbd3ab824c470dd9b30f3f324bf3624ba0e756b",
+      "bytes": 47232,
+      "generated_at": "2026-10-09T17:57:19Z"
+    },
+    "audio/clips/MI061_806a1694f4e9__male_fast.mp3": {
+      "audio_unit_id": "MI061_806a1694f4e9",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "6785fff38f5fbfdce5be63a5cab19bdcdac08798955909fc1187eb2456524011",
+      "bytes": 43200,
+      "generated_at": "2026-10-09T17:57:20Z"
+    },
+    "audio/clips/MI061_8bb2c0d8d0be__female_normal.mp3": {
+      "audio_unit_id": "MI061_8bb2c0d8d0be",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "7a61348efacea662c0071733bbd5d79b7eac32c092952e490cc503505cf5ee8d",
+      "bytes": 48384,
+      "generated_at": "2026-10-09T17:57:21Z"
+    },
+    "audio/clips/MI061_8bb2c0d8d0be__female_fast.mp3": {
+      "audio_unit_id": "MI061_8bb2c0d8d0be",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "f2a8bb4600734feafecc32221c599c84b998ac56e7142c6253bbf417882a6d01",
+      "bytes": 44160,
+      "generated_at": "2026-10-09T17:57:21Z"
+    },
+    "audio/clips/MI061_8bb2c0d8d0be__male_normal.mp3": {
+      "audio_unit_id": "MI061_8bb2c0d8d0be",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "6447a040ed0c154251fb073f45bcfb34e5d10f6cb820c4ac5b871de5714d4348",
+      "bytes": 45312,
+      "generated_at": "2026-10-09T17:57:22Z"
+    },
+    "audio/clips/MI061_8bb2c0d8d0be__male_fast.mp3": {
+      "audio_unit_id": "MI061_8bb2c0d8d0be",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "fd72ef2f5670a1887ae8445d0d9c65dcacbe6dab5e7497095d3ccc0694343c80",
+      "bytes": 41472,
+      "generated_at": "2026-10-09T17:57:22Z"
+    },
+    "audio/clips/MI061_9173576aae54__female_normal.mp3": {
+      "audio_unit_id": "MI061_9173576aae54",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "7674409864b75558d39ef31d7b2073bdc8f30727798b5bc39bd895d0a019a164",
+      "bytes": 52416,
+      "generated_at": "2026-10-09T17:57:23Z"
+    },
+    "audio/clips/MI061_9173576aae54__female_fast.mp3": {
+      "audio_unit_id": "MI061_9173576aae54",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "e67d2dcf3ba131042d40f767922d6086b4539e274836a60df0b90a317ba3b1d0",
+      "bytes": 47808,
+      "generated_at": "2026-10-09T17:57:24Z"
+    },
+    "audio/clips/MI061_9173576aae54__male_normal.mp3": {
+      "audio_unit_id": "MI061_9173576aae54",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "dbe5b46f2f9cab8ed736e58410f12ac328ed3189705b6efbae548e967abf0042",
+      "bytes": 49344,
+      "generated_at": "2026-10-09T17:57:24Z"
+    },
+    "audio/clips/MI061_9173576aae54__male_fast.mp3": {
+      "audio_unit_id": "MI061_9173576aae54",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "710eddfb2ab21d3e12ccdb823946414740d34564fe665f64f3356286c334c7a1",
+      "bytes": 44736,
+      "generated_at": "2026-10-09T17:57:25Z"
+    },
+    "audio/clips/MI061_a9fc0c56af86__female_normal.mp3": {
+      "audio_unit_id": "MI061_a9fc0c56af86",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "4d5d011db3d57c0fb7ffff8a2acecd71b864353f6a0ef83ac29582abd211caaa",
+      "bytes": 43776,
+      "generated_at": "2026-10-09T17:57:25Z"
+    },
+    "audio/clips/MI061_a9fc0c56af86__female_fast.mp3": {
+      "audio_unit_id": "MI061_a9fc0c56af86",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "2164de8c1dd53cd6f15aa869a5cbaa43c14ad5566f1c97aa730073d5ab339252",
+      "bytes": 40128,
+      "generated_at": "2026-10-09T17:57:26Z"
+    },
+    "audio/clips/MI061_a9fc0c56af86__male_normal.mp3": {
+      "audio_unit_id": "MI061_a9fc0c56af86",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "0b07b64fdfb6f0a4f8c540f1dd9d16d4d0a7bbc70395fa6d276d7a07af20393f",
+      "bytes": 41472,
+      "generated_at": "2026-10-09T17:57:26Z"
+    },
+    "audio/clips/MI061_a9fc0c56af86__male_fast.mp3": {
+      "audio_unit_id": "MI061_a9fc0c56af86",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "020d6aa039faf5feeeae97286d37844e0d01926ae50763702ac9a3221c37b9f8",
+      "bytes": 38016,
+      "generated_at": "2026-10-09T17:57:27Z"
+    },
+    "audio/clips/MI061_c769c984e67c__female_normal.mp3": {
+      "audio_unit_id": "MI061_c769c984e67c",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "f1d6ba9aecf1285495b7dcb71f9013588d57d6dd10ca80a0fb6e50e3ff13c8de",
+      "bytes": 53760,
+      "generated_at": "2026-10-09T17:57:27Z"
+    },
+    "audio/clips/MI061_c769c984e67c__female_fast.mp3": {
+      "audio_unit_id": "MI061_c769c984e67c",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "8c66eeb71c40a1552bca8efb568fbf6e9a0b35e39a52a54ff995aa472b85cbf7",
+      "bytes": 49152,
+      "generated_at": "2026-10-09T17:57:28Z"
+    },
+    "audio/clips/MI061_c769c984e67c__male_normal.mp3": {
+      "audio_unit_id": "MI061_c769c984e67c",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "d17f5e4a0ba7bdbafea2f18815f1ec9d16854cc339a19c5c90179812ede05577",
+      "bytes": 50688,
+      "generated_at": "2026-10-09T17:57:28Z"
+    },
+    "audio/clips/MI061_c769c984e67c__male_fast.mp3": {
+      "audio_unit_id": "MI061_c769c984e67c",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "7d7110f90b37a05e84405b14fff82bc78fc855dd875f94b3cc0f1c1a5f231cd5",
+      "bytes": 46080,
+      "generated_at": "2026-10-09T17:57:29Z"
+    },
+    "audio/clips/MI061_0043a7e3699f__female_normal.mp3": {
+      "audio_unit_id": "MI061_0043a7e3699f",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "af997fcd0181d22669a5cafcc134b53c8bfa592d2566d7d6fd32a8e1568510b4",
+      "bytes": 44928,
+      "generated_at": "2026-10-09T17:57:30Z"
+    },
+    "audio/clips/MI061_0043a7e3699f__female_fast.mp3": {
+      "audio_unit_id": "MI061_0043a7e3699f",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "6e67c13b65348259dce943dd6f494716ddd1e2211b98e59be921ffc641c2870f",
+      "bytes": 40896,
+      "generated_at": "2026-10-09T17:57:30Z"
+    },
+    "audio/clips/MI061_0043a7e3699f__male_normal.mp3": {
+      "audio_unit_id": "MI061_0043a7e3699f",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "963441f1e167b6db8f1d53c35a3237e69643721b2401629c35c7b1ba90fb5c79",
+      "bytes": 41472,
+      "generated_at": "2026-10-09T17:57:30Z"
+    },
+    "audio/clips/MI061_0043a7e3699f__male_fast.mp3": {
+      "audio_unit_id": "MI061_0043a7e3699f",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "cf2556c55dffe42cbbd786edff1aae37f738861300b79bcf45f5e885f3819640",
+      "bytes": 37824,
+      "generated_at": "2026-10-09T17:57:31Z"
+    },
+    "audio/clips/MI061_16e133dc5541__female_normal.mp3": {
+      "audio_unit_id": "MI061_16e133dc5541",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "f7ec760e74b5d9db1ff8fa0bc367a06d5a86a08b4e7a7edcac406aeb90f64e38",
+      "bytes": 38592,
+      "generated_at": "2026-10-09T17:57:32Z"
+    },
+    "audio/clips/MI061_16e133dc5541__female_fast.mp3": {
+      "audio_unit_id": "MI061_16e133dc5541",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "b2496ff820f11bf8fa799e90a5ad5b4b7e46f0f12508e905300a75701b433f6c",
+      "bytes": 35136,
+      "generated_at": "2026-10-09T17:57:32Z"
+    },
+    "audio/clips/MI061_16e133dc5541__male_normal.mp3": {
+      "audio_unit_id": "MI061_16e133dc5541",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "cd76d445fa07bdf1f05c46aa294bce1ef713916018bf75ea4a0ac6f2a6445dc6",
+      "bytes": 35904,
+      "generated_at": "2026-10-09T17:57:32Z"
+    },
+    "audio/clips/MI061_16e133dc5541__male_fast.mp3": {
+      "audio_unit_id": "MI061_16e133dc5541",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "ab7fdbb272cee929e6d073506252862c3916c2de112ee17633f9e5eded23ace1",
+      "bytes": 32832,
+      "generated_at": "2026-10-09T17:57:33Z"
+    },
+    "audio/clips/MI061_0b640c9b2e5d__female_normal.mp3": {
+      "audio_unit_id": "MI061_0b640c9b2e5d",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "98b6d6865c26cc6d3ac1df92639b08b5a9b32e4e8a40843f1b8347c94f906fc7",
+      "bytes": 51840,
+      "generated_at": "2026-10-09T17:57:34Z"
+    },
+    "audio/clips/MI061_0b640c9b2e5d__female_fast.mp3": {
+      "audio_unit_id": "MI061_0b640c9b2e5d",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "01bb5fa49c60e55d413356410fe3fe087e6a49d6310a5033b1f7fa6b4dd9b527",
+      "bytes": 48000,
+      "generated_at": "2026-10-09T17:57:34Z"
+    },
+    "audio/clips/MI061_0b640c9b2e5d__male_normal.mp3": {
+      "audio_unit_id": "MI061_0b640c9b2e5d",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "f0681ab7a23c9ee98adb5bc21af40b4a6178840077d963ed62c44618723dc9a9",
+      "bytes": 49152,
+      "generated_at": "2026-10-09T17:57:35Z"
+    },
+    "audio/clips/MI061_0b640c9b2e5d__male_fast.mp3": {
+      "audio_unit_id": "MI061_0b640c9b2e5d",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "7b536b6ae965c2cb2deaacc319892ba3b47996559d19c7409897ff690d83309e",
+      "bytes": 45312,
+      "generated_at": "2026-10-09T17:57:35Z"
+    },
+    "audio/clips/MI061_6843af21b0d1__female_normal.mp3": {
+      "audio_unit_id": "MI061_6843af21b0d1",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "cec1f571e6232f60d95554d5733753ecf4006b83ee3525b6900bf61b7ad2379b",
+      "bytes": 60480,
+      "generated_at": "2026-10-09T17:57:36Z"
+    },
+    "audio/clips/MI061_6843af21b0d1__female_fast.mp3": {
+      "audio_unit_id": "MI061_6843af21b0d1",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "c9537e8709a8bff4750b6209ec6fccd7131ba585496d436897bda9d6b7caa198",
+      "bytes": 55104,
+      "generated_at": "2026-10-09T17:57:37Z"
+    },
+    "audio/clips/MI061_6843af21b0d1__male_normal.mp3": {
+      "audio_unit_id": "MI061_6843af21b0d1",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "58aa499dde34950f980c9b0df362a6db40919524e05140613134cb138ce866cd",
+      "bytes": 57984,
+      "generated_at": "2026-10-09T17:57:37Z"
+    },
+    "audio/clips/MI061_6843af21b0d1__male_fast.mp3": {
+      "audio_unit_id": "MI061_6843af21b0d1",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "f90edfa84e03230ca74a6fbe302f1020951a466daf5704a0e668436fd97b847a",
+      "bytes": 52608,
+      "generated_at": "2026-10-09T17:57:38Z"
+    },
+    "audio/clips/MI061_54f7d93a2d74__female_normal.mp3": {
+      "audio_unit_id": "MI061_54f7d93a2d74",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "ed17960ee9bced3a907dd1be8a3735dfe2d652b95c02d0e1d806156da14cf710",
+      "bytes": 55872,
+      "generated_at": "2026-10-09T17:57:39Z"
+    },
+    "audio/clips/MI061_54f7d93a2d74__female_fast.mp3": {
+      "audio_unit_id": "MI061_54f7d93a2d74",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "eabbe6d84fb30cbeede2b72a9ec0c0b380413bf2e05989389cab7365b51761c0",
+      "bytes": 51264,
+      "generated_at": "2026-10-09T17:57:39Z"
+    },
+    "audio/clips/MI061_54f7d93a2d74__male_normal.mp3": {
+      "audio_unit_id": "MI061_54f7d93a2d74",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "b97519a48186d0aae000f150d25f271657d8a8e62f2915485dfe97844c7fd0ec",
+      "bytes": 52608,
+      "generated_at": "2026-10-09T17:57:40Z"
+    },
+    "audio/clips/MI061_54f7d93a2d74__male_fast.mp3": {
+      "audio_unit_id": "MI061_54f7d93a2d74",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "3a658cde12193c1edd1e4bac3ac196423e87a73b464def52c046939aba58254e",
+      "bytes": 48192,
+      "generated_at": "2026-10-09T17:57:40Z"
+    },
+    "audio/clips/MI061_16e0a15399f7__female_normal.mp3": {
+      "audio_unit_id": "MI061_16e0a15399f7",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "b29f4278aa348ea1564c89681533b1f51459ec0ae933e66107d7f00f206909f8",
+      "bytes": 42816,
+      "generated_at": "2026-10-09T17:57:41Z"
+    },
+    "audio/clips/MI061_16e0a15399f7__female_fast.mp3": {
+      "audio_unit_id": "MI061_16e0a15399f7",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "c6c8ffdd36b63b01ab293c1ad8bf5b8494211dfe4563e445600b23c853bfe31e",
+      "bytes": 39552,
+      "generated_at": "2026-10-09T17:57:41Z"
+    },
+    "audio/clips/MI061_16e0a15399f7__male_normal.mp3": {
+      "audio_unit_id": "MI061_16e0a15399f7",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "f25800820432e8fa8dcb004acb654023a5986a8b165588bb1985a4f3a36b7826",
+      "bytes": 40128,
+      "generated_at": "2026-10-09T17:57:42Z"
+    },
+    "audio/clips/MI061_16e0a15399f7__male_fast.mp3": {
+      "audio_unit_id": "MI061_16e0a15399f7",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "0cce80e954f7c3854b8f6aa3538e009348ca961546e7f36624e7021b83c1b35e",
+      "bytes": 36672,
+      "generated_at": "2026-10-09T17:57:42Z"
+    },
+    "audio/clips/MI061_a29131418135__female_normal.mp3": {
+      "audio_unit_id": "MI061_a29131418135",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "d74e3eb442b11d63a1cc2ff9781e3fef5c19e13cf1f42d0486b2c3c9bd890a89",
+      "bytes": 58560,
+      "generated_at": "2026-10-09T17:57:43Z"
+    },
+    "audio/clips/MI061_a29131418135__female_fast.mp3": {
+      "audio_unit_id": "MI061_a29131418135",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "5c9df1a71ccb73f6431d274633e04f4488f2f4069e03081e08e7960de6e1b0e7",
+      "bytes": 53568,
+      "generated_at": "2026-10-09T17:57:43Z"
+    },
+    "audio/clips/MI061_a29131418135__male_normal.mp3": {
+      "audio_unit_id": "MI061_a29131418135",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "1430ff4be4ac53f5391047d5bd5c6f61c5f2bfc32744a05074ea4b91ee69a3b8",
+      "bytes": 55104,
+      "generated_at": "2026-10-09T17:57:44Z"
+    },
+    "audio/clips/MI061_a29131418135__male_fast.mp3": {
+      "audio_unit_id": "MI061_a29131418135",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "1ba88560feb8eb7fb16ee016f7ae4b711d5b4a305fd369a96d048a556b06f01d",
+      "bytes": 50304,
+      "generated_at": "2026-10-09T17:57:45Z"
+    },
+    "audio/clips/MI061_f5263e183ca5__female_normal.mp3": {
+      "audio_unit_id": "MI061_f5263e183ca5",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "104fdb479616c6a5dad0aec7d5ca429194508ba63c955b68b34a4338423bc48a",
+      "bytes": 40320,
+      "generated_at": "2026-10-09T17:57:45Z"
+    },
+    "audio/clips/MI061_f5263e183ca5__female_fast.mp3": {
+      "audio_unit_id": "MI061_f5263e183ca5",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "254072b24b2f9e95a8435dc33dca6d83d3f542fbb920c57c93f559a1ea9b84d1",
+      "bytes": 36672,
+      "generated_at": "2026-10-09T17:57:45Z"
+    },
+    "audio/clips/MI061_f5263e183ca5__male_normal.mp3": {
+      "audio_unit_id": "MI061_f5263e183ca5",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "8485a86b0d32ef6ea0bb94cbcb34d85a4ead9ed703578ac4b8a4fe7de279f380",
+      "bytes": 38016,
+      "generated_at": "2026-10-09T17:57:46Z"
+    },
+    "audio/clips/MI061_f5263e183ca5__male_fast.mp3": {
+      "audio_unit_id": "MI061_f5263e183ca5",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "85e14412c6eebf60600fe7e68410bf942dcdf6bea8e3e919b89c82647040cd09",
+      "bytes": 34752,
+      "generated_at": "2026-10-09T17:57:47Z"
+    },
+    "audio/clips/MI061_07bf58cccb5f__female_normal.mp3": {
+      "audio_unit_id": "MI061_07bf58cccb5f",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "1b4524deec17b153ab53033c61b87d039c7d1e575c951b60336c4c249890adff",
+      "bytes": 46080,
+      "generated_at": "2026-10-09T17:57:47Z"
+    },
+    "audio/clips/MI061_07bf58cccb5f__female_fast.mp3": {
+      "audio_unit_id": "MI061_07bf58cccb5f",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "901c33fdbdd098a83f6fbab2ea9e41f5fd7e80b6be600d4b2f1d3c29f8f25c48",
+      "bytes": 42432,
+      "generated_at": "2026-10-09T17:57:47Z"
+    },
+    "audio/clips/MI061_07bf58cccb5f__male_normal.mp3": {
+      "audio_unit_id": "MI061_07bf58cccb5f",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "b12ce25fc63411d795bccd64e9ea12d40ed5a474b17f47397c0d48b4db9b4813",
+      "bytes": 43392,
+      "generated_at": "2026-10-09T17:57:48Z"
+    },
+    "audio/clips/MI061_07bf58cccb5f__male_fast.mp3": {
+      "audio_unit_id": "MI061_07bf58cccb5f",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "05e4e87d16f84dc82601fe4d8f329a4dce0ddb776ecb4278115e54a67d6c10f5",
+      "bytes": 40128,
+      "generated_at": "2026-10-09T17:57:48Z"
+    },
+    "audio/clips/MI061_8cb2245c9b27__female_normal.mp3": {
+      "audio_unit_id": "MI061_8cb2245c9b27",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "7f286b75f1e15ee83070e6cb95d5d6352332debf3a5eca2bf1695a72d2b0415a",
+      "bytes": 48000,
+      "generated_at": "2026-10-09T17:57:49Z"
+    },
+    "audio/clips/MI061_8cb2245c9b27__female_fast.mp3": {
+      "audio_unit_id": "MI061_8cb2245c9b27",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "444661d0e6e58534a3cb4a65807e414ad766bcd69f48694dd8dc03dd62823c42",
+      "bytes": 43584,
+      "generated_at": "2026-10-09T17:57:49Z"
+    },
+    "audio/clips/MI061_8cb2245c9b27__male_normal.mp3": {
+      "audio_unit_id": "MI061_8cb2245c9b27",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "e72386a70de9c2b1372536560866f441edb3677660ac8bd7745818cb720f7dd9",
+      "bytes": 44352,
+      "generated_at": "2026-10-09T17:57:50Z"
+    },
+    "audio/clips/MI061_8cb2245c9b27__male_fast.mp3": {
+      "audio_unit_id": "MI061_8cb2245c9b27",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "99c69e0e5c259882add8d9fe8cb4d3029b226dedd5197468456817096db27312",
+      "bytes": 40320,
+      "generated_at": "2026-10-09T17:57:50Z"
+    },
+    "audio/clips/MI061_ce0fa2d803d1__female_normal.mp3": {
+      "audio_unit_id": "MI061_ce0fa2d803d1",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "f16770623f981a19d8c55c950990933651b63be1557978ed2a655febd2f99b8f",
+      "bytes": 49728,
+      "generated_at": "2026-10-09T17:57:51Z"
+    },
+    "audio/clips/MI061_ce0fa2d803d1__female_fast.mp3": {
+      "audio_unit_id": "MI061_ce0fa2d803d1",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "64519f022c3ef0d0b524222a44c3a77278fc52ca80b3ed248d8303b8de65b8b7",
+      "bytes": 45696,
+      "generated_at": "2026-10-09T17:57:51Z"
+    },
+    "audio/clips/MI061_ce0fa2d803d1__male_normal.mp3": {
+      "audio_unit_id": "MI061_ce0fa2d803d1",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "72ba59c62d796ff3491ee7a198d4d31bbea1fcd250a9ceb1e0431d7d586aeeeb",
+      "bytes": 47040,
+      "generated_at": "2026-10-09T17:57:52Z"
+    },
+    "audio/clips/MI061_ce0fa2d803d1__male_fast.mp3": {
+      "audio_unit_id": "MI061_ce0fa2d803d1",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "c58da579d14c7d16ea4d7dd8b3992c9794ce1ab85cc2f8d64e762c6eec268967",
+      "bytes": 43008,
+      "generated_at": "2026-10-09T17:57:52Z"
+    },
+    "audio/clips/MI061_ee06c6368a1c__female_normal.mp3": {
+      "audio_unit_id": "MI061_ee06c6368a1c",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "3a868d8d6c2104393d2f2839b0488f46875eba2b407bbdd37c81d9bca537cf9d",
+      "bytes": 59136,
+      "generated_at": "2026-10-09T17:57:53Z"
+    },
+    "audio/clips/MI061_ee06c6368a1c__female_fast.mp3": {
+      "audio_unit_id": "MI061_ee06c6368a1c",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "08175dd324620cc5652510da6199f28d8a5d91e1352d3a9ac511ccef0e4f394b",
+      "bytes": 53760,
+      "generated_at": "2026-10-09T17:57:53Z"
+    },
+    "audio/clips/MI061_ee06c6368a1c__male_normal.mp3": {
+      "audio_unit_id": "MI061_ee06c6368a1c",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "2048a996a307d7e086f6dd5876d8dd2eb657d3724349090a4e9a833f098cdc91",
+      "bytes": 54912,
+      "generated_at": "2026-10-09T17:57:54Z"
+    },
+    "audio/clips/MI061_ee06c6368a1c__male_fast.mp3": {
+      "audio_unit_id": "MI061_ee06c6368a1c",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "721eff8ad74399fa130e7deaeaa1bbdb5887e420183cccc059569a5b42e2d6db",
+      "bytes": 50112,
+      "generated_at": "2026-10-09T17:57:55Z"
+    },
+    "audio/clips/MI061_6cd1cf6a776a__female_normal.mp3": {
+      "audio_unit_id": "MI061_6cd1cf6a776a",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "71120fc11c72b64af0fa8b08686e0cab2d213602eb093bb838499a5d81a3aaed",
+      "bytes": 52032,
+      "generated_at": "2026-10-09T17:57:56Z"
+    },
+    "audio/clips/MI061_6cd1cf6a776a__female_fast.mp3": {
+      "audio_unit_id": "MI061_6cd1cf6a776a",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "41545ff2f22890b9cc05ed4d6f7705cb1ac687f4abe7fb36866e94d7f6f72e30",
+      "bytes": 47616,
+      "generated_at": "2026-10-09T17:57:56Z"
+    },
+    "audio/clips/MI061_6cd1cf6a776a__male_normal.mp3": {
+      "audio_unit_id": "MI061_6cd1cf6a776a",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "b7492b006b83b2365615aa10d87e341f7c20170f8aef8e882c673e49e60e4983",
+      "bytes": 50304,
+      "generated_at": "2026-10-09T17:57:57Z"
+    },
+    "audio/clips/MI061_6cd1cf6a776a__male_fast.mp3": {
+      "audio_unit_id": "MI061_6cd1cf6a776a",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "b81bfbe9d173df8e018631fe01b0a90a386a44fea097352f699939cdca209efd",
+      "bytes": 46080,
+      "generated_at": "2026-10-09T17:57:57Z"
+    },
+    "audio/clips/MI061_6e55468f8270__female_normal.mp3": {
+      "audio_unit_id": "MI061_6e55468f8270",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "0bfe9208c20e52f631b5a997d6ef299cf150fd895d7f5954d6930a2e7080f789",
+      "bytes": 46272,
+      "generated_at": "2026-10-09T17:57:58Z"
+    },
+    "audio/clips/MI061_6e55468f8270__female_fast.mp3": {
+      "audio_unit_id": "MI061_6e55468f8270",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "54909e29a1bbebae295d360b958011ac1232a44f9090b36e32a07d1d2cd43fca",
+      "bytes": 42432,
+      "generated_at": "2026-10-09T17:57:58Z"
+    },
+    "audio/clips/MI061_6e55468f8270__male_normal.mp3": {
+      "audio_unit_id": "MI061_6e55468f8270",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "a7f49e1d11fe9c8eeeea4838cab2952d1882ee72131f442231e34aa8c400a934",
+      "bytes": 42624,
+      "generated_at": "2026-10-09T17:57:59Z"
+    },
+    "audio/clips/MI061_6e55468f8270__male_fast.mp3": {
+      "audio_unit_id": "MI061_6e55468f8270",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "c3a6090a87fa2f60b59f9327686adce0ed0738ebf54df61ac5315520ba89df30",
+      "bytes": 39360,
+      "generated_at": "2026-10-09T17:57:59Z"
+    },
+    "audio/clips/MI061_fd56ed353861__female_normal.mp3": {
+      "audio_unit_id": "MI061_fd56ed353861",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "49e20a2a830672cdc6e228fefedeb38526385c8bc1be5e6a238c981a33f6fc59",
+      "bytes": 38208,
+      "generated_at": "2026-10-09T17:57:59Z"
+    },
+    "audio/clips/MI061_fd56ed353861__female_fast.mp3": {
+      "audio_unit_id": "MI061_fd56ed353861",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "7e1d9be67d532ebeb0b98123e9fc551199a92593fad7c6be3e4baad3787de0b7",
+      "bytes": 35328,
+      "generated_at": "2026-10-09T17:58:00Z"
+    },
+    "audio/clips/MI061_fd56ed353861__male_normal.mp3": {
+      "audio_unit_id": "MI061_fd56ed353861",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "d31de7b1d8c2ca94186224d8fd70183ea8fc5052757068b8bd0eac43b81fbf4d",
+      "bytes": 35520,
+      "generated_at": "2026-10-09T17:58:00Z"
+    },
+    "audio/clips/MI061_fd56ed353861__male_fast.mp3": {
+      "audio_unit_id": "MI061_fd56ed353861",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "9129ecdd47de8caefa90120196e2474fed8b0ef91497f82210916d9e9be2419f",
+      "bytes": 33024,
+      "generated_at": "2026-10-09T17:58:01Z"
+    },
+    "audio/clips/MI061_c34ddf95ebc3__female_normal.mp3": {
+      "audio_unit_id": "MI061_c34ddf95ebc3",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "bf5adfeeee4a2aad2593c8ff98a6cb011299b317b75108bf105e98928f37ea13",
+      "bytes": 47616,
+      "generated_at": "2026-10-09T17:58:01Z"
+    },
+    "audio/clips/MI061_c34ddf95ebc3__female_fast.mp3": {
+      "audio_unit_id": "MI061_c34ddf95ebc3",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "e3230514e0eb7216e6e612766eba349a32b743088283b1cafd512b16362bc615",
+      "bytes": 43392,
+      "generated_at": "2026-10-09T17:58:01Z"
+    },
+    "audio/clips/MI061_c34ddf95ebc3__male_normal.mp3": {
+      "audio_unit_id": "MI061_c34ddf95ebc3",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "da60c5fe09751214b6c554a6f3b95779627118818cf97b6308d6143d85772930",
+      "bytes": 46272,
+      "generated_at": "2026-10-09T17:58:02Z"
+    },
+    "audio/clips/MI061_c34ddf95ebc3__male_fast.mp3": {
+      "audio_unit_id": "MI061_c34ddf95ebc3",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "4aea7b7710864f572963c65a84540601dae67d8a221e8036e1f97fc9b59b4081",
+      "bytes": 42048,
+      "generated_at": "2026-10-09T17:58:02Z"
+    },
+    "audio/clips/MI061_460d2ff6f01a__female_normal.mp3": {
+      "audio_unit_id": "MI061_460d2ff6f01a",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "bf9ca26b8a068de0708631eb61290bf93db5cbf534bf9f6df305efba965f6ea0",
+      "bytes": 62976,
+      "generated_at": "2026-10-09T17:58:03Z"
+    },
+    "audio/clips/MI061_460d2ff6f01a__female_fast.mp3": {
+      "audio_unit_id": "MI061_460d2ff6f01a",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "0d57afb749afb7ed1b483d07394ee70545da86c8a6bf700622713d57450e9165",
+      "bytes": 57216,
+      "generated_at": "2026-10-09T17:58:03Z"
+    },
+    "audio/clips/MI061_460d2ff6f01a__male_normal.mp3": {
+      "audio_unit_id": "MI061_460d2ff6f01a",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "fc5c3bef446f90dddd3a579f916c490af1d702d1536f1089fd377015f51d53e7",
+      "bytes": 58752,
+      "generated_at": "2026-10-09T17:58:04Z"
+    },
+    "audio/clips/MI061_460d2ff6f01a__male_fast.mp3": {
+      "audio_unit_id": "MI061_460d2ff6f01a",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "68f6940eea886ac9076b62667d520cd636bce36f0faf8007fbe3260a7fff2b13",
+      "bytes": 53568,
+      "generated_at": "2026-10-09T17:58:04Z"
+    },
+    "audio/clips/MI061_e6063aef6ffc__female_normal.mp3": {
+      "audio_unit_id": "MI061_e6063aef6ffc",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "d17fcc3086e467f9d4e75272032568f165c75ee5fcc6d414992d1bc2281ea6ee",
+      "bytes": 40704,
+      "generated_at": "2026-10-09T17:58:05Z"
+    },
+    "audio/clips/MI061_e6063aef6ffc__female_fast.mp3": {
+      "audio_unit_id": "MI061_e6063aef6ffc",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "5223d032e193a05cd4025e657e5312f84962c9c0744325400a4173c538de92dd",
+      "bytes": 36864,
+      "generated_at": "2026-10-09T17:58:05Z"
+    },
+    "audio/clips/MI061_e6063aef6ffc__male_normal.mp3": {
+      "audio_unit_id": "MI061_e6063aef6ffc",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "1623cd486159a4fc1234b69b1d6fdc4f38e0d54f852ffeec892a4e9b10b4e094",
+      "bytes": 37824,
+      "generated_at": "2026-10-09T17:58:06Z"
+    },
+    "audio/clips/MI061_e6063aef6ffc__male_fast.mp3": {
+      "audio_unit_id": "MI061_e6063aef6ffc",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "3f5ff4cff3a35581c739faee09278050aba34f7e920eee2e4eb2d0509e704005",
+      "bytes": 34560,
+      "generated_at": "2026-10-09T17:58:06Z"
+    },
+    "audio/clips/MI061_8836143df5b9__female_normal.mp3": {
+      "audio_unit_id": "MI061_8836143df5b9",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "4d8e0555b2899e6bcc7583546134f782a1a5f64d59bd70509f9ad8e3662448fe",
+      "bytes": 57600,
+      "generated_at": "2026-10-09T17:58:07Z"
+    },
+    "audio/clips/MI061_8836143df5b9__female_fast.mp3": {
+      "audio_unit_id": "MI061_8836143df5b9",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "9458f5424bd2266f4d9a20c10d2244492c80c81e5e8c19579dba2ba9fea6563e",
+      "bytes": 52608,
+      "generated_at": "2026-10-09T17:58:07Z"
+    },
+    "audio/clips/MI061_8836143df5b9__male_normal.mp3": {
+      "audio_unit_id": "MI061_8836143df5b9",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "e77790248077dd0490691cbb4b9fa6a1d7ddbd3a3b1254b4fa9cdfc03bcdbdee",
+      "bytes": 53184,
+      "generated_at": "2026-10-09T17:58:07Z"
+    },
+    "audio/clips/MI061_8836143df5b9__male_fast.mp3": {
+      "audio_unit_id": "MI061_8836143df5b9",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "dc14755570a17d89fefb763111b6cb6eaa1d4500fb427015de6a03ed41557fa6",
+      "bytes": 48192,
+      "generated_at": "2026-10-09T17:58:08Z"
+    },
+    "audio/clips/MI061_0703efbc957e__female_normal.mp3": {
+      "audio_unit_id": "MI061_0703efbc957e",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "ce805cca4c1fa66c52e609a9226c2544815cba88bbaeb569bbfe63d7222ca99a",
+      "bytes": 40128,
+      "generated_at": "2026-10-09T17:58:08Z"
+    },
+    "audio/clips/MI061_0703efbc957e__female_fast.mp3": {
+      "audio_unit_id": "MI061_0703efbc957e",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "c9e5e78fc9d6b5b538b347e88d413e3a9eee9d128f62104456eaf851e1220118",
+      "bytes": 36864,
+      "generated_at": "2026-10-09T17:58:09Z"
+    },
+    "audio/clips/MI061_0703efbc957e__male_normal.mp3": {
+      "audio_unit_id": "MI061_0703efbc957e",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "d2c4377585f090d7d521f9037d7e82edca58bafa7e6772c0ee79f366541f0cf6",
+      "bytes": 37248,
+      "generated_at": "2026-10-09T17:58:09Z"
+    },
+    "audio/clips/MI061_0703efbc957e__male_fast.mp3": {
+      "audio_unit_id": "MI061_0703efbc957e",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "365eb956d6da5e17378b85c05ee624619e366ba6d4ed92a5c6b9a15634eac6ca",
+      "bytes": 34368,
+      "generated_at": "2026-10-09T17:58:10Z"
+    },
+    "audio/clips/MI061_711280c5429f__female_normal.mp3": {
+      "audio_unit_id": "MI061_711280c5429f",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "87d6a5201c7ebd76acf3b0b9804b33958e2f6da0d4c77ec54ab9ab4bd806a491",
+      "bytes": 56448,
+      "generated_at": "2026-10-09T17:58:10Z"
+    },
+    "audio/clips/MI061_711280c5429f__female_fast.mp3": {
+      "audio_unit_id": "MI061_711280c5429f",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "7d759097c64d7bbeeb1283c2851c17fcd942d3e7e2d38c11d2eb81a438b750a1",
+      "bytes": 51840,
+      "generated_at": "2026-10-09T17:58:11Z"
+    },
+    "audio/clips/MI061_711280c5429f__male_normal.mp3": {
+      "audio_unit_id": "MI061_711280c5429f",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "236c5b40b46ee97ce02f8dedf5592476aa8174d2cc6f69744c74a1587d621b95",
+      "bytes": 52608,
+      "generated_at": "2026-10-09T17:58:11Z"
+    },
+    "audio/clips/MI061_711280c5429f__male_fast.mp3": {
+      "audio_unit_id": "MI061_711280c5429f",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "0ba563ecd7c0638a8198bf70729891fc56ca540f381fb87b22c5bca55ef94937",
+      "bytes": 48384,
+      "generated_at": "2026-10-09T17:58:12Z"
+    },
+    "audio/clips/MI061_8e501194620d__female_normal.mp3": {
+      "audio_unit_id": "MI061_8e501194620d",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "a4e8197eb42c9bf6a2f79e1926141b48005857f2998761349a45671f99dc6234",
+      "bytes": 39552,
+      "generated_at": "2026-10-09T17:58:12Z"
+    },
+    "audio/clips/MI061_8e501194620d__female_fast.mp3": {
+      "audio_unit_id": "MI061_8e501194620d",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "14a58e7891ae0f673e36aae0e4dd7e6b06d3468bc18911035e41889c34105d03",
+      "bytes": 35904,
+      "generated_at": "2026-10-09T17:58:13Z"
+    },
+    "audio/clips/MI061_8e501194620d__male_normal.mp3": {
+      "audio_unit_id": "MI061_8e501194620d",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "8583795888d4196ecc81b75a8ad4c8eb824d27c14982912cd324feb85599379c",
+      "bytes": 37248,
+      "generated_at": "2026-10-09T17:58:13Z"
+    },
+    "audio/clips/MI061_8e501194620d__male_fast.mp3": {
+      "audio_unit_id": "MI061_8e501194620d",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "bc4f27ba233321e9769a0e129118bd5b7282ba8b26a78199397954ce1f4ba943",
+      "bytes": 33984,
+      "generated_at": "2026-10-09T17:58:13Z"
+    },
+    "audio/clips/MI061_ccb1a6a74940__female_normal.mp3": {
+      "audio_unit_id": "MI061_ccb1a6a74940",
+      "profile": "female_normal",
+      "voice": "fr-FR-Wavenet-F",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "5df7170274a451446bd97133159d244575fd5bbc9bdbca1de611a4e4cb492df4",
+      "bytes": 73152,
+      "generated_at": "2026-10-09T17:58:14Z"
+    },
+    "audio/clips/MI061_ccb1a6a74940__female_fast.mp3": {
+      "audio_unit_id": "MI061_ccb1a6a74940",
+      "profile": "female_fast",
+      "voice": "fr-FR-Neural2-F",
+      "speaking_rate": 1.1,
+      "pitch": -0.8,
+      "fingerprint": "98578526e3337c14c25dd8722dbba80d52f6d8860e45e3c054f1e9427a5dbd2a",
+      "bytes": 66432,
+      "generated_at": "2026-10-09T17:58:14Z"
+    },
+    "audio/clips/MI061_ccb1a6a74940__male_normal.mp3": {
+      "audio_unit_id": "MI061_ccb1a6a74940",
+      "profile": "male_normal",
+      "voice": "fr-FR-Neural2-G",
+      "speaking_rate": 1.0,
+      "pitch": 0.0,
+      "fingerprint": "6f4add7abfbb45cce7c44d336f043f592f6edb458e335e71420b4d215e2e2c69",
+      "bytes": 67008,
+      "generated_at": "2026-10-09T17:58:15Z"
+    },
+    "audio/clips/MI061_ccb1a6a74940__male_fast.mp3": {
+      "audio_unit_id": "MI061_ccb1a6a74940",
+      "profile": "male_fast",
+      "voice": "fr-FR-Wavenet-G",
+      "speaking_rate": 1.1,
+      "pitch": 0.8,
+      "fingerprint": "70ba5c5b9da3e6d3a560bfe298f45a76404b7670ef6dc13619ebbd6ff9631f7e",
+      "bytes": 61056,
+      "generated_at": "2026-10-09T17:58:16Z"
     }
   }
 }
